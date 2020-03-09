@@ -22,6 +22,6 @@ module.exports = (app) => {
     .get(serviceController.getServices)
     .post(serviceController.addService)
 
-    /*app.route('/checksubscriptions')
-    .post(thirdPartyServiceController.checkSubscriptions);*/
+    app.route('/checksubscriptions')
+    .post(serviceController.checkSubscriptions);
   };

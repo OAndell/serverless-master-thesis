@@ -1,4 +1,9 @@
-const ServiceModel = require('../models/thirdPartyServiceModel')
+const fetch = require('node-fetch');
+const distanceCalculator = require('../util/distanceCalculator');
+const UserModel = require('../models/userModel');
+const ServiceModel = require('../models/thirdPartyServiceModel');
+
+const service1 = require('../thirdPartyServices/service1')
 
 
 exports.addService = async function(req, res) {
@@ -18,3 +23,33 @@ exports.getServices = async function(req, res) {
     res.status(200).send(result);
 
 };
+
+exports.checkSubscriptions = async (req, res) => {
+
+    let userID =  req.body.userID;
+    let userPosistion = req.body.position;
+    let subscriptions = (await UserModel.findOne({"id":userID})).subscriptions
+  
+    const responseArray = await subscriptions.map(async subscription => {
+        let service = await ServiceModel.findOne({"id":subscription.id });
+        if(distanceCalculator.calculateDistance(userPosistion, service.position) < subscription.settings.distance){
+            if(service.id == 0){
+
+            }
+            if(service.id == 1){
+                service1.handle(userPosistion, subscription.settings);
+            }
+            //...
+            else{ 
+                return null
+            }
+         }
+    });
+
+    const response = await Promise.all(responseArray)
+    console.log("responseArr", response);
+    //loop and send in posisiton. 
+    res.send(response);
+
+    //return notificaion if hit. 
+}
