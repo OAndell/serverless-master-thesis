@@ -10,9 +10,8 @@ module.exports.checkSubscriptions = async function(context, req) {
 
     let userID =  req.body.userID;
     let userPosistion = req.body.position;
-
     let subscriptions = (await UserModel.findOne({"id":userID})).subscriptions
-
+    
     const responseArray = await subscriptions.map(async subscription => {
         let service = await ServiceModel.findOne({"id":subscription.id });
        
