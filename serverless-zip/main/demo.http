@@ -31,8 +31,8 @@ Content-Type: application/json
         "long": 0
     },
     "active":true,
-    "settings": ["Distance", "Queuetime"],
-    "endpointURL": "http://localhost:7071/api/getServices"
+    "settings": ["distance", "quetime"],
+    "endpointURL": "http://localhost:7071/api/service1"
 }
 ### Scenario Start 
 
@@ -55,7 +55,7 @@ Content-Type: application/json
    "userID":6,
    "serviceObj": {
        "id": 1,
-       "settings": {"random": 332,  "some text": "dsad"}
+       "settings": {"distance": 100,  "queuetime": 5}
    }
 }
 ###
@@ -67,7 +67,7 @@ Content-Type: application/json
 {
    "userID":6,
    "position": {
-        "lat": 0,
+        "lat": 0.5,
         "long": 0
     }
 }

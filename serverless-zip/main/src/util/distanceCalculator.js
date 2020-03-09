@@ -13,7 +13,8 @@ module.exports.calculateDistance = function(posistion1, posistion2){
 		Math.sin(dLon/2) * Math.sin(dLon/2);
 	var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
 	var d = R * c;
-	if (d>1) return Math.round(d)+"km";
-	else if (d<=1) return Math.round(d*1000)+"m";
-	return d;
+	return Math.round(d) 
+//	if (d>1) return Math.round(d)+"km";
+//	else if (d<=1) return Math.round(d*1000)+"m";
+//	return d;
 };
