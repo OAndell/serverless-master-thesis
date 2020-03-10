@@ -1,0 +1,13 @@
+config:
+    target: http://localhost:7071/api
+    phases:
+      - duration: 1
+        arrivalRate: 1
+        name: "1"
+scenarios:
+    - flow:
+        - get:
+            url: "/getServices"
+            #capture:
+            #    json: "$[0].id"
+            #    as: "serviceID"        

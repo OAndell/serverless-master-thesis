@@ -1,0 +1,39 @@
+config:
+    target: http://localhost:7071/api
+    plugins:
+        metrics-by-endpoint: {}
+    phases:
+      - duration: 1
+        arrivalRate: 1
+        name: "1"
+scenarios:
+    - flow:
+        - post: 
+            url : "/login" 
+            json: 
+                email : "serverless@example.com"
+                password :  "serverless"
+           # capture: 
+            #    json: §.id
+             #   as: userID
+        - get:
+            url: "/getServices"
+            #capture:
+            #    json: "$[0].id"
+            #    as: "serviceID"
+        - post:       
+            url: "/subscribe" 
+            json: 
+                userID : 6
+                serviceObj: 
+                    id: 1
+                    settings: 
+                        queuetime: 5
+                        some text": 2
+        - post:       
+            url: "/checkSubscriptions" 
+            json: 
+                userID : 6
+                posistion : 
+                    long: 0
+                    lat: 0
