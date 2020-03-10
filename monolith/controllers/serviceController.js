@@ -37,7 +37,7 @@ exports.checkSubscriptions = async (req, res) => {
 
             }
             if(service.id == 1){
-                service1.handle(userPosistion, subscription.settings);
+                return service1.handle(userPosistion, subscription.settings);
             }
             //...
             else{ 

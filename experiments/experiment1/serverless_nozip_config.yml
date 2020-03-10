@@ -1,0 +1,8 @@
+config:
+    target: https://sls-weur-dev-serverless-implementation.azurewebsites.net
+    plugins:
+      metrics-by-endpoint: {}
+    phases:
+      - duration: 1
+        arrivalRate: 1
+        name: "1"
