@@ -29,40 +29,54 @@ results_dict = open_results()
 while True:
 
     #Record Cold-start
-    subprocess.run(['artillery run --config serverless_nozip_config.yml scenario2.yml -o output.json'], shell=True, stdout=subprocess.PIPE)
+    subprocess.run(['artillery run --config serverless_nozip_config.yml scenario1.yml -o output.json'], shell=True, stdout=subprocess.PIPE)
     output = open_artillery_output()
     results_dict = insert_value("coldstart_nozip", results_dict, output)
     save_results(results_dict)
+
+    print("coldstart_nozip")
     
-    time.sleep(5)
+    time.sleep(60)
     #Record Warm-start
-    subprocess.run(['artillery run --config serverless_nozip_config.yml scenario2.yml -o output.json'], shell=True, stdout=subprocess.PIPE)
+    subprocess.run(['artillery run --config serverless_nozip_config.yml scenario1.yml -o output.json'], shell=True, stdout=subprocess.PIPE)
     output = open_artillery_output()
     results_dict = insert_value("warmstart_nozip", results_dict, output)
     save_results(results_dict)
 
+    print("warmstart_nozip")
 
-    time.sleep(5)
+
+    time.sleep(60)
      #Record cold-start
-    subprocess.run(['artillery run --config serverless_zip_config.yml scenario2.yml -o output.json'], shell=True, stdout=subprocess.PIPE)
+    subprocess.run(['artillery run --config serverless_zip_config.yml scenario1.yml -o output.json'], shell=True, stdout=subprocess.PIPE)
     output = open_artillery_output()
     results_dict = insert_value("coldstart_zip", results_dict, output)
     save_results(results_dict)
 
+    print("coldstart_zip")
 
-    time.sleep(5)
+    time.sleep(60)
     #Record cold-start
-    subprocess.run(['artillery run --config serverless_zip_config.yml scenario2.yml -o output.json'], shell=True, stdout=subprocess.PIPE)
+    subprocess.run(['artillery run --config serverless_zip_config.yml scenario1.yml -o output.json'], shell=True, stdout=subprocess.PIPE)
     output = open_artillery_output()
     results_dict = insert_value("warmstart_zip", results_dict, output)
     save_results(results_dict)
 
-    time.sleep(5)
+    print("warmstart_zip")
+
+
+    time.sleep(60)
     #Record Monolith
-    subprocess.run(['artillery run --config mono_config.yml scenario2_mono.yml -o output.json'], shell=True, stdout=subprocess.PIPE)
+    subprocess.run(['artillery run --config mono_config.yml scenario1_mono.yml -o output.json'], shell=True, stdout=subprocess.PIPE)
     output = open_artillery_output()
     results_dict = insert_value("monolith", results_dict, output)
     save_results(results_dict)
-    time.sleep(30)
+
+    print("monolith")
+
+
+    print("waiting")
+    time.sleep(1560)
+
 
 

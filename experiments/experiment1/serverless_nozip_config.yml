@@ -1,5 +1,5 @@
 config:
-    target: https://sls-weur-dev-serverless-implementation.azurewebsites.net
+    target: https://sls-weur-dev-serverless-implementation.azurewebsites.net/api
     plugins:
       metrics-by-endpoint: {}
     phases:

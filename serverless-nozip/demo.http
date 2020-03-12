@@ -1,0 +1,74 @@
+POST http://localhost:7071/api/createUser HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": {
+        "firstname": "Serverlxess1", 
+        "lastname": "Serverless1"
+    },
+    "status": 100,
+    "position": {
+      "timestamp": 1582793116170,
+      "lat": 56,
+      "long": 55
+    },
+    "subscriptions": [],
+    "id": 6,
+    "email": "serverless@example.com",
+    "password": "serverless"
+}
+### 
+
+POST http://localhost:7071/api/addService HTTP/1.1
+Content-Type: application/json
+
+{
+   "id": 1,
+   "serviceName" : "Service1",
+   "description" : "This is a service that does X",
+   "position": {
+        "lat": 0,
+        "long": 0
+    },
+    "active":true,
+    "settings": ["Distance", "Queuetime"],
+    "endpointURL": "http://localhost:7071/api/getServices"
+}
+### Scenario Start 
+
+POST http://localhost:7071/api/login HTTP/1.1
+Content-Type: application/json
+
+{
+    "email" : "serverless@example.com",
+    "password": "serverless"
+}
+
+###
+GET http://localhost:7071/api/getServices HTTP/1.1
+
+###
+POST http://localhost:7071/api/subscribe HTTP/1.1
+Content-Type: application/json
+
+{
+   "userID":6,
+   "serviceObj": {
+       "id": 1,
+       "settings": {"random": 332,  "some text": "dsad"}
+   }
+}
+###
+
+###
+POST http://localhost:7071/api/checkSubscriptions HTTP/1.1
+Content-Type: application/json
+
+{
+   "userID":6,
+   "position": {
+        "lat": 0,
+        "long": 0
+    }
+}
+###
