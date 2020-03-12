@@ -12,6 +12,32 @@
                     "p99": 420
                 }
             }
+        },
+        {
+            "timestamp": "2020-03-12T14:43:07.237Z",
+            "scenario_duration": 6772.8,
+            "rt_endpoint": {
+                "/api/getServices": {
+                    "min": 6770,
+                    "max": 6770,
+                    "median": 6770,
+                    "p95": 6770,
+                    "p99": 6770
+                }
+            }
+        },
+        {
+            "timestamp": "2020-03-12T14:50:14.419Z",
+            "scenario_duration": 432.6,
+            "rt_endpoint": {
+                "/api/getServices": {
+                    "min": 429,
+                    "max": 429,
+                    "median": 429,
+                    "p95": 429,
+                    "p99": 429
+                }
+            }
         }
     ],
     "warmstart_nozip": [
@@ -25,6 +51,32 @@
                     "median": 364,
                     "p95": 364,
                     "p99": 364
+                }
+            }
+        },
+        {
+            "timestamp": "2020-03-12T14:44:09.991Z",
+            "scenario_duration": 508,
+            "rt_endpoint": {
+                "/api/getServices": {
+                    "min": 505,
+                    "max": 505,
+                    "median": 505,
+                    "p95": 505,
+                    "p99": 505
+                }
+            }
+        },
+        {
+            "timestamp": "2020-03-12T14:51:17.287Z",
+            "scenario_duration": 745.4,
+            "rt_endpoint": {
+                "/api/getServices": {
+                    "min": 742,
+                    "max": 742,
+                    "median": 742,
+                    "p95": 742,
+                    "p99": 742
                 }
             }
         }
@@ -42,6 +94,32 @@
                     "p99": 498
                 }
             }
+        },
+        {
+            "timestamp": "2020-03-12T14:47:08.469Z",
+            "scenario_duration": 116094.7,
+            "rt_endpoint": {
+                "/api/getServices": {
+                    "min": 116095,
+                    "max": 116095,
+                    "median": 116095,
+                    "p95": 116095,
+                    "p99": 116095
+                }
+            }
+        },
+        {
+            "timestamp": "2020-03-12T14:52:19.609Z",
+            "scenario_duration": 481.5,
+            "rt_endpoint": {
+                "/api/getServices": {
+                    "min": 479,
+                    "max": 479,
+                    "median": 479,
+                    "p95": 479,
+                    "p99": 479
+                }
+            }
         }
     ],
     "warmstart_zip": [
@@ -57,7 +135,73 @@
                     "p99": 428
                 }
             }
+        },
+        {
+            "timestamp": "2020-03-12T14:48:11.667Z",
+            "scenario_duration": 529.9,
+            "rt_endpoint": {
+                "/api/getServices": {
+                    "min": 526,
+                    "max": 526,
+                    "median": 526,
+                    "p95": 526,
+                    "p99": 526
+                }
+            }
+        },
+        {
+            "timestamp": "2020-03-12T14:53:21.910Z",
+            "scenario_duration": 419,
+            "rt_endpoint": {
+                "/api/getServices": {
+                    "min": 416,
+                    "max": 416,
+                    "median": 416,
+                    "p95": 416,
+                    "p99": 416
+                }
+            }
         }
     ],
-    "monolith": []
+    "monolith": [
+        {
+            "timestamp": "2020-03-12T14:16:57.758Z",
+            "scenario_duration": 372,
+            "rt_endpoint": {
+                "/services": {
+                    "min": 370,
+                    "max": 370,
+                    "median": 370,
+                    "p95": 370,
+                    "p99": 370
+                }
+            }
+        },
+        {
+            "timestamp": "2020-03-12T14:49:13.904Z",
+            "scenario_duration": 392.7,
+            "rt_endpoint": {
+                "/services": {
+                    "min": 390,
+                    "max": 390,
+                    "median": 390,
+                    "p95": 390,
+                    "p99": 390
+                }
+            }
+        },
+        {
+            "timestamp": "2020-03-12T14:54:24.358Z",
+            "scenario_duration": 318.1,
+            "rt_endpoint": {
+                "/services": {
+                    "min": 316,
+                    "max": 316,
+                    "median": 316,
+                    "p95": 316,
+                    "p99": 316
+                }
+            }
+        }
+    ]
 }

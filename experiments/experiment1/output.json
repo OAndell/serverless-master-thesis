@@ -1,26 +1,26 @@
 {
   "aggregate": {
-    "timestamp": "2020-03-12T14:15:55.519Z",
+    "timestamp": "2020-03-12T14:54:24.358Z",
     "scenariosCreated": 1,
     "scenariosCompleted": 1,
     "requestsCompleted": 1,
     "latency": {
-      "min": 345.7,
-      "max": 345.7,
-      "median": 345.7,
-      "p95": 345.7,
-      "p99": 345.7
+      "min": 250.3,
+      "max": 250.3,
+      "median": 250.3,
+      "p95": 250.3,
+      "p99": 250.3
     },
     "rps": {
       "count": 1,
-      "mean": 2.27
+      "mean": 2.22
     },
     "scenarioDuration": {
-      "min": 431.4,
-      "max": 431.4,
-      "median": 431.4,
-      "p95": 431.4,
-      "p99": 431.4
+      "min": 318.1,
+      "max": 318.1,
+      "median": 318.1,
+      "p95": 318.1,
+      "p99": 318.1
     },
     "scenarioCounts": {
       "0": 1
@@ -31,16 +31,16 @@
     },
     "matches": 0,
     "customStats": {
-      "/api/getServices": {
-        "min": 428,
-        "max": 428,
-        "median": 428,
-        "p95": 428,
-        "p99": 428
+      "/services": {
+        "min": 316,
+        "max": 316,
+        "median": 316,
+        "p95": 316,
+        "p99": 316
       }
     },
     "counters": {
-      "code 200 on /api/getServices": 1
+      "code 200 on /services": 1
     },
     "scenariosAvoided": 0,
     "phases": [
@@ -53,27 +53,27 @@
   },
   "intermediate": [
     {
-      "timestamp": "2020-03-12T14:15:55.516Z",
+      "timestamp": "2020-03-12T14:54:24.356Z",
       "scenariosCreated": 1,
       "scenariosCompleted": 1,
       "requestsCompleted": 1,
       "latency": {
-        "min": 345.7,
-        "max": 345.7,
-        "median": 345.7,
-        "p95": 345.7,
-        "p99": 345.7
+        "min": 250.3,
+        "max": 250.3,
+        "median": 250.3,
+        "p95": 250.3,
+        "p99": 250.3
       },
       "rps": {
         "count": 1,
-        "mean": 2.33
+        "mean": 2.22
       },
       "scenarioDuration": {
-        "min": 431.4,
-        "max": 431.4,
-        "median": 431.4,
-        "p95": 431.4,
-        "p99": 431.4
+        "min": 318.1,
+        "max": 318.1,
+        "median": 318.1,
+        "p95": 318.1,
+        "p99": 318.1
       },
       "scenarioCounts": {
         "0": 1
@@ -84,19 +84,19 @@
       },
       "matches": 0,
       "latencies": [
-        345697140
+        250349057
       ],
       "customStats": {
-        "/api/getServices": {
-          "min": 428,
-          "max": 428,
-          "median": 428,
-          "p95": 428,
-          "p99": 428
+        "/services": {
+          "min": 316,
+          "max": 316,
+          "median": 316,
+          "p95": 316,
+          "p99": 316
         }
       },
       "counters": {
-        "code 200 on /api/getServices": 1
+        "code 200 on /services": 1
       },
       "concurrency": 0,
       "pendingRequests": 0,
