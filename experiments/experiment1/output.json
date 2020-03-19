@@ -1,26 +1,26 @@
 {
   "aggregate": {
-    "timestamp": "2020-03-12T14:54:24.358Z",
+    "timestamp": "2020-03-16T11:38:56.793Z",
     "scenariosCreated": 1,
     "scenariosCompleted": 1,
     "requestsCompleted": 1,
     "latency": {
-      "min": 250.3,
-      "max": 250.3,
-      "median": 250.3,
-      "p95": 250.3,
-      "p99": 250.3
+      "min": 199,
+      "max": 199,
+      "median": 199,
+      "p95": 199,
+      "p99": 199
     },
     "rps": {
       "count": 1,
       "mean": 2.22
     },
     "scenarioDuration": {
-      "min": 318.1,
-      "max": 318.1,
-      "median": 318.1,
-      "p95": 318.1,
-      "p99": 318.1
+      "min": 272.8,
+      "max": 272.8,
+      "median": 272.8,
+      "p95": 272.8,
+      "p99": 272.8
     },
     "scenarioCounts": {
       "0": 1
@@ -32,11 +32,11 @@
     "matches": 0,
     "customStats": {
       "/services": {
-        "min": 316,
-        "max": 316,
-        "median": 316,
-        "p95": 316,
-        "p99": 316
+        "min": 270,
+        "max": 270,
+        "median": 270,
+        "p95": 270,
+        "p99": 270
       }
     },
     "counters": {
@@ -53,27 +53,27 @@
   },
   "intermediate": [
     {
-      "timestamp": "2020-03-12T14:54:24.356Z",
+      "timestamp": "2020-03-16T11:38:56.791Z",
       "scenariosCreated": 1,
       "scenariosCompleted": 1,
       "requestsCompleted": 1,
       "latency": {
-        "min": 250.3,
-        "max": 250.3,
-        "median": 250.3,
-        "p95": 250.3,
-        "p99": 250.3
+        "min": 199,
+        "max": 199,
+        "median": 199,
+        "p95": 199,
+        "p99": 199
       },
       "rps": {
         "count": 1,
-        "mean": 2.22
+        "mean": 2.27
       },
       "scenarioDuration": {
-        "min": 318.1,
-        "max": 318.1,
-        "median": 318.1,
-        "p95": 318.1,
-        "p99": 318.1
+        "min": 272.8,
+        "max": 272.8,
+        "median": 272.8,
+        "p95": 272.8,
+        "p99": 272.8
       },
       "scenarioCounts": {
         "0": 1
@@ -84,15 +84,15 @@
       },
       "matches": 0,
       "latencies": [
-        250349057
+        199012719
       ],
       "customStats": {
         "/services": {
-          "min": 316,
-          "max": 316,
-          "median": 316,
-          "p95": 316,
-          "p99": 316
+          "min": 270,
+          "max": 270,
+          "median": 270,
+          "p95": 270,
+          "p99": 270
         }
       },
       "counters": {

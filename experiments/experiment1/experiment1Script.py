@@ -36,7 +36,7 @@ while True:
 
     print("coldstart_nozip")
     
-    time.sleep(60)
+    time.sleep(1)
     #Record Warm-start
     subprocess.run(['artillery run --config serverless_nozip_config.yml scenario1.yml -o output.json'], shell=True, stdout=subprocess.PIPE)
     output = open_artillery_output()
@@ -46,7 +46,7 @@ while True:
     print("warmstart_nozip")
 
 
-    time.sleep(60)
+    time.sleep(1)
      #Record cold-start
     subprocess.run(['artillery run --config serverless_zip_config.yml scenario1.yml -o output.json'], shell=True, stdout=subprocess.PIPE)
     output = open_artillery_output()
@@ -55,7 +55,7 @@ while True:
 
     print("coldstart_zip")
 
-    time.sleep(60)
+    time.sleep(1)
     #Record cold-start
     subprocess.run(['artillery run --config serverless_zip_config.yml scenario1.yml -o output.json'], shell=True, stdout=subprocess.PIPE)
     output = open_artillery_output()
@@ -65,7 +65,7 @@ while True:
     print("warmstart_zip")
 
 
-    time.sleep(60)
+    time.sleep(1)
     #Record Monolith
     subprocess.run(['artillery run --config mono_config.yml scenario1_mono.yml -o output.json'], shell=True, stdout=subprocess.PIPE)
     output = open_artillery_output()
@@ -76,7 +76,7 @@ while True:
 
 
     print("waiting")
-    time.sleep(1560)
+    time.sleep(1)
 
 
 
