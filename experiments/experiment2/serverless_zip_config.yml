@@ -1,8 +1,15 @@
 config:
     target: https://sls-weur-dev-serverless-implementation.azurewebsites.net/api
-    plugins:
-      metrics-by-endpoint: {}
     phases:
-      - duration: 1
-        arrivalRate: 1
-        name: "1"
+      - duration: 60
+        arrivalRate: 0
+        name: "p0"
+      - duration: 60
+        arrivalRate: 0.5
+        rampTo: 15
+        name: "p1" 
+      - duration: 180
+        arrivalRate: 15
+        name: "p2"   
+    processor: "./logger.js"
+   

@@ -1,5 +1,7 @@
 scenarios:
     - flow:
+        beforeScenario: "onLoadingStarted"
+        afterResponse: "logResult"
         - post: 
             url : "/login" 
             json: 

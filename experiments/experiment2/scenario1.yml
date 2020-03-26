@@ -2,3 +2,5 @@ scenarios:
     - flow:
         - get:
             url: "/getServices"
+            beforeRequest: "onLoadingStarted"
+            afterResponse: "logResult"
