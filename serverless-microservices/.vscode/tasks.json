@@ -7,7 +7,7 @@
             "isBackground": true,
             "dependsOn": "npm install",
             "options": {
-                "cwd": "${workspaceFolder}/SubscriptionService"
+                "cwd": "${workspaceFolder}/ServiceHandler"
             }
         },
         {
@@ -15,7 +15,7 @@
             "label": "npm install",
             "command": "npm install",
             "options": {
-                "cwd": "${workspaceFolder}/SubscriptionService"
+                "cwd": "${workspaceFolder}/ServiceHandler"
             }
         },
         {
@@ -24,8 +24,9 @@
             "command": "npm prune --production",
             "problemMatcher": [],
             "options": {
-                "cwd": "${workspaceFolder}/SubscriptionService"
+                "cwd": "${workspaceFolder}/ServiceHandler"
             }
         }
-    ]
+    ],
+    "version": "2.0.0"
 }

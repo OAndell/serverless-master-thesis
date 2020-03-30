@@ -6,9 +6,9 @@ scenarios:
                 email : "serverless@example.com"
                 password :  "serverless"
         - get:
-            url: "/getServices"
+            url: "/services"
         - post:       
-            url: "/subscribe" 
+            url: "/subscriptions" 
             json: 
                 userID : 6
                 serviceObj: 

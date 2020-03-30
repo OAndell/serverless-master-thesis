@@ -10,7 +10,7 @@ module.exports = async function (context, req) {
     await user.subscriptions.forEach(service => {
         if(service.id === serviceObj.id){
             context.res = {
-                status: 400,
+                status: 200,
                 body: "Already subscribed",
             };
             add = false;

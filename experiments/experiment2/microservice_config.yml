@@ -1,0 +1,15 @@
+config:
+    target: https://oscan-microservice-implementation.azurewebsites.net/api
+    phases:
+      - duration: 1
+        arrivalRate: 0
+        name: "p0"
+      - duration: 60
+        arrivalRate: 0
+        rampTo: 20
+        name: "p1" 
+      - duration: 180
+        arrivalRate: 20
+        name: "p2"   
+    processor: "./logger.js"
+   

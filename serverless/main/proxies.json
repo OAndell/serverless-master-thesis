@@ -1,4 +1,19 @@
 {
   "$schema": "http://json.schemastore.org/proxies",
-  "proxies": {}
+  "proxies": {
+    "proxy1": {
+      "matchCondition": {
+          "methods": [ "GET" ],
+          "route": "/api/services"
+      },
+      "backendUri": "https://sls-weur-dev-serverless-implementation.azurewebsites.net/api/getServices"
+  },
+  "proxy2": {
+    "matchCondition": {
+        "methods": [ "POST" ],
+        "route": "/api/subscriptions"
+    },
+    "backendUri": "https://sls-weur-dev-serverless-implementation.azurewebsites.net/api/subscribe"
+  }
+}
 }

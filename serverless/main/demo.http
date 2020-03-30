@@ -45,10 +45,10 @@ Content-Type: application/json
 }
 
 ###
-GET http://localhost:7071/api/getServices HTTP/1.1
+GET http://oscan-microservice-implementation.azurewebsites.net/api/services HTTP/1.1
 
 ###
-POST http://localhost:7071/api/subscribe HTTP/1.1
+POST http://oscan-microservice-implementation.azurewebsites.net/api/subscriptions HTTP/1.1
 Content-Type: application/json
 
 {
@@ -61,7 +61,7 @@ Content-Type: application/json
 ###
 
 ###
-POST  https://sls-weur-dev-serverless-implementation.azurewebsites.net/api/checkSubscriptions HTTP/1.1
+POST  http://oscan-microservice-implementation.azurewebsites.net/api/checkSubscriptions HTTP/1.1
 Content-Type: application/json
 
 {

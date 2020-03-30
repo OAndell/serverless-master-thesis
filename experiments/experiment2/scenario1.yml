@@ -1,6 +1,6 @@
 scenarios:
     - flow:
         - get:
-            url: "/getServices"
+            url: "/services"
             beforeRequest: "onLoadingStarted"
             afterResponse: "logResult"

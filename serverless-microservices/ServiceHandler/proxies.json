@@ -1,0 +1,26 @@
+{
+  "$schema": "http://json.schemastore.org/proxies",
+  "proxies": {
+    "login": {
+      "matchCondition": {
+          "methods": [ "POST" ],
+          "route": "/api/login"
+      },
+      "backendUri": "https://oscan-user-service.azurewebsites.net/api/login"
+    },
+    "services": {
+      "matchCondition": {
+          "methods": [ "GET" ],
+          "route": "/api/services"
+      },
+      "backendUri": "https://oscan-serviceregistry.azurewebsites.net/api/getServices"
+    },
+    "subscriptions": {
+      "matchCondition": {
+          "methods": [ "POST" ],
+          "route": "/api/subscriptions"
+      },
+      "backendUri": "https://oscan-subscribeservice.azurewebsites.net/api/subscribe"
+    }
+  }
+}
