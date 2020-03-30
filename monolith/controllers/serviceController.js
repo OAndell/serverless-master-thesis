@@ -34,7 +34,7 @@ exports.checkSubscriptions = async (req, res) => {
         let service = await ServiceModel.findOne({"id":subscription.id });
         if(distanceCalculator.calculateDistance(userPosistion, service.position) < subscription.settings.distance){
             if(service.id == 0){
-
+                //call servvice 0
             }
             if(service.id == 1){
                 return service1.handle(userPosistion, subscription.settings);
@@ -48,8 +48,5 @@ exports.checkSubscriptions = async (req, res) => {
 
     const response = await Promise.all(responseArray)
     console.log("responseArr", response);
-    //loop and send in posisiton. 
     res.send(response);
-
-    //return notificaion if hit. 
 }

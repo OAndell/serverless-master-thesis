@@ -1,15 +1,15 @@
 config:
-    target: https://monolith-oscan898.azurewebsites.net
+    target: http://localhost
     phases:
-      - duration: 60
+      - duration: 1
         arrivalRate: 0
         name: "p0"
       - duration: 60
-        arrivalRate: 0.5
-        rampTo: 15
+        arrivalRate: 0
+        rampTo: 20
         name: "p1" 
       - duration: 180
-        arrivalRate: 15
+        arrivalRate: 20
         name: "p2"   
-    processor: "./logger.js"
+    #processor: "./logger.js"
    

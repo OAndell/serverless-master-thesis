@@ -1,5 +1,6 @@
 
 module.exports.calculateDistance = function(posistion1, posistion2){
+	console.log(posistion1)
     let lat1 = posistion1.lat;
     let lon1 =  posistion1.long;
     let lat2 = posistion2.lat;

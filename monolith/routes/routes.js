@@ -11,12 +11,9 @@ module.exports = (app) => {
 
     app.route('/login')
     .post(userController.login);
-
     
-    // manage users subscriptions - get all subsciptions of a user - subscribe to a service for a user.
     app.route('/subscriptions')
     .post(subscriptionController.subscribe);
-
 
     app.route('/services')
     .get(serviceController.getServices)

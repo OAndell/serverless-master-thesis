@@ -1,7 +1,5 @@
 scenarios:
     - flow:
-        beforeScenario: "onLoadingStarted"
-        afterResponse: "logResult"
         - post: 
             url : "/login" 
             json: 
@@ -22,6 +20,6 @@ scenarios:
             url: "/checkSubscriptions" 
             json: 
                 userID : 6
-                posistion : 
+                position : 
                     long: 0.5
                     lat: 0
