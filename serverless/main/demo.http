@@ -1,4 +1,4 @@
-POST http://localhost:7071/api/createUser HTTP/1.1
+POST https://andell-serverless.azurewebsites.net/api/createUser HTTP/1.1
 Content-Type: application/json
 
 {
@@ -19,7 +19,7 @@ Content-Type: application/json
 }
 ### 
 
-POST http://localhost:7071/api/addService HTTP/1.1
+POST https://andell-serverless.azurewebsites.net/api/addService HTTP/1.1
 Content-Type: application/json
 
 {
@@ -32,7 +32,7 @@ Content-Type: application/json
     },
     "active":true,
     "settings": ["distance", "quetime"],
-    "endpointURL": "http://localhost:7071/api/service1"
+    "endpointURL": "https://andell-service1.azurewebsites.net/api/handle"
 }
 ### Scenario Start 
 
@@ -61,13 +61,13 @@ Content-Type: application/json
 ###
 
 ###
-POST  http://oscan-microservice-implementation.azurewebsites.net/api/checkSubscriptions HTTP/1.1
+POST  http://andell-monolith.azurewebsites.net/checkSubscriptions HTTP/1.1
 Content-Type: application/json
 
 {
    "userID":6,
    "position": {
-        "lat": 0.5,
+        "lat": 0,
         "long": 0
     }
 }

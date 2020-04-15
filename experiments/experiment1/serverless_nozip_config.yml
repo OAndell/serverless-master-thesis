@@ -1,5 +1,5 @@
 config:
-    target: https://serverless-nozip.azurewebsites.net/api
+    target: https://andell-serverless-nozip.azurewebsites.net/api
     plugins:
       metrics-by-endpoint: {}
     phases:

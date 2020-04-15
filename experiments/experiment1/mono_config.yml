@@ -1,5 +1,5 @@
 config:
-    target: https://monolith-oscan898.azurewebsites.net
+    target: https://andell-monolith.azurewebsites.net
     plugins:
       metrics-by-endpoint: {}
     phases:

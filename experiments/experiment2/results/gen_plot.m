@@ -22,12 +22,12 @@ xlabel(ax1,'Time (s)')
 
 % JSON parse
 
-[p95_time_mono,p95_mono] = get_json('wl3mono1_400.json');
+[p95_time_mono,p95_mono,median] = get_json('wl3mono1_400.json');
 ax2 = nexttile;
 plot(ax2, p95_time_mono/1000, p95_mono,'-o')
 hold on
 
-[p95_time_serv,p95_serv] = get_json('wl3serv1_400.json');
+[p95_time_serv,p95_serv,median] = get_json('wl3serv1_400.json');
 
 plot(ax2, p95_time_serv/1000, p95_serv,'-d')
 title(ax2,'95th Precentile')

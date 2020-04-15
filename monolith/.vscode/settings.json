@@ -3,6 +3,6 @@
         "node_modules{,/**}",
         ".vscode{,/**}"
     ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/7633fb80-2751-4855-b432-fb6b53b5db8b/resourceGroups/Mono/providers/Microsoft.Web/sites/monolith-oscan898",
-    "appService.deploySubpath": ""
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/379d80ba-4b3e-4ea8-a4c1-0687b02517bd/resourceGroups/Monolith/providers/Microsoft.Web/sites/andell-monolith"
 }

@@ -17,9 +17,9 @@ scenarios:
                         distance: 5
                         queuetime: 2
         - post:       
-            url: "/checkSubscriptions" 
+            url: "/checksubscriptions" 
             json: 
                 userID : 6
-                posistion : 
-                    long: 0.5
+                position : 
+                    long: 0
                     lat: 0

@@ -1,46 +1,70 @@
 {
   "aggregate": {
-    "timestamp": "2020-03-16T11:38:56.793Z",
+    "timestamp": "2020-04-15T08:27:56.088Z",
     "scenariosCreated": 1,
     "scenariosCompleted": 1,
-    "requestsCompleted": 1,
+    "requestsCompleted": 4,
     "latency": {
-      "min": 199,
-      "max": 199,
-      "median": 199,
-      "p95": 199,
-      "p99": 199
+      "min": 174.7,
+      "max": 491.7,
+      "median": 323.1,
+      "p95": 491.7,
+      "p99": 491.7
     },
     "rps": {
-      "count": 1,
-      "mean": 2.22
+      "count": 4,
+      "mean": 2.74
     },
     "scenarioDuration": {
-      "min": 272.8,
-      "max": 272.8,
-      "median": 272.8,
-      "p95": 272.8,
-      "p99": 272.8
+      "min": 1395.2,
+      "max": 1395.2,
+      "median": 1395.2,
+      "p95": 1395.2,
+      "p99": 1395.2
     },
     "scenarioCounts": {
       "0": 1
     },
     "errors": {},
     "codes": {
-      "200": 1
+      "200": 4
     },
     "matches": 0,
     "customStats": {
+      "/login": {
+        "min": 556,
+        "max": 556,
+        "median": 556,
+        "p95": 556,
+        "p99": 556
+      },
       "/services": {
-        "min": 270,
-        "max": 270,
-        "median": 270,
-        "p95": 270,
-        "p99": 270
+        "min": 180,
+        "max": 180,
+        "median": 180,
+        "p95": 180,
+        "p99": 180
+      },
+      "/subscriptions": {
+        "min": 192,
+        "max": 192,
+        "median": 192,
+        "p95": 192,
+        "p99": 192
+      },
+      "/checksubscriptions": {
+        "min": 463,
+        "max": 463,
+        "median": 463,
+        "p95": 463,
+        "p99": 463
       }
     },
     "counters": {
-      "code 200 on /services": 1
+      "code 200 on /login": 1,
+      "code 200 on /services": 1,
+      "code 200 on /subscriptions": 1,
+      "code 200 on /checksubscriptions": 1
     },
     "scenariosAvoided": 0,
     "phases": [
@@ -53,50 +77,77 @@
   },
   "intermediate": [
     {
-      "timestamp": "2020-03-16T11:38:56.791Z",
+      "timestamp": "2020-04-15T08:27:56.084Z",
       "scenariosCreated": 1,
       "scenariosCompleted": 1,
-      "requestsCompleted": 1,
+      "requestsCompleted": 4,
       "latency": {
-        "min": 199,
-        "max": 199,
-        "median": 199,
-        "p95": 199,
-        "p99": 199
+        "min": 174.7,
+        "max": 491.7,
+        "median": 323.1,
+        "p95": 491.7,
+        "p99": 491.7
       },
       "rps": {
-        "count": 1,
-        "mean": 2.27
+        "count": 4,
+        "mean": 2.74
       },
       "scenarioDuration": {
-        "min": 272.8,
-        "max": 272.8,
-        "median": 272.8,
-        "p95": 272.8,
-        "p99": 272.8
+        "min": 1395.2,
+        "max": 1395.2,
+        "median": 1395.2,
+        "p95": 1395.2,
+        "p99": 1395.2
       },
       "scenarioCounts": {
         "0": 1
       },
       "errors": {},
       "codes": {
-        "200": 1
+        "200": 4
       },
       "matches": 0,
       "latencies": [
-        199012719
+        491715610,
+        174669876,
+        188077615,
+        458171252
       ],
       "customStats": {
+        "/login": {
+          "min": 556,
+          "max": 556,
+          "median": 556,
+          "p95": 556,
+          "p99": 556
+        },
         "/services": {
-          "min": 270,
-          "max": 270,
-          "median": 270,
-          "p95": 270,
-          "p99": 270
+          "min": 180,
+          "max": 180,
+          "median": 180,
+          "p95": 180,
+          "p99": 180
+        },
+        "/subscriptions": {
+          "min": 192,
+          "max": 192,
+          "median": 192,
+          "p95": 192,
+          "p99": 192
+        },
+        "/checksubscriptions": {
+          "min": 463,
+          "max": 463,
+          "median": 463,
+          "p95": 463,
+          "p99": 463
         }
       },
       "counters": {
-        "code 200 on /services": 1
+        "code 200 on /login": 1,
+        "code 200 on /services": 1,
+        "code 200 on /subscriptions": 1,
+        "code 200 on /checksubscriptions": 1
       },
       "concurrency": 0,
       "pendingRequests": 0,
