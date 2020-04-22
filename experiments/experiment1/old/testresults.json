@@ -1,0 +1,4989 @@
+{
+    "coldstart_nozip": [
+        {
+            "timestamp": "2020-04-05T08:59:50.776Z",
+            "scenario_duration": 71326.5,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 69430,
+                    "max": 69430,
+                    "median": 69430,
+                    "p95": 69430,
+                    "p99": 69430
+                },
+                "/api/getServices": {
+                    "min": 198,
+                    "max": 198,
+                    "median": 198,
+                    "p95": 198,
+                    "p99": 198
+                },
+                "/api/subscribe": {
+                    "min": 57,
+                    "max": 57,
+                    "median": 57,
+                    "p95": 57,
+                    "p99": 57
+                },
+                "/api/checkSubscriptions": {
+                    "min": 1636,
+                    "max": 1636,
+                    "median": 1636,
+                    "p95": 1636,
+                    "p99": 1636
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T10:42:50.351Z",
+            "scenario_duration": 95411.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 91218,
+                    "max": 91218,
+                    "median": 91218,
+                    "p95": 91218,
+                    "p99": 91218
+                },
+                "/api/getServices": {
+                    "min": 104,
+                    "max": 104,
+                    "median": 104,
+                    "p95": 104,
+                    "p99": 104
+                },
+                "/api/subscribe": {
+                    "min": 127,
+                    "max": 127,
+                    "median": 127,
+                    "p95": 127,
+                    "p99": 127
+                },
+                "/api/checkSubscriptions": {
+                    "min": 3962,
+                    "max": 3962,
+                    "median": 3962,
+                    "p95": 3962,
+                    "p99": 3962
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T11:17:16.553Z",
+            "scenario_duration": 103261.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 100871,
+                    "max": 100871,
+                    "median": 100871,
+                    "p95": 100871,
+                    "p99": 100871
+                },
+                "/api/getServices": {
+                    "min": 174,
+                    "max": 174,
+                    "median": 174,
+                    "p95": 174,
+                    "p99": 174
+                },
+                "/api/subscribe": {
+                    "min": 61,
+                    "max": 61,
+                    "median": 61,
+                    "p95": 61,
+                    "p99": 61
+                },
+                "/api/checkSubscriptions": {
+                    "min": 2155,
+                    "max": 2155,
+                    "median": 2155,
+                    "p95": 2155,
+                    "p99": 2155
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T11:51:56.411Z",
+            "scenario_duration": 120056.4,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 117952,
+                    "max": 117952,
+                    "median": 117952,
+                    "p95": 117952,
+                    "p99": 117952
+                },
+                "/api/getServices": {
+                    "min": 138,
+                    "max": 138,
+                    "median": 138,
+                    "p95": 138,
+                    "p99": 138
+                },
+                "/api/subscribe": {
+                    "min": 85,
+                    "max": 85,
+                    "median": 85,
+                    "p95": 85,
+                    "p99": 85
+                },
+                "/api/checkSubscriptions": {
+                    "min": 1887,
+                    "max": 1887,
+                    "median": 1887,
+                    "p95": 1887,
+                    "p99": 1887
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T12:26:00.051Z",
+            "scenario_duration": 96040.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 93873,
+                    "max": 93873,
+                    "median": 93873,
+                    "p95": 93873,
+                    "p99": 93873
+                },
+                "/api/getServices": {
+                    "min": 173,
+                    "max": 173,
+                    "median": 173,
+                    "p95": 173,
+                    "p99": 173
+                },
+                "/api/subscribe": {
+                    "min": 84,
+                    "max": 84,
+                    "median": 84,
+                    "p95": 84,
+                    "p99": 84
+                },
+                "/api/checkSubscriptions": {
+                    "min": 1906,
+                    "max": 1906,
+                    "median": 1906,
+                    "p95": 1906,
+                    "p99": 1906
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T13:00:30.369Z",
+            "scenario_duration": 104929.7,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 102668,
+                    "max": 102668,
+                    "median": 102668,
+                    "p95": 102668,
+                    "p99": 102668
+                },
+                "/api/getServices": {
+                    "min": 137,
+                    "max": 137,
+                    "median": 137,
+                    "p95": 137,
+                    "p99": 137
+                },
+                "/api/subscribe": {
+                    "min": 89,
+                    "max": 89,
+                    "median": 89,
+                    "p95": 89,
+                    "p99": 89
+                },
+                "/api/checkSubscriptions": {
+                    "min": 2041,
+                    "max": 2041,
+                    "median": 2041,
+                    "p95": 2041,
+                    "p99": 2041
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T06:42:25.996Z",
+            "scenario_duration": 93841.4,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 91554,
+                    "max": 91554,
+                    "median": 91554,
+                    "p95": 91554,
+                    "p99": 91554
+                },
+                "/api/getServices": {
+                    "min": 248,
+                    "max": 248,
+                    "median": 248,
+                    "p95": 248,
+                    "p99": 248
+                },
+                "/api/subscribe": {
+                    "min": 99,
+                    "max": 99,
+                    "median": 99,
+                    "p95": 99,
+                    "p99": 99
+                },
+                "/api/checkSubscriptions": {
+                    "min": 1937,
+                    "max": 1937,
+                    "median": 1937,
+                    "p95": 1937,
+                    "p99": 1937
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T07:16:46.189Z",
+            "scenario_duration": 106331.4,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 103804,
+                    "max": 103804,
+                    "median": 103804,
+                    "p95": 103804,
+                    "p99": 103804
+                },
+                "/api/getServices": {
+                    "min": 198,
+                    "max": 198,
+                    "median": 198,
+                    "p95": 198,
+                    "p99": 198
+                },
+                "/api/subscribe": {
+                    "min": 87,
+                    "max": 87,
+                    "median": 87,
+                    "p95": 87,
+                    "p99": 87
+                },
+                "/api/checkSubscriptions": {
+                    "min": 2245,
+                    "max": 2245,
+                    "median": 2245,
+                    "p95": 2245,
+                    "p99": 2245
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T07:51:14.454Z",
+            "scenario_duration": 120498.9,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 115076,
+                    "max": 115076,
+                    "median": 115076,
+                    "p95": 115076,
+                    "p99": 115076
+                },
+                "/api/getServices": {
+                    "min": 169,
+                    "max": 169,
+                    "median": 169,
+                    "p95": 169,
+                    "p99": 169
+                },
+                "/api/subscribe": {
+                    "min": 119,
+                    "max": 119,
+                    "median": 119,
+                    "p95": 119,
+                    "p99": 119
+                },
+                "/api/checkSubscriptions": {
+                    "min": 5144,
+                    "max": 5144,
+                    "median": 5144,
+                    "p95": 5144,
+                    "p99": 5144
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T09:00:00.950Z",
+            "scenario_duration": 100901.8,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 98184,
+                    "max": 98184,
+                    "median": 98184,
+                    "p95": 98184,
+                    "p99": 98184
+                },
+                "/api/getServices": {
+                    "min": 193,
+                    "max": 193,
+                    "median": 193,
+                    "p95": 193,
+                    "p99": 193
+                },
+                "/api/subscribe": {
+                    "min": 143,
+                    "max": 143,
+                    "median": 143,
+                    "p95": 143,
+                    "p99": 143
+                },
+                "/api/checkSubscriptions": {
+                    "min": 2379,
+                    "max": 2379,
+                    "median": 2379,
+                    "p95": 2379,
+                    "p99": 2379
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T09:34:22.176Z",
+            "scenario_duration": 114672.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 99500,
+                    "max": 99500,
+                    "median": 99500,
+                    "p95": 99500,
+                    "p99": 99500
+                },
+                "/api/getServices": {
+                    "min": 162,
+                    "max": 162,
+                    "median": 162,
+                    "p95": 162,
+                    "p99": 162
+                },
+                "/api/subscribe": {
+                    "min": 65,
+                    "max": 65,
+                    "median": 65,
+                    "p95": 65,
+                    "p99": 65
+                },
+                "/api/checkSubscriptions": {
+                    "min": 14947,
+                    "max": 14947,
+                    "median": 14947,
+                    "p95": 14947,
+                    "p99": 14947
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T10:08:36.304Z",
+            "scenario_duration": 107356.2,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 105155,
+                    "max": 105155,
+                    "median": 105155,
+                    "p95": 105155,
+                    "p99": 105155
+                },
+                "/api/getServices": {
+                    "min": 125,
+                    "max": 125,
+                    "median": 125,
+                    "p95": 125,
+                    "p99": 125
+                },
+                "/api/subscribe": {
+                    "min": 114,
+                    "max": 114,
+                    "median": 114,
+                    "p95": 114,
+                    "p99": 114
+                },
+                "/api/checkSubscriptions": {
+                    "min": 1971,
+                    "max": 1971,
+                    "median": 1971,
+                    "p95": 1971,
+                    "p99": 1971
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T10:42:41.041Z",
+            "scenario_duration": 98157.6,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 95042,
+                    "max": 95042,
+                    "median": 95042,
+                    "p95": 95042,
+                    "p99": 95042
+                },
+                "/api/getServices": {
+                    "min": 186,
+                    "max": 186,
+                    "median": 186,
+                    "p95": 186,
+                    "p99": 186
+                },
+                "/api/subscribe": {
+                    "min": 129,
+                    "max": 129,
+                    "median": 129,
+                    "p95": 129,
+                    "p99": 129
+                },
+                "/api/checkSubscriptions": {
+                    "min": 2793,
+                    "max": 2793,
+                    "median": 2793,
+                    "p95": 2793,
+                    "p99": 2793
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T11:17:20.853Z",
+            "scenario_duration": 114608.2,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 109807,
+                    "max": 109807,
+                    "median": 109807,
+                    "p95": 109807,
+                    "p99": 109807
+                },
+                "/api/getServices": {
+                    "min": 150,
+                    "max": 150,
+                    "median": 150,
+                    "p95": 150,
+                    "p99": 150
+                },
+                "/api/subscribe": {
+                    "min": 61,
+                    "max": 61,
+                    "median": 61,
+                    "p95": 61,
+                    "p99": 61
+                },
+                "/api/checkSubscriptions": {
+                    "min": 4595,
+                    "max": 4595,
+                    "median": 4595,
+                    "p95": 4595,
+                    "p99": 4595
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T11:51:54.280Z",
+            "scenario_duration": 100469.7,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 98438,
+                    "max": 98438,
+                    "median": 98438,
+                    "p95": 98438,
+                    "p99": 98438
+                },
+                "/api/getServices": {
+                    "min": 177,
+                    "max": 177,
+                    "median": 177,
+                    "p95": 177,
+                    "p99": 177
+                },
+                "/api/subscribe": {
+                    "min": 75,
+                    "max": 75,
+                    "median": 75,
+                    "p95": 75,
+                    "p99": 75
+                },
+                "/api/checkSubscriptions": {
+                    "min": 1789,
+                    "max": 1789,
+                    "median": 1789,
+                    "p95": 1789,
+                    "p99": 1789
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T12:26:14.096Z",
+            "scenario_duration": 112576.4,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 109522,
+                    "max": 109522,
+                    "median": 109522,
+                    "p95": 109522,
+                    "p99": 109522
+                },
+                "/api/getServices": {
+                    "min": 154,
+                    "max": 154,
+                    "median": 154,
+                    "p95": 154,
+                    "p99": 154
+                },
+                "/api/subscribe": {
+                    "min": 77,
+                    "max": 77,
+                    "median": 77,
+                    "p95": 77,
+                    "p99": 77
+                },
+                "/api/checkSubscriptions": {
+                    "min": 2823,
+                    "max": 2823,
+                    "median": 2823,
+                    "p95": 2823,
+                    "p99": 2823
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T13:00:32.767Z",
+            "scenario_duration": 104175.6,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 100326,
+                    "max": 100326,
+                    "median": 100326,
+                    "p95": 100326,
+                    "p99": 100326
+                },
+                "/api/getServices": {
+                    "min": 194,
+                    "max": 194,
+                    "median": 194,
+                    "p95": 194,
+                    "p99": 194
+                },
+                "/api/subscribe": {
+                    "min": 114,
+                    "max": 114,
+                    "median": 114,
+                    "p95": 114,
+                    "p99": 114
+                },
+                "/api/checkSubscriptions": {
+                    "min": 3549,
+                    "max": 3549,
+                    "median": 3549,
+                    "p95": 3549,
+                    "p99": 3549
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T13:35:00.591Z",
+            "scenario_duration": 105781.4,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 102808,
+                    "max": 102808,
+                    "median": 102808,
+                    "p95": 102808,
+                    "p99": 102808
+                },
+                "/api/getServices": {
+                    "min": 174,
+                    "max": 174,
+                    "median": 174,
+                    "p95": 174,
+                    "p99": 174
+                },
+                "/api/subscribe": {
+                    "min": 82,
+                    "max": 82,
+                    "median": 82,
+                    "p95": 82,
+                    "p99": 82
+                },
+                "/api/checkSubscriptions": {
+                    "min": 2715,
+                    "max": 2715,
+                    "median": 2715,
+                    "p95": 2715,
+                    "p99": 2715
+                }
+            }
+        }
+    ],
+    "warmstart_nozip": [
+        {
+            "timestamp": "2020-04-05T11:17:49.872Z",
+            "scenario_duration": 635.6,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 347,
+                    "max": 347,
+                    "median": 347,
+                    "p95": 347,
+                    "p99": 347
+                },
+                "/api/getServices": {
+                    "min": 62,
+                    "max": 62,
+                    "median": 62,
+                    "p95": 62,
+                    "p99": 62
+                },
+                "/api/subscribe": {
+                    "min": 53,
+                    "max": 53,
+                    "median": 53,
+                    "p95": 53,
+                    "p99": 53
+                },
+                "/api/checkSubscriptions": {
+                    "min": 169,
+                    "max": 169,
+                    "median": 169,
+                    "p95": 169,
+                    "p99": 169
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T11:52:29.728Z",
+            "scenario_duration": 619.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 336,
+                    "max": 336,
+                    "median": 336,
+                    "p95": 336,
+                    "p99": 336
+                },
+                "/api/getServices": {
+                    "min": 46,
+                    "max": 46,
+                    "median": 46,
+                    "p95": 46,
+                    "p99": 46
+                },
+                "/api/subscribe": {
+                    "min": 39,
+                    "max": 39,
+                    "median": 39,
+                    "p95": 39,
+                    "p99": 39
+                },
+                "/api/checkSubscriptions": {
+                    "min": 191,
+                    "max": 191,
+                    "median": 191,
+                    "p95": 191,
+                    "p99": 191
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T12:26:33.351Z",
+            "scenario_duration": 799.3,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 339,
+                    "max": 339,
+                    "median": 339,
+                    "p95": 339,
+                    "p99": 339
+                },
+                "/api/getServices": {
+                    "min": 54,
+                    "max": 54,
+                    "median": 54,
+                    "p95": 54,
+                    "p99": 54
+                },
+                "/api/subscribe": {
+                    "min": 72,
+                    "max": 72,
+                    "median": 72,
+                    "p95": 72,
+                    "p99": 72
+                },
+                "/api/checkSubscriptions": {
+                    "min": 327,
+                    "max": 327,
+                    "median": 327,
+                    "p95": 327,
+                    "p99": 327
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T13:01:03.679Z",
+            "scenario_duration": 668.5,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 324,
+                    "max": 324,
+                    "median": 324,
+                    "p95": 324,
+                    "p99": 324
+                },
+                "/api/getServices": {
+                    "min": 53,
+                    "max": 53,
+                    "median": 53,
+                    "p95": 53,
+                    "p99": 53
+                },
+                "/api/subscribe": {
+                    "min": 41,
+                    "max": 41,
+                    "median": 41,
+                    "p95": 41,
+                    "p99": 41
+                },
+                "/api/checkSubscriptions": {
+                    "min": 243,
+                    "max": 243,
+                    "median": 243,
+                    "p95": 243,
+                    "p99": 243
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T06:42:59.343Z",
+            "scenario_duration": 740.5,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 345,
+                    "max": 345,
+                    "median": 345,
+                    "p95": 345,
+                    "p99": 345
+                },
+                "/api/getServices": {
+                    "min": 60,
+                    "max": 60,
+                    "median": 60,
+                    "p95": 60,
+                    "p99": 60
+                },
+                "/api/subscribe": {
+                    "min": 42,
+                    "max": 42,
+                    "median": 42,
+                    "p95": 42,
+                    "p99": 42
+                },
+                "/api/checkSubscriptions": {
+                    "min": 286,
+                    "max": 286,
+                    "median": 286,
+                    "p95": 286,
+                    "p99": 286
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T07:17:19.526Z",
+            "scenario_duration": 946,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 368,
+                    "max": 368,
+                    "median": 368,
+                    "p95": 368,
+                    "p99": 368
+                },
+                "/api/getServices": {
+                    "min": 92,
+                    "max": 92,
+                    "median": 92,
+                    "p95": 92,
+                    "p99": 92
+                },
+                "/api/subscribe": {
+                    "min": 177,
+                    "max": 177,
+                    "median": 177,
+                    "p95": 177,
+                    "p99": 177
+                },
+                "/api/checkSubscriptions": {
+                    "min": 302,
+                    "max": 302,
+                    "median": 302,
+                    "p95": 302,
+                    "p99": 302
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T07:51:47.775Z",
+            "scenario_duration": 673.5,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 326,
+                    "max": 326,
+                    "median": 326,
+                    "p95": 326,
+                    "p99": 326
+                },
+                "/api/getServices": {
+                    "min": 82,
+                    "max": 82,
+                    "median": 82,
+                    "p95": 82,
+                    "p99": 82
+                },
+                "/api/subscribe": {
+                    "min": 48,
+                    "max": 48,
+                    "median": 48,
+                    "p95": 48,
+                    "p99": 48
+                },
+                "/api/checkSubscriptions": {
+                    "min": 211,
+                    "max": 211,
+                    "median": 211,
+                    "p95": 211,
+                    "p99": 211
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T08:26:17.685Z",
+            "scenario_duration": 2842.6,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 408,
+                    "max": 408,
+                    "median": 408,
+                    "p95": 408,
+                    "p99": 408
+                },
+                "/api/getServices": {
+                    "min": 128,
+                    "max": 128,
+                    "median": 128,
+                    "p95": 128,
+                    "p99": 128
+                },
+                "/api/subscribe": {
+                    "min": 57,
+                    "max": 57,
+                    "median": 57,
+                    "p95": 57,
+                    "p99": 57
+                },
+                "/api/checkSubscriptions": {
+                    "min": 2244,
+                    "max": 2244,
+                    "median": 2244,
+                    "p95": 2244,
+                    "p99": 2244
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T09:00:34.355Z",
+            "scenario_duration": 785,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 367,
+                    "max": 367,
+                    "median": 367,
+                    "p95": 367,
+                    "p99": 367
+                },
+                "/api/getServices": {
+                    "min": 110,
+                    "max": 110,
+                    "median": 110,
+                    "p95": 110,
+                    "p99": 110
+                },
+                "/api/subscribe": {
+                    "min": 57,
+                    "max": 57,
+                    "median": 57,
+                    "p95": 57,
+                    "p99": 57
+                },
+                "/api/checkSubscriptions": {
+                    "min": 244,
+                    "max": 244,
+                    "median": 244,
+                    "p95": 244,
+                    "p99": 244
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T09:34:55.500Z",
+            "scenario_duration": 749.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 339,
+                    "max": 339,
+                    "median": 339,
+                    "p95": 339,
+                    "p99": 339
+                },
+                "/api/getServices": {
+                    "min": 59,
+                    "max": 59,
+                    "median": 59,
+                    "p95": 59,
+                    "p99": 59
+                },
+                "/api/subscribe": {
+                    "min": 56,
+                    "max": 56,
+                    "median": 56,
+                    "p95": 56,
+                    "p99": 56
+                },
+                "/api/checkSubscriptions": {
+                    "min": 289,
+                    "max": 289,
+                    "median": 289,
+                    "p95": 289,
+                    "p99": 289
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T10:09:09.657Z",
+            "scenario_duration": 734.8,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 368,
+                    "max": 368,
+                    "median": 368,
+                    "p95": 368,
+                    "p99": 368
+                },
+                "/api/getServices": {
+                    "min": 68,
+                    "max": 68,
+                    "median": 68,
+                    "p95": 68,
+                    "p99": 68
+                },
+                "/api/subscribe": {
+                    "min": 54,
+                    "max": 54,
+                    "median": 54,
+                    "p95": 54,
+                    "p99": 54
+                },
+                "/api/checkSubscriptions": {
+                    "min": 241,
+                    "max": 241,
+                    "median": 241,
+                    "p95": 241,
+                    "p99": 241
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T10:43:14.351Z",
+            "scenario_duration": 747.7,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 347,
+                    "max": 347,
+                    "median": 347,
+                    "p95": 347,
+                    "p99": 347
+                },
+                "/api/getServices": {
+                    "min": 68,
+                    "max": 68,
+                    "median": 68,
+                    "p95": 68,
+                    "p99": 68
+                },
+                "/api/subscribe": {
+                    "min": 110,
+                    "max": 110,
+                    "median": 110,
+                    "p95": 110,
+                    "p99": 110
+                },
+                "/api/checkSubscriptions": {
+                    "min": 216,
+                    "max": 216,
+                    "median": 216,
+                    "p95": 216,
+                    "p99": 216
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T11:17:54.214Z",
+            "scenario_duration": 663.8,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 315,
+                    "max": 315,
+                    "median": 315,
+                    "p95": 315,
+                    "p99": 315
+                },
+                "/api/getServices": {
+                    "min": 79,
+                    "max": 79,
+                    "median": 79,
+                    "p95": 79,
+                    "p99": 79
+                },
+                "/api/subscribe": {
+                    "min": 52,
+                    "max": 52,
+                    "median": 52,
+                    "p95": 52,
+                    "p99": 52
+                },
+                "/api/checkSubscriptions": {
+                    "min": 211,
+                    "max": 211,
+                    "median": 211,
+                    "p95": 211,
+                    "p99": 211
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T11:52:27.618Z",
+            "scenario_duration": 636.7,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 336,
+                    "max": 336,
+                    "median": 336,
+                    "p95": 336,
+                    "p99": 336
+                },
+                "/api/getServices": {
+                    "min": 57,
+                    "max": 57,
+                    "median": 57,
+                    "p95": 57,
+                    "p99": 57
+                },
+                "/api/subscribe": {
+                    "min": 56,
+                    "max": 56,
+                    "median": 56,
+                    "p95": 56,
+                    "p99": 56
+                },
+                "/api/checkSubscriptions": {
+                    "min": 181,
+                    "max": 181,
+                    "median": 181,
+                    "p95": 181,
+                    "p99": 181
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T12:26:47.461Z",
+            "scenario_duration": 710.6,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 361,
+                    "max": 361,
+                    "median": 361,
+                    "p95": 361,
+                    "p99": 361
+                },
+                "/api/getServices": {
+                    "min": 69,
+                    "max": 69,
+                    "median": 69,
+                    "p95": 69,
+                    "p99": 69
+                },
+                "/api/subscribe": {
+                    "min": 53,
+                    "max": 53,
+                    "median": 53,
+                    "p95": 53,
+                    "p99": 53
+                },
+                "/api/checkSubscriptions": {
+                    "min": 220,
+                    "max": 220,
+                    "median": 220,
+                    "p95": 220,
+                    "p99": 220
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T13:01:06.091Z",
+            "scenario_duration": 742,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 339,
+                    "max": 339,
+                    "median": 339,
+                    "p95": 339,
+                    "p99": 339
+                },
+                "/api/getServices": {
+                    "min": 106,
+                    "max": 106,
+                    "median": 106,
+                    "p95": 106,
+                    "p99": 106
+                },
+                "/api/subscribe": {
+                    "min": 96,
+                    "max": 96,
+                    "median": 96,
+                    "p95": 96,
+                    "p99": 96
+                },
+                "/api/checkSubscriptions": {
+                    "min": 196,
+                    "max": 196,
+                    "median": 196,
+                    "p95": 196,
+                    "p99": 196
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T13:35:33.938Z",
+            "scenario_duration": 697.6,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 368,
+                    "max": 368,
+                    "median": 368,
+                    "p95": 368,
+                    "p99": 368
+                },
+                "/api/getServices": {
+                    "min": 61,
+                    "max": 61,
+                    "median": 61,
+                    "p95": 61,
+                    "p99": 61
+                },
+                "/api/subscribe": {
+                    "min": 42,
+                    "max": 42,
+                    "median": 42,
+                    "p95": 42,
+                    "p99": 42
+                },
+                "/api/checkSubscriptions": {
+                    "min": 220,
+                    "max": 220,
+                    "median": 220,
+                    "p95": 220,
+                    "p99": 220
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T14:10:26.594Z",
+            "scenario_duration": 2645.8,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 469,
+                    "max": 469,
+                    "median": 469,
+                    "p95": 469,
+                    "p99": 469
+                },
+                "/api/getServices": {
+                    "min": 69,
+                    "max": 69,
+                    "median": 69,
+                    "p95": 69,
+                    "p99": 69
+                },
+                "/api/subscribe": {
+                    "min": 64,
+                    "max": 64,
+                    "median": 64,
+                    "p95": 64,
+                    "p99": 64
+                },
+                "/api/checkSubscriptions": {
+                    "min": 2037,
+                    "max": 2037,
+                    "median": 2037,
+                    "p95": 2037,
+                    "p99": 2037
+                }
+            }
+        }
+    ],
+    "coldstart_zip": [
+        {
+            "timestamp": "2020-04-05T08:27:20.957Z",
+            "scenario_duration": 8088.4,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 7575,
+                    "max": 7575,
+                    "median": 7575,
+                    "p95": 7575,
+                    "p99": 7575
+                },
+                "/api/getServices": {
+                    "min": 125,
+                    "max": 125,
+                    "median": 125,
+                    "p95": 125,
+                    "p99": 125
+                },
+                "/api/subscribe": {
+                    "min": 112,
+                    "max": 112,
+                    "median": 112,
+                    "p95": 112,
+                    "p99": 112
+                },
+                "/api/checkSubscriptions": {
+                    "min": 271,
+                    "max": 271,
+                    "median": 271,
+                    "p95": 271,
+                    "p99": 271
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T09:01:02.438Z",
+            "scenario_duration": 5708.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 5285,
+                    "max": 5285,
+                    "median": 5285,
+                    "p95": 5285,
+                    "p99": 5285
+                },
+                "/api/getServices": {
+                    "min": 157,
+                    "max": 157,
+                    "median": 157,
+                    "p95": 157,
+                    "p99": 157
+                },
+                "/api/subscribe": {
+                    "min": 70,
+                    "max": 70,
+                    "median": 70,
+                    "p95": 70,
+                    "p99": 70
+                },
+                "/api/checkSubscriptions": {
+                    "min": 191,
+                    "max": 191,
+                    "median": 191,
+                    "p95": 191,
+                    "p99": 191
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T09:35:34.215Z",
+            "scenario_duration": 6842.3,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 6436,
+                    "max": 6436,
+                    "median": 6436,
+                    "p95": 6436,
+                    "p99": 6436
+                },
+                "/api/getServices": {
+                    "min": 114,
+                    "max": 114,
+                    "median": 114,
+                    "p95": 114,
+                    "p99": 114
+                },
+                "/api/subscribe": {
+                    "min": 95,
+                    "max": 95,
+                    "median": 95,
+                    "p95": 95,
+                    "p99": 95
+                },
+                "/api/checkSubscriptions": {
+                    "min": 192,
+                    "max": 192,
+                    "median": 192,
+                    "p95": 192,
+                    "p99": 192
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T10:10:02.237Z",
+            "scenario_duration": 7211.6,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 6491,
+                    "max": 6491,
+                    "median": 6491,
+                    "p95": 6491,
+                    "p99": 6491
+                },
+                "/api/getServices": {
+                    "min": 283,
+                    "max": 283,
+                    "median": 283,
+                    "p95": 283,
+                    "p99": 283
+                },
+                "/api/subscribe": {
+                    "min": 200,
+                    "max": 200,
+                    "median": 200,
+                    "p95": 200,
+                    "p99": 200
+                },
+                "/api/checkSubscriptions": {
+                    "min": 231,
+                    "max": 231,
+                    "median": 231,
+                    "p95": 231,
+                    "p99": 231
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T10:44:19.622Z",
+            "scenario_duration": 23219,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 22579,
+                    "max": 22579,
+                    "median": 22579,
+                    "p95": 22579,
+                    "p99": 22579
+                },
+                "/api/getServices": {
+                    "min": 163,
+                    "max": 163,
+                    "median": 163,
+                    "p95": 163,
+                    "p99": 163
+                },
+                "/api/subscribe": {
+                    "min": 180,
+                    "max": 180,
+                    "median": 180,
+                    "p95": 180,
+                    "p99": 180
+                },
+                "/api/checkSubscriptions": {
+                    "min": 293,
+                    "max": 293,
+                    "median": 293,
+                    "p95": 293,
+                    "p99": 293
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T11:18:42.837Z",
+            "scenario_duration": 20597.6,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 20096,
+                    "max": 20096,
+                    "median": 20096,
+                    "p95": 20096,
+                    "p99": 20096
+                },
+                "/api/getServices": {
+                    "min": 177,
+                    "max": 177,
+                    "median": 177,
+                    "p95": 177,
+                    "p99": 177
+                },
+                "/api/subscribe": {
+                    "min": 131,
+                    "max": 131,
+                    "median": 131,
+                    "p95": 131,
+                    "p99": 131
+                },
+                "/api/checkSubscriptions": {
+                    "min": 189,
+                    "max": 189,
+                    "median": 189,
+                    "p95": 189,
+                    "p99": 189
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T11:53:08.625Z",
+            "scenario_duration": 6493.7,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 6136,
+                    "max": 6136,
+                    "median": 6136,
+                    "p95": 6136,
+                    "p99": 6136
+                },
+                "/api/getServices": {
+                    "min": 104,
+                    "max": 104,
+                    "median": 104,
+                    "p95": 104,
+                    "p99": 104
+                },
+                "/api/subscribe": {
+                    "min": 77,
+                    "max": 77,
+                    "median": 77,
+                    "p95": 77,
+                    "p99": 77
+                },
+                "/api/checkSubscriptions": {
+                    "min": 170,
+                    "max": 170,
+                    "median": 170,
+                    "p95": 170,
+                    "p99": 170
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T12:27:28.851Z",
+            "scenario_duration": 23158.7,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 22609,
+                    "max": 22609,
+                    "median": 22609,
+                    "p95": 22609,
+                    "p99": 22609
+                },
+                "/api/getServices": {
+                    "min": 170,
+                    "max": 170,
+                    "median": 170,
+                    "p95": 170,
+                    "p99": 170
+                },
+                "/api/subscribe": {
+                    "min": 179,
+                    "max": 179,
+                    "median": 179,
+                    "p95": 179,
+                    "p99": 179
+                },
+                "/api/checkSubscriptions": {
+                    "min": 196,
+                    "max": 196,
+                    "median": 196,
+                    "p95": 196,
+                    "p99": 196
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T13:01:57.699Z",
+            "scenario_duration": 21577.3,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 20771,
+                    "max": 20771,
+                    "median": 20771,
+                    "p95": 20771,
+                    "p99": 20771
+                },
+                "/api/getServices": {
+                    "min": 205,
+                    "max": 205,
+                    "median": 205,
+                    "p95": 205,
+                    "p99": 205
+                },
+                "/api/subscribe": {
+                    "min": 390,
+                    "max": 390,
+                    "median": 390,
+                    "p95": 390,
+                    "p99": 390
+                },
+                "/api/checkSubscriptions": {
+                    "min": 206,
+                    "max": 206,
+                    "median": 206,
+                    "p95": 206,
+                    "p99": 206
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T06:43:40.725Z",
+            "scenario_duration": 8939.9,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 8470,
+                    "max": 8470,
+                    "median": 8470,
+                    "p95": 8470,
+                    "p99": 8470
+                },
+                "/api/getServices": {
+                    "min": 126,
+                    "max": 126,
+                    "median": 126,
+                    "p95": 126,
+                    "p99": 126
+                },
+                "/api/subscribe": {
+                    "min": 121,
+                    "max": 121,
+                    "median": 121,
+                    "p95": 121,
+                    "p99": 121
+                },
+                "/api/checkSubscriptions": {
+                    "min": 220,
+                    "max": 220,
+                    "median": 220,
+                    "p95": 220,
+                    "p99": 220
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T07:17:57.919Z",
+            "scenario_duration": 5638.6,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 5172,
+                    "max": 5172,
+                    "median": 5172,
+                    "p95": 5172,
+                    "p99": 5172
+                },
+                "/api/getServices": {
+                    "min": 173,
+                    "max": 173,
+                    "median": 173,
+                    "p95": 173,
+                    "p99": 173
+                },
+                "/api/subscribe": {
+                    "min": 54,
+                    "max": 54,
+                    "median": 54,
+                    "p95": 54,
+                    "p99": 54
+                },
+                "/api/checkSubscriptions": {
+                    "min": 233,
+                    "max": 233,
+                    "median": 233,
+                    "p95": 233,
+                    "p99": 233
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T07:52:25.669Z",
+            "scenario_duration": 5100.8,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 4606,
+                    "max": 4606,
+                    "median": 4606,
+                    "p95": 4606,
+                    "p99": 4606
+                },
+                "/api/getServices": {
+                    "min": 165,
+                    "max": 165,
+                    "median": 165,
+                    "p95": 165,
+                    "p99": 165
+                },
+                "/api/subscribe": {
+                    "min": 105,
+                    "max": 105,
+                    "median": 105,
+                    "p95": 105,
+                    "p99": 105
+                },
+                "/api/checkSubscriptions": {
+                    "min": 219,
+                    "max": 219,
+                    "median": 219,
+                    "p95": 219,
+                    "p99": 219
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T08:27:03.659Z",
+            "scenario_duration": 13214.3,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 12592,
+                    "max": 12592,
+                    "median": 12592,
+                    "p95": 12592,
+                    "p99": 12592
+                },
+                "/api/getServices": {
+                    "min": 128,
+                    "max": 128,
+                    "median": 128,
+                    "p95": 128,
+                    "p99": 128
+                },
+                "/api/subscribe": {
+                    "min": 136,
+                    "max": 136,
+                    "median": 136,
+                    "p95": 136,
+                    "p99": 136
+                },
+                "/api/checkSubscriptions": {
+                    "min": 352,
+                    "max": 352,
+                    "median": 352,
+                    "p95": 352,
+                    "p99": 352
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T09:01:14.238Z",
+            "scenario_duration": 7234.2,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 6724,
+                    "max": 6724,
+                    "median": 6724,
+                    "p95": 6724,
+                    "p99": 6724
+                },
+                "/api/getServices": {
+                    "min": 113,
+                    "max": 113,
+                    "median": 113,
+                    "p95": 113,
+                    "p99": 113
+                },
+                "/api/subscribe": {
+                    "min": 113,
+                    "max": 113,
+                    "median": 113,
+                    "p95": 113,
+                    "p99": 113
+                },
+                "/api/checkSubscriptions": {
+                    "min": 276,
+                    "max": 276,
+                    "median": 276,
+                    "p95": 276,
+                    "p99": 276
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T09:35:34.397Z",
+            "scenario_duration": 6477,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 5999,
+                    "max": 5999,
+                    "median": 5999,
+                    "p95": 5999,
+                    "p99": 5999
+                },
+                "/api/getServices": {
+                    "min": 99,
+                    "max": 99,
+                    "median": 99,
+                    "p95": 99,
+                    "p99": 99
+                },
+                "/api/subscribe": {
+                    "min": 87,
+                    "max": 87,
+                    "median": 87,
+                    "p95": 87,
+                    "p99": 87
+                },
+                "/api/checkSubscriptions": {
+                    "min": 285,
+                    "max": 285,
+                    "median": 285,
+                    "p95": 285,
+                    "p99": 285
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T10:09:48.055Z",
+            "scenario_duration": 5815.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 5154,
+                    "max": 5154,
+                    "median": 5154,
+                    "p95": 5154,
+                    "p99": 5154
+                },
+                "/api/getServices": {
+                    "min": 155,
+                    "max": 155,
+                    "median": 155,
+                    "p95": 155,
+                    "p99": 155
+                },
+                "/api/subscribe": {
+                    "min": 253,
+                    "max": 253,
+                    "median": 253,
+                    "p95": 253,
+                    "p99": 253
+                },
+                "/api/checkSubscriptions": {
+                    "min": 248,
+                    "max": 248,
+                    "median": 248,
+                    "p95": 248,
+                    "p99": 248
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T10:44:06.880Z",
+            "scenario_duration": 19950.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 19048,
+                    "max": 19048,
+                    "median": 19048,
+                    "p95": 19048,
+                    "p99": 19048
+                },
+                "/api/getServices": {
+                    "min": 440,
+                    "max": 440,
+                    "median": 440,
+                    "p95": 440,
+                    "p99": 440
+                },
+                "/api/subscribe": {
+                    "min": 227,
+                    "max": 227,
+                    "median": 227,
+                    "p95": 227,
+                    "p99": 227
+                },
+                "/api/checkSubscriptions": {
+                    "min": 229,
+                    "max": 229,
+                    "median": 229,
+                    "p95": 229,
+                    "p99": 229
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T11:18:48.714Z",
+            "scenario_duration": 21869.6,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 21385,
+                    "max": 21385,
+                    "median": 21385,
+                    "p95": 21385,
+                    "p99": 21385
+                },
+                "/api/getServices": {
+                    "min": 162,
+                    "max": 162,
+                    "median": 162,
+                    "p95": 162,
+                    "p99": 162
+                },
+                "/api/subscribe": {
+                    "min": 127,
+                    "max": 127,
+                    "median": 127,
+                    "p95": 127,
+                    "p99": 127
+                },
+                "/api/checkSubscriptions": {
+                    "min": 189,
+                    "max": 189,
+                    "median": 189,
+                    "p95": 189,
+                    "p99": 189
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T11:53:08.003Z",
+            "scenario_duration": 7934.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 7442,
+                    "max": 7442,
+                    "median": 7442,
+                    "p95": 7442,
+                    "p99": 7442
+                },
+                "/api/getServices": {
+                    "min": 148,
+                    "max": 148,
+                    "median": 148,
+                    "p95": 148,
+                    "p99": 148
+                },
+                "/api/subscribe": {
+                    "min": 127,
+                    "max": 127,
+                    "median": 127,
+                    "p95": 127,
+                    "p99": 127
+                },
+                "/api/checkSubscriptions": {
+                    "min": 210,
+                    "max": 210,
+                    "median": 210,
+                    "p95": 210,
+                    "p99": 210
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T12:27:29.334Z",
+            "scenario_duration": 9406.8,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 8765,
+                    "max": 8765,
+                    "median": 8765,
+                    "p95": 8765,
+                    "p99": 8765
+                },
+                "/api/getServices": {
+                    "min": 186,
+                    "max": 186,
+                    "median": 186,
+                    "p95": 186,
+                    "p99": 186
+                },
+                "/api/subscribe": {
+                    "min": 116,
+                    "max": 116,
+                    "median": 116,
+                    "p95": 116,
+                    "p99": 116
+                },
+                "/api/checkSubscriptions": {
+                    "min": 335,
+                    "max": 335,
+                    "median": 335,
+                    "p95": 335,
+                    "p99": 335
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T13:01:58.103Z",
+            "scenario_duration": 19223.5,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 18619,
+                    "max": 18619,
+                    "median": 18619,
+                    "p95": 18619,
+                    "p99": 18619
+                },
+                "/api/getServices": {
+                    "min": 169,
+                    "max": 169,
+                    "median": 169,
+                    "p95": 169,
+                    "p99": 169
+                },
+                "/api/subscribe": {
+                    "min": 167,
+                    "max": 167,
+                    "median": 167,
+                    "p95": 167,
+                    "p99": 167
+                },
+                "/api/checkSubscriptions": {
+                    "min": 264,
+                    "max": 264,
+                    "median": 264,
+                    "p95": 264,
+                    "p99": 264
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T13:36:25.967Z",
+            "scenario_duration": 19560.4,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 18507,
+                    "max": 18507,
+                    "median": 18507,
+                    "p95": 18507,
+                    "p99": 18507
+                },
+                "/api/getServices": {
+                    "min": 263,
+                    "max": 263,
+                    "median": 263,
+                    "p95": 263,
+                    "p99": 263
+                },
+                "/api/subscribe": {
+                    "min": 518,
+                    "max": 518,
+                    "median": 518,
+                    "p95": 518,
+                    "p99": 518
+                },
+                "/api/checkSubscriptions": {
+                    "min": 265,
+                    "max": 265,
+                    "median": 265,
+                    "p95": 265,
+                    "p99": 265
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T14:11:08.007Z",
+            "scenario_duration": 8759.3,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 7723,
+                    "max": 7723,
+                    "median": 7723,
+                    "p95": 7723,
+                    "p99": 7723
+                },
+                "/api/getServices": {
+                    "min": 444,
+                    "max": 444,
+                    "median": 444,
+                    "p95": 444,
+                    "p99": 444
+                },
+                "/api/subscribe": {
+                    "min": 82,
+                    "max": 82,
+                    "median": 82,
+                    "p95": 82,
+                    "p99": 82
+                },
+                "/api/checkSubscriptions": {
+                    "min": 504,
+                    "max": 504,
+                    "median": 504,
+                    "p95": 504,
+                    "p99": 504
+                }
+            }
+        }
+    ],
+    "warmstart_zip": [
+        {
+            "timestamp": "2020-04-05T08:27:54.277Z",
+            "scenario_duration": 578.3,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 324,
+                    "max": 324,
+                    "median": 324,
+                    "p95": 324,
+                    "p99": 324
+                },
+                "/api/getServices": {
+                    "min": 58,
+                    "max": 58,
+                    "median": 58,
+                    "p95": 58,
+                    "p99": 58
+                },
+                "/api/subscribe": {
+                    "min": 44,
+                    "max": 44,
+                    "median": 44,
+                    "p95": 44,
+                    "p99": 44
+                },
+                "/api/checkSubscriptions": {
+                    "min": 146,
+                    "max": 146,
+                    "median": 146,
+                    "p95": 146,
+                    "p99": 146
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T09:01:35.750Z",
+            "scenario_duration": 597.8,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 335,
+                    "max": 335,
+                    "median": 335,
+                    "p95": 335,
+                    "p99": 335
+                },
+                "/api/getServices": {
+                    "min": 54,
+                    "max": 54,
+                    "median": 54,
+                    "p95": 54,
+                    "p99": 54
+                },
+                "/api/subscribe": {
+                    "min": 47,
+                    "max": 47,
+                    "median": 47,
+                    "p95": 47,
+                    "p99": 47
+                },
+                "/api/checkSubscriptions": {
+                    "min": 157,
+                    "max": 157,
+                    "median": 157,
+                    "p95": 157,
+                    "p99": 157
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T09:36:07.521Z",
+            "scenario_duration": 615.9,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 343,
+                    "max": 343,
+                    "median": 343,
+                    "p95": 343,
+                    "p99": 343
+                },
+                "/api/getServices": {
+                    "min": 61,
+                    "max": 61,
+                    "median": 61,
+                    "p95": 61,
+                    "p99": 61
+                },
+                "/api/subscribe": {
+                    "min": 48,
+                    "max": 48,
+                    "median": 48,
+                    "p95": 48,
+                    "p99": 48
+                },
+                "/api/checkSubscriptions": {
+                    "min": 160,
+                    "max": 160,
+                    "median": 160,
+                    "p95": 160,
+                    "p99": 160
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T10:10:35.536Z",
+            "scenario_duration": 630.9,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 360,
+                    "max": 360,
+                    "median": 360,
+                    "p95": 360,
+                    "p99": 360
+                },
+                "/api/getServices": {
+                    "min": 60,
+                    "max": 60,
+                    "median": 60,
+                    "p95": 60,
+                    "p99": 60
+                },
+                "/api/subscribe": {
+                    "min": 46,
+                    "max": 46,
+                    "median": 46,
+                    "p95": 46,
+                    "p99": 46
+                },
+                "/api/checkSubscriptions": {
+                    "min": 160,
+                    "max": 160,
+                    "median": 160,
+                    "p95": 160,
+                    "p99": 160
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T10:44:52.908Z",
+            "scenario_duration": 642.6,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 365,
+                    "max": 365,
+                    "median": 365,
+                    "p95": 365,
+                    "p99": 365
+                },
+                "/api/getServices": {
+                    "min": 60,
+                    "max": 60,
+                    "median": 60,
+                    "p95": 60,
+                    "p99": 60
+                },
+                "/api/subscribe": {
+                    "min": 49,
+                    "max": 49,
+                    "median": 49,
+                    "p95": 49,
+                    "p99": 49
+                },
+                "/api/checkSubscriptions": {
+                    "min": 161,
+                    "max": 161,
+                    "median": 161,
+                    "p95": 161,
+                    "p99": 161
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T11:19:16.144Z",
+            "scenario_duration": 733.3,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 376,
+                    "max": 376,
+                    "median": 376,
+                    "p95": 376,
+                    "p99": 376
+                },
+                "/api/getServices": {
+                    "min": 87,
+                    "max": 87,
+                    "median": 87,
+                    "p95": 87,
+                    "p99": 87
+                },
+                "/api/subscribe": {
+                    "min": 92,
+                    "max": 92,
+                    "median": 92,
+                    "p95": 92,
+                    "p99": 92
+                },
+                "/api/checkSubscriptions": {
+                    "min": 171,
+                    "max": 171,
+                    "median": 171,
+                    "p95": 171,
+                    "p99": 171
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T11:53:41.954Z",
+            "scenario_duration": 595.8,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 310,
+                    "max": 310,
+                    "median": 310,
+                    "p95": 310,
+                    "p99": 310
+                },
+                "/api/getServices": {
+                    "min": 54,
+                    "max": 54,
+                    "median": 54,
+                    "p95": 54,
+                    "p99": 54
+                },
+                "/api/subscribe": {
+                    "min": 45,
+                    "max": 45,
+                    "median": 45,
+                    "p95": 45,
+                    "p99": 45
+                },
+                "/api/checkSubscriptions": {
+                    "min": 181,
+                    "max": 181,
+                    "median": 181,
+                    "p95": 181,
+                    "p99": 181
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T12:28:02.175Z",
+            "scenario_duration": 643.3,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 389,
+                    "max": 389,
+                    "median": 389,
+                    "p95": 389,
+                    "p99": 389
+                },
+                "/api/getServices": {
+                    "min": 59,
+                    "max": 59,
+                    "median": 59,
+                    "p95": 59,
+                    "p99": 59
+                },
+                "/api/subscribe": {
+                    "min": 52,
+                    "max": 52,
+                    "median": 52,
+                    "p95": 52,
+                    "p99": 52
+                },
+                "/api/checkSubscriptions": {
+                    "min": 140,
+                    "max": 140,
+                    "median": 140,
+                    "p95": 140,
+                    "p99": 140
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T13:02:31.042Z",
+            "scenario_duration": 652.5,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 391,
+                    "max": 391,
+                    "median": 391,
+                    "p95": 391,
+                    "p99": 391
+                },
+                "/api/getServices": {
+                    "min": 60,
+                    "max": 60,
+                    "median": 60,
+                    "p95": 60,
+                    "p99": 60
+                },
+                "/api/subscribe": {
+                    "min": 50,
+                    "max": 50,
+                    "median": 50,
+                    "p95": 50,
+                    "p99": 50
+                },
+                "/api/checkSubscriptions": {
+                    "min": 145,
+                    "max": 145,
+                    "median": 145,
+                    "p95": 145,
+                    "p99": 145
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T06:44:14.007Z",
+            "scenario_duration": 839.2,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 347,
+                    "max": 347,
+                    "median": 347,
+                    "p95": 347,
+                    "p99": 347
+                },
+                "/api/getServices": {
+                    "min": 73,
+                    "max": 73,
+                    "median": 73,
+                    "p95": 73,
+                    "p99": 73
+                },
+                "/api/subscribe": {
+                    "min": 58,
+                    "max": 58,
+                    "median": 58,
+                    "p95": 58,
+                    "p99": 58
+                },
+                "/api/checkSubscriptions": {
+                    "min": 354,
+                    "max": 354,
+                    "median": 354,
+                    "p95": 354,
+                    "p99": 354
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T07:18:31.204Z",
+            "scenario_duration": 736,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 362,
+                    "max": 362,
+                    "median": 362,
+                    "p95": 362,
+                    "p99": 362
+                },
+                "/api/getServices": {
+                    "min": 91,
+                    "max": 91,
+                    "median": 91,
+                    "p95": 91,
+                    "p99": 91
+                },
+                "/api/subscribe": {
+                    "min": 106,
+                    "max": 106,
+                    "median": 106,
+                    "p95": 106,
+                    "p99": 106
+                },
+                "/api/checkSubscriptions": {
+                    "min": 170,
+                    "max": 170,
+                    "median": 170,
+                    "p95": 170,
+                    "p99": 170
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T07:52:58.952Z",
+            "scenario_duration": 776.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 430,
+                    "max": 430,
+                    "median": 430,
+                    "p95": 430,
+                    "p99": 430
+                },
+                "/api/getServices": {
+                    "min": 59,
+                    "max": 59,
+                    "median": 59,
+                    "p95": 59,
+                    "p99": 59
+                },
+                "/api/subscribe": {
+                    "min": 47,
+                    "max": 47,
+                    "median": 47,
+                    "p95": 47,
+                    "p99": 47
+                },
+                "/api/checkSubscriptions": {
+                    "min": 236,
+                    "max": 236,
+                    "median": 236,
+                    "p95": 236,
+                    "p99": 236
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T08:27:37.002Z",
+            "scenario_duration": 616.5,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 308,
+                    "max": 308,
+                    "median": 308,
+                    "p95": 308,
+                    "p99": 308
+                },
+                "/api/getServices": {
+                    "min": 66,
+                    "max": 66,
+                    "median": 66,
+                    "p95": 66,
+                    "p99": 66
+                },
+                "/api/subscribe": {
+                    "min": 53,
+                    "max": 53,
+                    "median": 53,
+                    "p95": 53,
+                    "p99": 53
+                },
+                "/api/checkSubscriptions": {
+                    "min": 183,
+                    "max": 183,
+                    "median": 183,
+                    "p95": 183,
+                    "p99": 183
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T09:01:47.562Z",
+            "scenario_duration": 642.9,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 344,
+                    "max": 344,
+                    "median": 344,
+                    "p95": 344,
+                    "p99": 344
+                },
+                "/api/getServices": {
+                    "min": 93,
+                    "max": 93,
+                    "median": 93,
+                    "p95": 93,
+                    "p99": 93
+                },
+                "/api/subscribe": {
+                    "min": 65,
+                    "max": 65,
+                    "median": 65,
+                    "p95": 65,
+                    "p99": 65
+                },
+                "/api/checkSubscriptions": {
+                    "min": 135,
+                    "max": 135,
+                    "median": 135,
+                    "p95": 135,
+                    "p99": 135
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T09:36:07.716Z",
+            "scenario_duration": 625.9,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 344,
+                    "max": 344,
+                    "median": 344,
+                    "p95": 344,
+                    "p99": 344
+                },
+                "/api/getServices": {
+                    "min": 55,
+                    "max": 55,
+                    "median": 55,
+                    "p95": 55,
+                    "p99": 55
+                },
+                "/api/subscribe": {
+                    "min": 47,
+                    "max": 47,
+                    "median": 47,
+                    "p95": 47,
+                    "p99": 47
+                },
+                "/api/checkSubscriptions": {
+                    "min": 173,
+                    "max": 173,
+                    "median": 173,
+                    "p95": 173,
+                    "p99": 173
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T10:10:21.380Z",
+            "scenario_duration": 988.9,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 462,
+                    "max": 462,
+                    "median": 462,
+                    "p95": 462,
+                    "p99": 462
+                },
+                "/api/getServices": {
+                    "min": 70,
+                    "max": 70,
+                    "median": 70,
+                    "p95": 70,
+                    "p99": 70
+                },
+                "/api/subscribe": {
+                    "min": 271,
+                    "max": 271,
+                    "median": 271,
+                    "p95": 271,
+                    "p99": 271
+                },
+                "/api/checkSubscriptions": {
+                    "min": 182,
+                    "max": 182,
+                    "median": 182,
+                    "p95": 182,
+                    "p99": 182
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T10:44:40.203Z",
+            "scenario_duration": 775.5,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 387,
+                    "max": 387,
+                    "median": 387,
+                    "p95": 387,
+                    "p99": 387
+                },
+                "/api/getServices": {
+                    "min": 88,
+                    "max": 88,
+                    "median": 88,
+                    "p95": 88,
+                    "p99": 88
+                },
+                "/api/subscribe": {
+                    "min": 70,
+                    "max": 70,
+                    "median": 70,
+                    "p95": 70,
+                    "p99": 70
+                },
+                "/api/checkSubscriptions": {
+                    "min": 226,
+                    "max": 226,
+                    "median": 226,
+                    "p95": 226,
+                    "p99": 226
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T11:19:22.049Z",
+            "scenario_duration": 614.2,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 337,
+                    "max": 337,
+                    "median": 337,
+                    "p95": 337,
+                    "p99": 337
+                },
+                "/api/getServices": {
+                    "min": 67,
+                    "max": 67,
+                    "median": 67,
+                    "p95": 67,
+                    "p99": 67
+                },
+                "/api/subscribe": {
+                    "min": 51,
+                    "max": 51,
+                    "median": 51,
+                    "p95": 51,
+                    "p99": 51
+                },
+                "/api/checkSubscriptions": {
+                    "min": 153,
+                    "max": 153,
+                    "median": 153,
+                    "p95": 153,
+                    "p99": 153
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T11:53:41.356Z",
+            "scenario_duration": 627.9,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 358,
+                    "max": 358,
+                    "median": 358,
+                    "p95": 358,
+                    "p99": 358
+                },
+                "/api/getServices": {
+                    "min": 62,
+                    "max": 62,
+                    "median": 62,
+                    "p95": 62,
+                    "p99": 62
+                },
+                "/api/subscribe": {
+                    "min": 50,
+                    "max": 50,
+                    "median": 50,
+                    "p95": 50,
+                    "p99": 50
+                },
+                "/api/checkSubscriptions": {
+                    "min": 150,
+                    "max": 150,
+                    "median": 150,
+                    "p95": 150,
+                    "p99": 150
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T12:28:02.693Z",
+            "scenario_duration": 937.9,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 362,
+                    "max": 362,
+                    "median": 362,
+                    "p95": 362,
+                    "p99": 362
+                },
+                "/api/getServices": {
+                    "min": 86,
+                    "max": 86,
+                    "median": 86,
+                    "p95": 86,
+                    "p99": 86
+                },
+                "/api/subscribe": {
+                    "min": 54,
+                    "max": 54,
+                    "median": 54,
+                    "p95": 54,
+                    "p99": 54
+                },
+                "/api/checkSubscriptions": {
+                    "min": 429,
+                    "max": 429,
+                    "median": 429,
+                    "p95": 429,
+                    "p99": 429
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T13:02:31.433Z",
+            "scenario_duration": 695.7,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 382,
+                    "max": 382,
+                    "median": 382,
+                    "p95": 382,
+                    "p99": 382
+                },
+                "/api/getServices": {
+                    "min": 70,
+                    "max": 70,
+                    "median": 70,
+                    "p95": 70,
+                    "p99": 70
+                },
+                "/api/subscribe": {
+                    "min": 54,
+                    "max": 54,
+                    "median": 54,
+                    "p95": 54,
+                    "p99": 54
+                },
+                "/api/checkSubscriptions": {
+                    "min": 181,
+                    "max": 181,
+                    "median": 181,
+                    "p95": 181,
+                    "p99": 181
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T13:36:59.293Z",
+            "scenario_duration": 724.4,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 436,
+                    "max": 436,
+                    "median": 436,
+                    "p95": 436,
+                    "p99": 436
+                },
+                "/api/getServices": {
+                    "min": 60,
+                    "max": 60,
+                    "median": 60,
+                    "p95": 60,
+                    "p99": 60
+                },
+                "/api/subscribe": {
+                    "min": 58,
+                    "max": 58,
+                    "median": 58,
+                    "p95": 58,
+                    "p99": 58
+                },
+                "/api/checkSubscriptions": {
+                    "min": 163,
+                    "max": 163,
+                    "median": 163,
+                    "p95": 163,
+                    "p99": 163
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T14:11:41.346Z",
+            "scenario_duration": 692.6,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 439,
+                    "max": 439,
+                    "median": 439,
+                    "p95": 439,
+                    "p99": 439
+                },
+                "/api/getServices": {
+                    "min": 54,
+                    "max": 54,
+                    "median": 54,
+                    "p95": 54,
+                    "p99": 54
+                },
+                "/api/subscribe": {
+                    "min": 49,
+                    "max": 49,
+                    "median": 49,
+                    "p95": 49,
+                    "p99": 49
+                },
+                "/api/checkSubscriptions": {
+                    "min": 144,
+                    "max": 144,
+                    "median": 144,
+                    "p95": 144,
+                    "p99": 144
+                }
+            }
+        }
+    ],
+    "warmstart_ms": [
+        {
+            "timestamp": "2020-04-05T08:29:22.589Z",
+            "scenario_duration": 1022.7,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 531,
+                    "max": 531,
+                    "median": 531,
+                    "p95": 531,
+                    "p99": 531
+                },
+                "/api/services": {
+                    "min": 203,
+                    "max": 203,
+                    "median": 203,
+                    "p95": 203,
+                    "p99": 203
+                },
+                "/api/subscriptions": {
+                    "min": 201,
+                    "max": 201,
+                    "median": 201,
+                    "p95": 201,
+                    "p99": 201
+                },
+                "/api/checkSubscriptions": {
+                    "min": 81,
+                    "max": 81,
+                    "median": 81,
+                    "p95": 81,
+                    "p99": 81
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T09:03:03.549Z",
+            "scenario_duration": 1086.4,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 618,
+                    "max": 618,
+                    "median": 618,
+                    "p95": 618,
+                    "p99": 618
+                },
+                "/api/services": {
+                    "min": 191,
+                    "max": 191,
+                    "median": 191,
+                    "p95": 191,
+                    "p99": 191
+                },
+                "/api/subscriptions": {
+                    "min": 202,
+                    "max": 202,
+                    "median": 202,
+                    "p95": 202,
+                    "p99": 202
+                },
+                "/api/checkSubscriptions": {
+                    "min": 69,
+                    "max": 69,
+                    "median": 69,
+                    "p95": 69,
+                    "p99": 69
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T09:37:31.847Z",
+            "scenario_duration": 1347.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 520,
+                    "max": 520,
+                    "median": 520,
+                    "p95": 520,
+                    "p99": 520
+                },
+                "/api/services": {
+                    "min": 253,
+                    "max": 253,
+                    "median": 253,
+                    "p95": 253,
+                    "p99": 253
+                },
+                "/api/subscriptions": {
+                    "min": 494,
+                    "max": 494,
+                    "median": 494,
+                    "p95": 494,
+                    "p99": 494
+                },
+                "/api/checkSubscriptions": {
+                    "min": 74,
+                    "max": 74,
+                    "median": 74,
+                    "p95": 74,
+                    "p99": 74
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T10:11:59.326Z",
+            "scenario_duration": 852.5,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 428,
+                    "max": 428,
+                    "median": 428,
+                    "p95": 428,
+                    "p99": 428
+                },
+                "/api/services": {
+                    "min": 170,
+                    "max": 170,
+                    "median": 170,
+                    "p95": 170,
+                    "p99": 170
+                },
+                "/api/subscriptions": {
+                    "min": 176,
+                    "max": 176,
+                    "median": 176,
+                    "p95": 176,
+                    "p99": 176
+                },
+                "/api/checkSubscriptions": {
+                    "min": 71,
+                    "max": 71,
+                    "median": 71,
+                    "p95": 71,
+                    "p99": 71
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T10:46:17.733Z",
+            "scenario_duration": 1008.6,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 487,
+                    "max": 487,
+                    "median": 487,
+                    "p95": 487,
+                    "p99": 487
+                },
+                "/api/services": {
+                    "min": 228,
+                    "max": 228,
+                    "median": 228,
+                    "p95": 228,
+                    "p99": 228
+                },
+                "/api/subscriptions": {
+                    "min": 219,
+                    "max": 219,
+                    "median": 219,
+                    "p95": 219,
+                    "p99": 219
+                },
+                "/api/checkSubscriptions": {
+                    "min": 69,
+                    "max": 69,
+                    "median": 69,
+                    "p95": 69,
+                    "p99": 69
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T11:20:40.892Z",
+            "scenario_duration": 900.7,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 399,
+                    "max": 399,
+                    "median": 399,
+                    "p95": 399,
+                    "p99": 399
+                },
+                "/api/services": {
+                    "min": 225,
+                    "max": 225,
+                    "median": 225,
+                    "p95": 225,
+                    "p99": 225
+                },
+                "/api/subscriptions": {
+                    "min": 203,
+                    "max": 203,
+                    "median": 203,
+                    "p95": 203,
+                    "p99": 203
+                },
+                "/api/checkSubscriptions": {
+                    "min": 66,
+                    "max": 66,
+                    "median": 66,
+                    "p95": 66,
+                    "p99": 66
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T11:55:08.738Z",
+            "scenario_duration": 1213.4,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 462,
+                    "max": 462,
+                    "median": 462,
+                    "p95": 462,
+                    "p99": 462
+                },
+                "/api/services": {
+                    "min": 365,
+                    "max": 365,
+                    "median": 365,
+                    "p95": 365,
+                    "p99": 365
+                },
+                "/api/subscriptions": {
+                    "min": 299,
+                    "max": 299,
+                    "median": 299,
+                    "p95": 299,
+                    "p99": 299
+                },
+                "/api/checkSubscriptions": {
+                    "min": 80,
+                    "max": 80,
+                    "median": 80,
+                    "p95": 80,
+                    "p99": 80
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T12:29:30.000Z",
+            "scenario_duration": 895.2,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 423,
+                    "max": 423,
+                    "median": 423,
+                    "p95": 423,
+                    "p99": 423
+                },
+                "/api/services": {
+                    "min": 180,
+                    "max": 180,
+                    "median": 180,
+                    "p95": 180,
+                    "p99": 180
+                },
+                "/api/subscriptions": {
+                    "min": 214,
+                    "max": 214,
+                    "median": 214,
+                    "p95": 214,
+                    "p99": 214
+                },
+                "/api/checkSubscriptions": {
+                    "min": 72,
+                    "max": 72,
+                    "median": 72,
+                    "p95": 72,
+                    "p99": 72
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T13:03:59.887Z",
+            "scenario_duration": 1967,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 1551,
+                    "max": 1551,
+                    "median": 1551,
+                    "p95": 1551,
+                    "p99": 1551
+                },
+                "/api/services": {
+                    "min": 155,
+                    "max": 155,
+                    "median": 155,
+                    "p95": 155,
+                    "p99": 155
+                },
+                "/api/subscriptions": {
+                    "min": 194,
+                    "max": 194,
+                    "median": 194,
+                    "p95": 194,
+                    "p99": 194
+                },
+                "/api/checkSubscriptions": {
+                    "min": 61,
+                    "max": 61,
+                    "median": 61,
+                    "p95": 61,
+                    "p99": 61
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T06:45:43.421Z",
+            "scenario_duration": 1065.3,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 526,
+                    "max": 526,
+                    "median": 526,
+                    "p95": 526,
+                    "p99": 526
+                },
+                "/api/services": {
+                    "min": 206,
+                    "max": 206,
+                    "median": 206,
+                    "p95": 206,
+                    "p99": 206
+                },
+                "/api/subscriptions": {
+                    "min": 238,
+                    "max": 238,
+                    "median": 238,
+                    "p95": 238,
+                    "p99": 238
+                },
+                "/api/checkSubscriptions": {
+                    "min": 89,
+                    "max": 89,
+                    "median": 89,
+                    "p95": 89,
+                    "p99": 89
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T07:19:58.056Z",
+            "scenario_duration": 1044.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 503,
+                    "max": 503,
+                    "median": 503,
+                    "p95": 503,
+                    "p99": 503
+                },
+                "/api/services": {
+                    "min": 238,
+                    "max": 238,
+                    "median": 238,
+                    "p95": 238,
+                    "p99": 238
+                },
+                "/api/subscriptions": {
+                    "min": 207,
+                    "max": 207,
+                    "median": 207,
+                    "p95": 207,
+                    "p99": 207
+                },
+                "/api/checkSubscriptions": {
+                    "min": 91,
+                    "max": 91,
+                    "median": 91,
+                    "p95": 91,
+                    "p99": 91
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T07:54:26.772Z",
+            "scenario_duration": 1248.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 523,
+                    "max": 523,
+                    "median": 523,
+                    "p95": 523,
+                    "p99": 523
+                },
+                "/api/services": {
+                    "min": 250,
+                    "max": 250,
+                    "median": 250,
+                    "p95": 250,
+                    "p99": 250
+                },
+                "/api/subscriptions": {
+                    "min": 398,
+                    "max": 398,
+                    "median": 398,
+                    "p95": 398,
+                    "p99": 398
+                },
+                "/api/checkSubscriptions": {
+                    "min": 70,
+                    "max": 70,
+                    "median": 70,
+                    "p95": 70,
+                    "p99": 70
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T08:29:04.270Z",
+            "scenario_duration": 1245.3,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 695,
+                    "max": 695,
+                    "median": 695,
+                    "p95": 695,
+                    "p99": 695
+                },
+                "/api/services": {
+                    "min": 270,
+                    "max": 270,
+                    "median": 270,
+                    "p95": 270,
+                    "p99": 270
+                },
+                "/api/subscriptions": {
+                    "min": 171,
+                    "max": 171,
+                    "median": 171,
+                    "p95": 171,
+                    "p99": 171
+                },
+                "/api/checkSubscriptions": {
+                    "min": 101,
+                    "max": 101,
+                    "median": 101,
+                    "p95": 101,
+                    "p99": 101
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T09:03:11.842Z",
+            "scenario_duration": 974.5,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 462,
+                    "max": 462,
+                    "median": 462,
+                    "p95": 462,
+                    "p99": 462
+                },
+                "/api/services": {
+                    "min": 202,
+                    "max": 202,
+                    "median": 202,
+                    "p95": 202,
+                    "p99": 202
+                },
+                "/api/subscriptions": {
+                    "min": 166,
+                    "max": 166,
+                    "median": 166,
+                    "p95": 166,
+                    "p99": 166
+                },
+                "/api/checkSubscriptions": {
+                    "min": 137,
+                    "max": 137,
+                    "median": 137,
+                    "p95": 137,
+                    "p99": 137
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T09:37:33.033Z",
+            "scenario_duration": 944,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 471,
+                    "max": 471,
+                    "median": 471,
+                    "p95": 471,
+                    "p99": 471
+                },
+                "/api/services": {
+                    "min": 169,
+                    "max": 169,
+                    "median": 169,
+                    "p95": 169,
+                    "p99": 169
+                },
+                "/api/subscriptions": {
+                    "min": 211,
+                    "max": 211,
+                    "median": 211,
+                    "p95": 211,
+                    "p99": 211
+                },
+                "/api/checkSubscriptions": {
+                    "min": 87,
+                    "max": 87,
+                    "median": 87,
+                    "p95": 87,
+                    "p99": 87
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T10:11:47.197Z",
+            "scenario_duration": 972.6,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 472,
+                    "max": 472,
+                    "median": 472,
+                    "p95": 472,
+                    "p99": 472
+                },
+                "/api/services": {
+                    "min": 217,
+                    "max": 217,
+                    "median": 217,
+                    "p95": 217,
+                    "p99": 217
+                },
+                "/api/subscriptions": {
+                    "min": 178,
+                    "max": 178,
+                    "median": 178,
+                    "p95": 178,
+                    "p99": 178
+                },
+                "/api/checkSubscriptions": {
+                    "min": 98,
+                    "max": 98,
+                    "median": 98,
+                    "p95": 98,
+                    "p99": 98
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T10:46:10.566Z",
+            "scenario_duration": 1081.8,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 522,
+                    "max": 522,
+                    "median": 522,
+                    "p95": 522,
+                    "p99": 522
+                },
+                "/api/services": {
+                    "min": 250,
+                    "max": 250,
+                    "median": 250,
+                    "p95": 250,
+                    "p99": 250
+                },
+                "/api/subscriptions": {
+                    "min": 212,
+                    "max": 212,
+                    "median": 212,
+                    "p95": 212,
+                    "p99": 212
+                },
+                "/api/checkSubscriptions": {
+                    "min": 90,
+                    "max": 90,
+                    "median": 90,
+                    "p95": 90,
+                    "p99": 90
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T11:20:58.045Z",
+            "scenario_duration": 1851,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 635,
+                    "max": 635,
+                    "median": 635,
+                    "p95": 635,
+                    "p99": 635
+                },
+                "/api/services": {
+                    "min": 267,
+                    "max": 267,
+                    "median": 267,
+                    "p95": 267,
+                    "p99": 267
+                },
+                "/api/subscriptions": {
+                    "min": 290,
+                    "max": 290,
+                    "median": 290,
+                    "p95": 290,
+                    "p99": 290
+                },
+                "/api/checkSubscriptions": {
+                    "min": 655,
+                    "max": 655,
+                    "median": 655,
+                    "p95": 655,
+                    "p99": 655
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T11:55:06.190Z",
+            "scenario_duration": 965.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 444,
+                    "max": 444,
+                    "median": 444,
+                    "p95": 444,
+                    "p99": 444
+                },
+                "/api/services": {
+                    "min": 218,
+                    "max": 218,
+                    "median": 218,
+                    "p95": 218,
+                    "p99": 218
+                },
+                "/api/subscriptions": {
+                    "min": 220,
+                    "max": 220,
+                    "median": 220,
+                    "p95": 220,
+                    "p99": 220
+                },
+                "/api/checkSubscriptions": {
+                    "min": 79,
+                    "max": 79,
+                    "median": 79,
+                    "p95": 79,
+                    "p99": 79
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T12:29:32.991Z",
+            "scenario_duration": 1212.4,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 632,
+                    "max": 632,
+                    "median": 632,
+                    "p95": 632,
+                    "p99": 632
+                },
+                "/api/services": {
+                    "min": 278,
+                    "max": 278,
+                    "median": 278,
+                    "p95": 278,
+                    "p99": 278
+                },
+                "/api/subscriptions": {
+                    "min": 219,
+                    "max": 219,
+                    "median": 219,
+                    "p95": 219,
+                    "p99": 219
+                },
+                "/api/checkSubscriptions": {
+                    "min": 77,
+                    "max": 77,
+                    "median": 77,
+                    "p95": 77,
+                    "p99": 77
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T13:03:58.786Z",
+            "scenario_duration": 1160.9,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 539,
+                    "max": 539,
+                    "median": 539,
+                    "p95": 539,
+                    "p99": 539
+                },
+                "/api/services": {
+                    "min": 268,
+                    "max": 268,
+                    "median": 268,
+                    "p95": 268,
+                    "p99": 268
+                },
+                "/api/subscriptions": {
+                    "min": 284,
+                    "max": 284,
+                    "median": 284,
+                    "p95": 284,
+                    "p99": 284
+                },
+                "/api/checkSubscriptions": {
+                    "min": 64,
+                    "max": 64,
+                    "median": 64,
+                    "p95": 64,
+                    "p99": 64
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T13:38:35.680Z",
+            "scenario_duration": 1224.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 529,
+                    "max": 529,
+                    "median": 529,
+                    "p95": 529,
+                    "p99": 529
+                },
+                "/api/services": {
+                    "min": 296,
+                    "max": 296,
+                    "median": 296,
+                    "p95": 296,
+                    "p99": 296
+                },
+                "/api/subscriptions": {
+                    "min": 326,
+                    "max": 326,
+                    "median": 326,
+                    "p95": 326,
+                    "p99": 326
+                },
+                "/api/checkSubscriptions": {
+                    "min": 69,
+                    "max": 69,
+                    "median": 69,
+                    "p95": 69,
+                    "p99": 69
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T14:13:29.348Z",
+            "scenario_duration": 1097.8,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 500,
+                    "max": 500,
+                    "median": 500,
+                    "p95": 500,
+                    "p99": 500
+                },
+                "/api/services": {
+                    "min": 172,
+                    "max": 172,
+                    "median": 172,
+                    "p95": 172,
+                    "p99": 172
+                },
+                "/api/subscriptions": {
+                    "min": 331,
+                    "max": 331,
+                    "median": 331,
+                    "p95": 331,
+                    "p99": 331
+                },
+                "/api/checkSubscriptions": {
+                    "min": 87,
+                    "max": 87,
+                    "median": 87,
+                    "p95": 87,
+                    "p99": 87
+                }
+            }
+        }
+    ],
+    "coldstart_ms": [
+        {
+            "timestamp": "2020-04-05T08:28:48.765Z",
+            "scenario_duration": 21812.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 10313,
+                    "max": 10313,
+                    "median": 10313,
+                    "p95": 10313,
+                    "p99": 10313
+                },
+                "/api/services": {
+                    "min": 6579,
+                    "max": 6579,
+                    "median": 6579,
+                    "p95": 6579,
+                    "p99": 6579
+                },
+                "/api/subscriptions": {
+                    "min": 4324,
+                    "max": 4324,
+                    "median": 4324,
+                    "p95": 4324,
+                    "p99": 4324
+                },
+                "/api/checkSubscriptions": {
+                    "min": 589,
+                    "max": 589,
+                    "median": 589,
+                    "p95": 589,
+                    "p99": 589
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T09:02:29.714Z",
+            "scenario_duration": 21219,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 10404,
+                    "max": 10404,
+                    "median": 10404,
+                    "p95": 10404,
+                    "p99": 10404
+                },
+                "/api/services": {
+                    "min": 5098,
+                    "max": 5098,
+                    "median": 5098,
+                    "p95": 5098,
+                    "p99": 5098
+                },
+                "/api/subscriptions": {
+                    "min": 5209,
+                    "max": 5209,
+                    "median": 5209,
+                    "p95": 5209,
+                    "p99": 5209
+                },
+                "/api/checkSubscriptions": {
+                    "min": 500,
+                    "max": 500,
+                    "median": 500,
+                    "p95": 500,
+                    "p99": 500
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T09:36:58.002Z",
+            "scenario_duration": 17950,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 7869,
+                    "max": 7869,
+                    "median": 7869,
+                    "p95": 7869,
+                    "p99": 7869
+                },
+                "/api/services": {
+                    "min": 4722,
+                    "max": 4722,
+                    "median": 4722,
+                    "p95": 4722,
+                    "p99": 4722
+                },
+                "/api/subscriptions": {
+                    "min": 4995,
+                    "max": 4995,
+                    "median": 4995,
+                    "p95": 4995,
+                    "p99": 4995
+                },
+                "/api/checkSubscriptions": {
+                    "min": 358,
+                    "max": 358,
+                    "median": 358,
+                    "p95": 358,
+                    "p99": 358
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T10:11:26.015Z",
+            "scenario_duration": 17678.8,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 7915,
+                    "max": 7915,
+                    "median": 7915,
+                    "p95": 7915,
+                    "p99": 7915
+                },
+                "/api/services": {
+                    "min": 4313,
+                    "max": 4313,
+                    "median": 4313,
+                    "p95": 4313,
+                    "p99": 4313
+                },
+                "/api/subscriptions": {
+                    "min": 4892,
+                    "max": 4892,
+                    "median": 4892,
+                    "p95": 4892,
+                    "p99": 4892
+                },
+                "/api/checkSubscriptions": {
+                    "min": 552,
+                    "max": 552,
+                    "median": 552,
+                    "p95": 552,
+                    "p99": 552
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T10:45:43.898Z",
+            "scenario_duration": 18177.4,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 8218,
+                    "max": 8218,
+                    "median": 8218,
+                    "p95": 8218,
+                    "p99": 8218
+                },
+                "/api/services": {
+                    "min": 5143,
+                    "max": 5143,
+                    "median": 5143,
+                    "p95": 5143,
+                    "p99": 5143
+                },
+                "/api/subscriptions": {
+                    "min": 4352,
+                    "max": 4352,
+                    "median": 4352,
+                    "p95": 4352,
+                    "p99": 4352
+                },
+                "/api/checkSubscriptions": {
+                    "min": 459,
+                    "max": 459,
+                    "median": 459,
+                    "p95": 459,
+                    "p99": 459
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T11:20:07.596Z",
+            "scenario_duration": 18981.3,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 7940,
+                    "max": 7940,
+                    "median": 7940,
+                    "p95": 7940,
+                    "p99": 7940
+                },
+                "/api/services": {
+                    "min": 5786,
+                    "max": 5786,
+                    "median": 5786,
+                    "p95": 5786,
+                    "p99": 5786
+                },
+                "/api/subscriptions": {
+                    "min": 4795,
+                    "max": 4795,
+                    "median": 4795,
+                    "p95": 4795,
+                    "p99": 4795
+                },
+                "/api/checkSubscriptions": {
+                    "min": 451,
+                    "max": 451,
+                    "median": 451,
+                    "p95": 451,
+                    "p99": 451
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T11:54:34.918Z",
+            "scenario_duration": 20306.3,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 8424,
+                    "max": 8424,
+                    "median": 8424,
+                    "p95": 8424,
+                    "p99": 8424
+                },
+                "/api/services": {
+                    "min": 6985,
+                    "max": 6985,
+                    "median": 6985,
+                    "p95": 6985,
+                    "p99": 6985
+                },
+                "/api/subscriptions": {
+                    "min": 4411,
+                    "max": 4411,
+                    "median": 4411,
+                    "p95": 4411,
+                    "p99": 4411
+                },
+                "/api/checkSubscriptions": {
+                    "min": 478,
+                    "max": 478,
+                    "median": 478,
+                    "p95": 478,
+                    "p99": 478
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T12:28:56.668Z",
+            "scenario_duration": 21810.7,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 8539,
+                    "max": 8539,
+                    "median": 8539,
+                    "p95": 8539,
+                    "p99": 8539
+                },
+                "/api/services": {
+                    "min": 7239,
+                    "max": 7239,
+                    "median": 7239,
+                    "p95": 7239,
+                    "p99": 7239
+                },
+                "/api/subscriptions": {
+                    "min": 5667,
+                    "max": 5667,
+                    "median": 5667,
+                    "p95": 5667,
+                    "p99": 5667
+                },
+                "/api/checkSubscriptions": {
+                    "min": 360,
+                    "max": 360,
+                    "median": 360,
+                    "p95": 360,
+                    "p99": 360
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T13:03:25.523Z",
+            "scenario_duration": 21704.9,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 10027,
+                    "max": 10027,
+                    "median": 10027,
+                    "p95": 10027,
+                    "p99": 10027
+                },
+                "/api/services": {
+                    "min": 5588,
+                    "max": 5588,
+                    "median": 5588,
+                    "p95": 5588,
+                    "p99": 5588
+                },
+                "/api/subscriptions": {
+                    "min": 5653,
+                    "max": 5653,
+                    "median": 5653,
+                    "p95": 5653,
+                    "p99": 5653
+                },
+                "/api/checkSubscriptions": {
+                    "min": 431,
+                    "max": 431,
+                    "median": 431,
+                    "p95": 431,
+                    "p99": 431
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T06:45:09.558Z",
+            "scenario_duration": 22807,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 8506,
+                    "max": 8506,
+                    "median": 8506,
+                    "p95": 8506,
+                    "p99": 8506
+                },
+                "/api/services": {
+                    "min": 7299,
+                    "max": 7299,
+                    "median": 7299,
+                    "p95": 7299,
+                    "p99": 7299
+                },
+                "/api/subscriptions": {
+                    "min": 6544,
+                    "max": 6544,
+                    "median": 6544,
+                    "p95": 6544,
+                    "p99": 6544
+                },
+                "/api/checkSubscriptions": {
+                    "min": 453,
+                    "max": 453,
+                    "median": 453,
+                    "p95": 453,
+                    "p99": 453
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T07:19:24.237Z",
+            "scenario_duration": 20533.7,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 8727,
+                    "max": 8727,
+                    "median": 8727,
+                    "p95": 8727,
+                    "p99": 8727
+                },
+                "/api/services": {
+                    "min": 5875,
+                    "max": 5875,
+                    "median": 5875,
+                    "p95": 5875,
+                    "p99": 5875
+                },
+                "/api/subscriptions": {
+                    "min": 5488,
+                    "max": 5488,
+                    "median": 5488,
+                    "p95": 5488,
+                    "p99": 5488
+                },
+                "/api/checkSubscriptions": {
+                    "min": 436,
+                    "max": 436,
+                    "median": 436,
+                    "p95": 436,
+                    "p99": 436
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T07:53:52.941Z",
+            "scenario_duration": 21220.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 9367,
+                    "max": 9367,
+                    "median": 9367,
+                    "p95": 9367,
+                    "p99": 9367
+                },
+                "/api/services": {
+                    "min": 4956,
+                    "max": 4956,
+                    "median": 4956,
+                    "p95": 4956,
+                    "p99": 4956
+                },
+                "/api/subscriptions": {
+                    "min": 6424,
+                    "max": 6424,
+                    "median": 6424,
+                    "p95": 6424,
+                    "p99": 6424
+                },
+                "/api/checkSubscriptions": {
+                    "min": 467,
+                    "max": 467,
+                    "median": 467,
+                    "p95": 467,
+                    "p99": 467
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T08:28:30.472Z",
+            "scenario_duration": 20730.6,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 9409,
+                    "max": 9409,
+                    "median": 9409,
+                    "p95": 9409,
+                    "p99": 9409
+                },
+                "/api/services": {
+                    "min": 5781,
+                    "max": 5781,
+                    "median": 5781,
+                    "p95": 5781,
+                    "p99": 5781
+                },
+                "/api/subscriptions": {
+                    "min": 5089,
+                    "max": 5089,
+                    "median": 5089,
+                    "p95": 5089,
+                    "p99": 5089
+                },
+                "/api/checkSubscriptions": {
+                    "min": 446,
+                    "max": 446,
+                    "median": 446,
+                    "p95": 446,
+                    "p99": 446
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T09:02:38.521Z",
+            "scenario_duration": 18578,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 8025,
+                    "max": 8025,
+                    "median": 8025,
+                    "p95": 8025,
+                    "p99": 8025
+                },
+                "/api/services": {
+                    "min": 5688,
+                    "max": 5688,
+                    "median": 5688,
+                    "p95": 5688,
+                    "p99": 5688
+                },
+                "/api/subscriptions": {
+                    "min": 4497,
+                    "max": 4497,
+                    "median": 4497,
+                    "p95": 4497,
+                    "p99": 4497
+                },
+                "/api/checkSubscriptions": {
+                    "min": 362,
+                    "max": 362,
+                    "median": 362,
+                    "p95": 362,
+                    "p99": 362
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T09:36:59.692Z",
+            "scenario_duration": 19189.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 8093,
+                    "max": 8093,
+                    "median": 8093,
+                    "p95": 8093,
+                    "p99": 8093
+                },
+                "/api/services": {
+                    "min": 5470,
+                    "max": 5470,
+                    "median": 5470,
+                    "p95": 5470,
+                    "p99": 5470
+                },
+                "/api/subscriptions": {
+                    "min": 5237,
+                    "max": 5237,
+                    "median": 5237,
+                    "p95": 5237,
+                    "p99": 5237
+                },
+                "/api/checkSubscriptions": {
+                    "min": 383,
+                    "max": 383,
+                    "median": 383,
+                    "p95": 383,
+                    "p99": 383
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T10:11:13.857Z",
+            "scenario_duration": 19829.3,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 8985,
+                    "max": 8985,
+                    "median": 8985,
+                    "p95": 8985,
+                    "p99": 8985
+                },
+                "/api/services": {
+                    "min": 5159,
+                    "max": 5159,
+                    "median": 5159,
+                    "p95": 5159,
+                    "p99": 5159
+                },
+                "/api/subscriptions": {
+                    "min": 5128,
+                    "max": 5128,
+                    "median": 5128,
+                    "p95": 5128,
+                    "p99": 5128
+                },
+                "/api/checkSubscriptions": {
+                    "min": 550,
+                    "max": 550,
+                    "median": 550,
+                    "p95": 550,
+                    "p99": 550
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T10:45:36.706Z",
+            "scenario_duration": 23799.6,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 12057,
+                    "max": 12057,
+                    "median": 12057,
+                    "p95": 12057,
+                    "p99": 12057
+                },
+                "/api/services": {
+                    "min": 5012,
+                    "max": 5012,
+                    "median": 5012,
+                    "p95": 5012,
+                    "p99": 5012
+                },
+                "/api/subscriptions": {
+                    "min": 6251,
+                    "max": 6251,
+                    "median": 6251,
+                    "p95": 6251,
+                    "p99": 6251
+                },
+                "/api/checkSubscriptions": {
+                    "min": 474,
+                    "max": 474,
+                    "median": 474,
+                    "p95": 474,
+                    "p99": 474
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T11:20:23.626Z",
+            "scenario_duration": 28922.3,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 13252,
+                    "max": 13252,
+                    "median": 13252,
+                    "p95": 13252,
+                    "p99": 13252
+                },
+                "/api/services": {
+                    "min": 6506,
+                    "max": 6506,
+                    "median": 6506,
+                    "p95": 6506,
+                    "p99": 6506
+                },
+                "/api/subscriptions": {
+                    "min": 8661,
+                    "max": 8661,
+                    "median": 8661,
+                    "p95": 8661,
+                    "p99": 8661
+                },
+                "/api/checkSubscriptions": {
+                    "min": 499,
+                    "max": 499,
+                    "median": 499,
+                    "p95": 499,
+                    "p99": 499
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T11:54:32.784Z",
+            "scenario_duration": 18683,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 7712,
+                    "max": 7712,
+                    "median": 7712,
+                    "p95": 7712,
+                    "p99": 7712
+                },
+                "/api/services": {
+                    "min": 4700,
+                    "max": 4700,
+                    "median": 4700,
+                    "p95": 4700,
+                    "p99": 4700
+                },
+                "/api/subscriptions": {
+                    "min": 5863,
+                    "max": 5863,
+                    "median": 5863,
+                    "p95": 5863,
+                    "p99": 5863
+                },
+                "/api/checkSubscriptions": {
+                    "min": 401,
+                    "max": 401,
+                    "median": 401,
+                    "p95": 401,
+                    "p99": 401
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T12:28:59.150Z",
+            "scenario_duration": 24026.5,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 14758,
+                    "max": 14758,
+                    "median": 14758,
+                    "p95": 14758,
+                    "p99": 14758
+                },
+                "/api/services": {
+                    "min": 4297,
+                    "max": 4297,
+                    "median": 4297,
+                    "p95": 4297,
+                    "p99": 4297
+                },
+                "/api/subscriptions": {
+                    "min": 4589,
+                    "max": 4589,
+                    "median": 4589,
+                    "p95": 4589,
+                    "p99": 4589
+                },
+                "/api/checkSubscriptions": {
+                    "min": 375,
+                    "max": 375,
+                    "median": 375,
+                    "p95": 375,
+                    "p99": 375
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T13:03:24.937Z",
+            "scenario_duration": 21006.2,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 9038,
+                    "max": 9038,
+                    "median": 9038,
+                    "p95": 9038,
+                    "p99": 9038
+                },
+                "/api/services": {
+                    "min": 4339,
+                    "max": 4339,
+                    "median": 4339,
+                    "p95": 4339,
+                    "p99": 4339
+                },
+                "/api/subscriptions": {
+                    "min": 7245,
+                    "max": 7245,
+                    "median": 7245,
+                    "p95": 7245,
+                    "p99": 7245
+                },
+                "/api/checkSubscriptions": {
+                    "min": 377,
+                    "max": 377,
+                    "median": 377,
+                    "p95": 377,
+                    "p99": 377
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T13:38:01.830Z",
+            "scenario_duration": 30204.3,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 17887,
+                    "max": 17887,
+                    "median": 17887,
+                    "p95": 17887,
+                    "p99": 17887
+                },
+                "/api/services": {
+                    "min": 4954,
+                    "max": 4954,
+                    "median": 4954,
+                    "p95": 4954,
+                    "p99": 4954
+                },
+                "/api/subscriptions": {
+                    "min": 6940,
+                    "max": 6940,
+                    "median": 6940,
+                    "p95": 6940,
+                    "p99": 6940
+                },
+                "/api/checkSubscriptions": {
+                    "min": 415,
+                    "max": 415,
+                    "median": 415,
+                    "p95": 415,
+                    "p99": 415
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T14:12:55.486Z",
+            "scenario_duration": 41622.1,
+            "rt_endpoint": {
+                "/api/login": {
+                    "min": 8878,
+                    "max": 8878,
+                    "median": 8878,
+                    "p95": 8878,
+                    "p99": 8878
+                },
+                "/api/services": {
+                    "min": 26662,
+                    "max": 26662,
+                    "median": 26662,
+                    "p95": 26662,
+                    "p99": 26662
+                },
+                "/api/subscriptions": {
+                    "min": 5224,
+                    "max": 5224,
+                    "median": 5224,
+                    "p95": 5224,
+                    "p99": 5224
+                },
+                "/api/checkSubscriptions": {
+                    "min": 852,
+                    "max": 852,
+                    "median": 852,
+                    "p95": 852,
+                    "p99": 852
+                }
+            }
+        }
+    ],
+    "monolith": [
+        {
+            "timestamp": "2020-04-05T08:31:56.730Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 1251,
+                    "max": 1251,
+                    "median": 1251,
+                    "p95": 1251,
+                    "p99": 1251
+                },
+                "/services": {
+                    "min": 91,
+                    "max": 91,
+                    "median": 91,
+                    "p95": 91,
+                    "p99": 91
+                },
+                "/subscriptions": {
+                    "min": 39,
+                    "max": 39,
+                    "median": 39,
+                    "p95": 39,
+                    "p99": 39
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T09:05:36.235Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 288,
+                    "max": 288,
+                    "median": 288,
+                    "p95": 288,
+                    "p99": 288
+                },
+                "/services": {
+                    "min": 44,
+                    "max": 44,
+                    "median": 44,
+                    "p95": 44,
+                    "p99": 44
+                },
+                "/subscriptions": {
+                    "min": 38,
+                    "max": 38,
+                    "median": 38,
+                    "p95": 38,
+                    "p99": 38
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T09:40:04.632Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 298,
+                    "max": 298,
+                    "median": 298,
+                    "p95": 298,
+                    "p99": 298
+                },
+                "/services": {
+                    "min": 46,
+                    "max": 46,
+                    "median": 46,
+                    "p95": 46,
+                    "p99": 46
+                },
+                "/subscriptions": {
+                    "min": 39,
+                    "max": 39,
+                    "median": 39,
+                    "p95": 39,
+                    "p99": 39
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T10:14:32.184Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 282,
+                    "max": 282,
+                    "median": 282,
+                    "p95": 282,
+                    "p99": 282
+                },
+                "/services": {
+                    "min": 46,
+                    "max": 46,
+                    "median": 46,
+                    "p95": 46,
+                    "p99": 46
+                },
+                "/subscriptions": {
+                    "min": 59,
+                    "max": 59,
+                    "median": 59,
+                    "p95": 59,
+                    "p99": 59
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T10:48:50.906Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 282,
+                    "max": 282,
+                    "median": 282,
+                    "p95": 282,
+                    "p99": 282
+                },
+                "/services": {
+                    "min": 45,
+                    "max": 45,
+                    "median": 45,
+                    "p95": 45,
+                    "p99": 45
+                },
+                "/subscriptions": {
+                    "min": 35,
+                    "max": 35,
+                    "median": 35,
+                    "p95": 35,
+                    "p99": 35
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T11:23:13.686Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 285,
+                    "max": 285,
+                    "median": 285,
+                    "p95": 285,
+                    "p99": 285
+                },
+                "/services": {
+                    "min": 43,
+                    "max": 43,
+                    "median": 43,
+                    "p95": 43,
+                    "p99": 43
+                },
+                "/subscriptions": {
+                    "min": 37,
+                    "max": 37,
+                    "median": 37,
+                    "p95": 37,
+                    "p99": 37
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T11:57:41.471Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 266,
+                    "max": 266,
+                    "median": 266,
+                    "p95": 266,
+                    "p99": 266
+                },
+                "/services": {
+                    "min": 45,
+                    "max": 45,
+                    "median": 45,
+                    "p95": 45,
+                    "p99": 45
+                },
+                "/subscriptions": {
+                    "min": 40,
+                    "max": 40,
+                    "median": 40,
+                    "p95": 40,
+                    "p99": 40
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T12:32:02.689Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 263,
+                    "max": 263,
+                    "median": 263,
+                    "p95": 263,
+                    "p99": 263
+                },
+                "/services": {
+                    "min": 44,
+                    "max": 44,
+                    "median": 44,
+                    "p95": 44,
+                    "p99": 44
+                },
+                "/subscriptions": {
+                    "min": 38,
+                    "max": 38,
+                    "median": 38,
+                    "p95": 38,
+                    "p99": 38
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-05T13:06:32.592Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 320,
+                    "max": 320,
+                    "median": 320,
+                    "p95": 320,
+                    "p99": 320
+                },
+                "/services": {
+                    "min": 43,
+                    "max": 43,
+                    "median": 43,
+                    "p95": 43,
+                    "p99": 43
+                },
+                "/subscriptions": {
+                    "min": 39,
+                    "max": 39,
+                    "median": 39,
+                    "p95": 39,
+                    "p99": 39
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T06:48:16.997Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 843,
+                    "max": 843,
+                    "median": 843,
+                    "p95": 843,
+                    "p99": 843
+                },
+                "/services": {
+                    "min": 113,
+                    "max": 113,
+                    "median": 113,
+                    "p95": 113,
+                    "p99": 113
+                },
+                "/subscriptions": {
+                    "min": 48,
+                    "max": 48,
+                    "median": 48,
+                    "p95": 48,
+                    "p99": 48
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T07:22:31.208Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 275,
+                    "max": 275,
+                    "median": 275,
+                    "p95": 275,
+                    "p99": 275
+                },
+                "/services": {
+                    "min": 45,
+                    "max": 45,
+                    "median": 45,
+                    "p95": 45,
+                    "p99": 45
+                },
+                "/subscriptions": {
+                    "min": 38,
+                    "max": 38,
+                    "median": 38,
+                    "p95": 38,
+                    "p99": 38
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T07:56:59.494Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 304,
+                    "max": 304,
+                    "median": 304,
+                    "p95": 304,
+                    "p99": 304
+                },
+                "/services": {
+                    "min": 44,
+                    "max": 44,
+                    "median": 44,
+                    "p95": 44,
+                    "p99": 44
+                },
+                "/subscriptions": {
+                    "min": 39,
+                    "max": 39,
+                    "median": 39,
+                    "p95": 39,
+                    "p99": 39
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T08:31:37.423Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 277,
+                    "max": 277,
+                    "median": 277,
+                    "p95": 277,
+                    "p99": 277
+                },
+                "/services": {
+                    "min": 44,
+                    "max": 44,
+                    "median": 44,
+                    "p95": 44,
+                    "p99": 44
+                },
+                "/subscriptions": {
+                    "min": 39,
+                    "max": 39,
+                    "median": 39,
+                    "p95": 39,
+                    "p99": 39
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T09:05:44.989Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 253,
+                    "max": 253,
+                    "median": 253,
+                    "p95": 253,
+                    "p99": 253
+                },
+                "/services": {
+                    "min": 41,
+                    "max": 41,
+                    "median": 41,
+                    "p95": 41,
+                    "p99": 41
+                },
+                "/subscriptions": {
+                    "min": 34,
+                    "max": 34,
+                    "median": 34,
+                    "p95": 34,
+                    "p99": 34
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T09:40:06.180Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 276,
+                    "max": 276,
+                    "median": 276,
+                    "p95": 276,
+                    "p99": 276
+                },
+                "/services": {
+                    "min": 43,
+                    "max": 43,
+                    "median": 43,
+                    "p95": 43,
+                    "p99": 43
+                },
+                "/subscriptions": {
+                    "min": 60,
+                    "max": 60,
+                    "median": 60,
+                    "p95": 60,
+                    "p99": 60
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T10:14:20.407Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 317,
+                    "max": 317,
+                    "median": 317,
+                    "p95": 317,
+                    "p99": 317
+                },
+                "/services": {
+                    "min": 45,
+                    "max": 45,
+                    "median": 45,
+                    "p95": 45,
+                    "p99": 45
+                },
+                "/subscriptions": {
+                    "min": 37,
+                    "max": 37,
+                    "median": 37,
+                    "p95": 37,
+                    "p99": 37
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T10:48:43.700Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 271,
+                    "max": 271,
+                    "median": 271,
+                    "p95": 271,
+                    "p99": 271
+                },
+                "/services": {
+                    "min": 44,
+                    "max": 44,
+                    "median": 44,
+                    "p95": 44,
+                    "p99": 44
+                },
+                "/subscriptions": {
+                    "min": 40,
+                    "max": 40,
+                    "median": 40,
+                    "p95": 40,
+                    "p99": 40
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T11:23:31.227Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 307,
+                    "max": 307,
+                    "median": 307,
+                    "p95": 307,
+                    "p99": 307
+                },
+                "/services": {
+                    "min": 49,
+                    "max": 49,
+                    "median": 49,
+                    "p95": 49,
+                    "p99": 49
+                },
+                "/subscriptions": {
+                    "min": 40,
+                    "max": 40,
+                    "median": 40,
+                    "p95": 40,
+                    "p99": 40
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T11:57:38.889Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 284,
+                    "max": 284,
+                    "median": 284,
+                    "p95": 284,
+                    "p99": 284
+                },
+                "/services": {
+                    "min": 46,
+                    "max": 46,
+                    "median": 46,
+                    "p95": 46,
+                    "p99": 46
+                },
+                "/subscriptions": {
+                    "min": 38,
+                    "max": 38,
+                    "median": 38,
+                    "p95": 38,
+                    "p99": 38
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T12:32:06.175Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 346,
+                    "max": 346,
+                    "median": 346,
+                    "p95": 346,
+                    "p99": 346
+                },
+                "/services": {
+                    "min": 48,
+                    "max": 48,
+                    "median": 48,
+                    "p95": 48,
+                    "p99": 48
+                },
+                "/subscriptions": {
+                    "min": 70,
+                    "max": 70,
+                    "median": 70,
+                    "p95": 70,
+                    "p99": 70
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T13:06:31.962Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 300,
+                    "max": 300,
+                    "median": 300,
+                    "p95": 300,
+                    "p99": 300
+                },
+                "/services": {
+                    "min": 44,
+                    "max": 44,
+                    "median": 44,
+                    "p95": 44,
+                    "p99": 44
+                },
+                "/subscriptions": {
+                    "min": 44,
+                    "max": 44,
+                    "median": 44,
+                    "p95": 44,
+                    "p99": 44
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T13:41:08.461Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 256,
+                    "max": 256,
+                    "median": 256,
+                    "p95": 256,
+                    "p99": 256
+                },
+                "/services": {
+                    "min": 43,
+                    "max": 43,
+                    "median": 43,
+                    "p95": 43,
+                    "p99": 43
+                },
+                "/subscriptions": {
+                    "min": 39,
+                    "max": 39,
+                    "median": 39,
+                    "p95": 39,
+                    "p99": 39
+                }
+            }
+        },
+        {
+            "timestamp": "2020-04-06T14:16:02.516Z",
+            "scenario_duration": null,
+            "rt_endpoint": {
+                "/login": {
+                    "min": 326,
+                    "max": 326,
+                    "median": 326,
+                    "p95": 326,
+                    "p99": 326
+                },
+                "/services": {
+                    "min": 44,
+                    "max": 44,
+                    "median": 44,
+                    "p95": 44,
+                    "p99": 44
+                },
+                "/subscriptions": {
+                    "min": 38,
+                    "max": 38,
+                    "median": 38,
+                    "p95": 38,
+                    "p99": 38
+                }
+            }
+        }
+    ]
+}

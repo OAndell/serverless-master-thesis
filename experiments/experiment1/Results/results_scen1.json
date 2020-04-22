@@ -1,0 +1,4472 @@
+{
+    "coldstart_nozip": [
+        {
+            "timestamp": "2020-04-18T18:34:31.910Z",
+            "scenario_duration": 46878.3
+        },
+        {
+            "timestamp": "2020-04-18T19:05:56.884Z",
+            "scenario_duration": 48314.2
+        },
+        {
+            "timestamp": "2020-04-18T19:37:15.845Z",
+            "scenario_duration": 45327
+        },
+        {
+            "timestamp": "2020-04-18T20:08:22.570Z",
+            "scenario_duration": 47262.7
+        },
+        {
+            "timestamp": "2020-04-18T20:39:31.302Z",
+            "scenario_duration": 49978.7
+        },
+        {
+            "timestamp": "2020-04-18T21:10:40.013Z",
+            "scenario_duration": 48900
+        },
+        {
+            "timestamp": "2020-04-18T21:41:44.727Z",
+            "scenario_duration": 46541.5
+        },
+        {
+            "timestamp": "2020-04-18T22:12:59.007Z",
+            "scenario_duration": 54095.9
+        },
+        {
+            "timestamp": "2020-04-18T22:44:08.608Z",
+            "scenario_duration": 47263.6
+        },
+        {
+            "timestamp": "2020-04-18T23:15:11.873Z",
+            "scenario_duration": 43863.9
+        },
+        {
+            "timestamp": "2020-04-18T23:46:17.003Z",
+            "scenario_duration": 45156.8
+        },
+        {
+            "timestamp": "2020-04-19T00:17:29.615Z",
+            "scenario_duration": 53327.4
+        },
+        {
+            "timestamp": "2020-04-19T00:49:25.732Z",
+            "scenario_duration": 96025.8
+        },
+        {
+            "timestamp": "2020-04-19T01:20:43.948Z",
+            "scenario_duration": 56749.9
+        },
+        {
+            "timestamp": "2020-04-19T01:51:51.506Z",
+            "scenario_duration": 48303
+        },
+        {
+            "timestamp": "2020-04-19T02:23:01.622Z",
+            "scenario_duration": 49570.1
+        },
+        {
+            "timestamp": "2020-04-19T02:54:09.231Z",
+            "scenario_duration": 48680.9
+        },
+        {
+            "timestamp": "2020-04-19T03:25:27.842Z",
+            "scenario_duration": 59252.8
+        },
+        {
+            "timestamp": "2020-04-19T03:57:03.973Z",
+            "scenario_duration": 75972.1
+        },
+        {
+            "timestamp": "2020-04-19T04:28:43.611Z",
+            "scenario_duration": 62204.8
+        },
+        {
+            "timestamp": "2020-04-19T05:00:06.742Z",
+            "scenario_duration": 48079.8
+        },
+        {
+            "timestamp": "2020-04-19T05:31:16.855Z",
+            "scenario_duration": 46275.4
+        },
+        {
+            "timestamp": "2020-04-19T06:02:57.587Z",
+            "scenario_duration": 56929.4
+        },
+        {
+            "timestamp": "2020-04-19T06:34:26.894Z",
+            "scenario_duration": 52798.6
+        },
+        {
+            "timestamp": "2020-04-19T07:05:36.741Z",
+            "scenario_duration": 49715.9
+        },
+        {
+            "timestamp": "2020-04-19T07:36:57.931Z",
+            "scenario_duration": 47586.1
+        },
+        {
+            "timestamp": "2020-04-19T08:08:11.158Z",
+            "scenario_duration": 51610
+        },
+        {
+            "timestamp": "2020-04-19T08:40:03.347Z",
+            "scenario_duration": 82662.5
+        },
+        {
+            "timestamp": "2020-04-19T09:11:10.656Z",
+            "scenario_duration": 47555.9
+        },
+        {
+            "timestamp": "2020-04-19T09:42:18.677Z",
+            "scenario_duration": 45426.1
+        },
+        {
+            "timestamp": "2020-04-19T10:13:39.469Z",
+            "scenario_duration": 61806.6
+        },
+        {
+            "timestamp": "2020-04-19T10:45:00.307Z",
+            "scenario_duration": 58545.2
+        },
+        {
+            "timestamp": "2020-04-19T11:16:21.075Z",
+            "scenario_duration": 53468.3
+        },
+        {
+            "timestamp": "2020-04-19T12:41:52.976Z",
+            "scenario_duration": 50975.5
+        },
+        {
+            "timestamp": "2020-04-19T13:13:18.213Z",
+            "scenario_duration": 50243.4
+        },
+        {
+            "timestamp": "2020-04-19T13:44:41.475Z",
+            "scenario_duration": 50681.2
+        },
+        {
+            "timestamp": "2020-04-19T14:16:20.630Z",
+            "scenario_duration": 78156.6
+        },
+        {
+            "timestamp": "2020-04-19T14:47:33.256Z",
+            "scenario_duration": 52535.4
+        },
+        {
+            "timestamp": "2020-04-19T15:18:44.431Z",
+            "scenario_duration": 52241.2
+        },
+        {
+            "timestamp": "2020-04-19T15:49:56.054Z",
+            "scenario_duration": 52216.9
+        },
+        {
+            "timestamp": "2020-04-19T16:21:11.221Z",
+            "scenario_duration": 54922.9
+        },
+        {
+            "timestamp": "2020-04-19T16:52:27.416Z",
+            "scenario_duration": 56012.1
+        },
+        {
+            "timestamp": "2020-04-19T17:23:56.513Z",
+            "scenario_duration": 70879.9
+        },
+        {
+            "timestamp": "2020-04-19T17:55:04.129Z",
+            "scenario_duration": 49792.7
+        },
+        {
+            "timestamp": "2020-04-19T18:26:24.956Z",
+            "scenario_duration": 58999
+        },
+        {
+            "timestamp": "2020-04-19T18:57:38.707Z",
+            "scenario_duration": 48059.8
+        },
+        {
+            "timestamp": "2020-04-19T19:28:59.427Z",
+            "scenario_duration": 50351.9
+        },
+        {
+            "timestamp": "2020-04-19T20:00:15.640Z",
+            "scenario_duration": 46978.5
+        },
+        {
+            "timestamp": "2020-04-19T20:31:37.263Z",
+            "scenario_duration": 58391.6
+        },
+        {
+            "timestamp": "2020-04-19T21:02:58.240Z",
+            "scenario_duration": 60872.8
+        },
+        {
+            "timestamp": "2020-04-19T21:34:15.798Z",
+            "scenario_duration": 55599.4
+        },
+        {
+            "timestamp": "2020-04-19T22:05:42.256Z",
+            "scenario_duration": 65962.8
+        },
+        {
+            "timestamp": "2020-04-19T22:37:06.850Z",
+            "scenario_duration": 64251.7
+        },
+        {
+            "timestamp": "2020-04-19T23:08:14.736Z",
+            "scenario_duration": 46152.6
+        },
+        {
+            "timestamp": "2020-04-19T23:39:20.525Z",
+            "scenario_duration": 41093.1
+        },
+        {
+            "timestamp": "2020-04-20T00:10:50.601Z",
+            "scenario_duration": 56420.2
+        },
+        {
+            "timestamp": "2020-04-20T00:42:06.524Z",
+            "scenario_duration": 42693.5
+        },
+        {
+            "timestamp": "2020-04-20T01:13:22.847Z",
+            "scenario_duration": 45449.9
+        },
+        {
+            "timestamp": "2020-04-20T01:44:45.887Z",
+            "scenario_duration": 52200.1
+        },
+        {
+            "timestamp": "2020-04-20T02:16:15.572Z",
+            "scenario_duration": 56387.8
+        },
+        {
+            "timestamp": "2020-04-20T02:47:31.015Z",
+            "scenario_duration": 44976.1
+        },
+        {
+            "timestamp": "2020-04-20T03:18:50.312Z",
+            "scenario_duration": 57214.8
+        },
+        {
+            "timestamp": "2020-04-20T03:50:25.899Z",
+            "scenario_duration": 60478.6
+        },
+        {
+            "timestamp": "2020-04-20T04:21:58.896Z",
+            "scenario_duration": 59569.2
+        },
+        {
+            "timestamp": "2020-04-20T04:53:20.824Z",
+            "scenario_duration": 52446.7
+        },
+        {
+            "timestamp": "2020-04-20T05:24:26.662Z",
+            "scenario_duration": 47184.6
+        },
+        {
+            "timestamp": "2020-04-20T05:55:30.338Z",
+            "scenario_duration": 44799.4
+        },
+        {
+            "timestamp": "2020-04-20T06:26:42.140Z",
+            "scenario_duration": 50567.9
+        },
+        {
+            "timestamp": "2020-04-20T06:57:51.535Z",
+            "scenario_duration": 50067.8
+        },
+        {
+            "timestamp": "2020-04-20T07:29:16.922Z",
+            "scenario_duration": 49665.6
+        },
+        {
+            "timestamp": "2020-04-20T08:00:49.919Z",
+            "scenario_duration": 59115.2
+        },
+        {
+            "timestamp": "2020-04-20T08:32:02.209Z",
+            "scenario_duration": 49836.6
+        },
+        {
+            "timestamp": "2020-04-20T09:03:12.587Z",
+            "scenario_duration": 49260.1
+        },
+        {
+            "timestamp": "2020-04-20T09:34:17.448Z",
+            "scenario_duration": 44903
+        },
+        {
+            "timestamp": "2020-04-20T10:05:45.997Z",
+            "scenario_duration": 54177
+        },
+        {
+            "timestamp": "2020-04-20T10:37:07.394Z",
+            "scenario_duration": 49151.7
+        },
+        {
+            "timestamp": "2020-04-20T11:08:13.143Z",
+            "scenario_duration": 46488.1
+        },
+        {
+            "timestamp": "2020-04-20T11:39:22.080Z",
+            "scenario_duration": 40206
+        },
+        {
+            "timestamp": "2020-04-20T12:10:30.538Z",
+            "scenario_duration": 50142.2
+        },
+        {
+            "timestamp": "2020-04-20T12:42:10.663Z",
+            "scenario_duration": 67752.8
+        },
+        {
+            "timestamp": "2020-04-20T13:13:44.615Z",
+            "scenario_duration": 62864.2
+        },
+        {
+            "timestamp": "2020-04-20T13:44:46.405Z",
+            "scenario_duration": 42000.7
+        },
+        {
+            "timestamp": "2020-04-20T14:17:05.360Z",
+            "scenario_duration": 44942.3
+        },
+        {
+            "timestamp": "2020-04-20T14:48:40.494Z",
+            "scenario_duration": 59432.3
+        },
+        {
+            "timestamp": "2020-04-20T15:20:09.825Z",
+            "scenario_duration": 66526.9
+        },
+        {
+            "timestamp": "2020-04-20T15:51:39.458Z",
+            "scenario_duration": 62084.6
+        },
+        {
+            "timestamp": "2020-04-20T16:23:07.078Z",
+            "scenario_duration": 60257.3
+        },
+        {
+            "timestamp": "2020-04-20T16:54:52.364Z",
+            "scenario_duration": 60164.3
+        },
+        {
+            "timestamp": "2020-04-20T17:26:49.347Z",
+            "scenario_duration": 81690.4
+        },
+        {
+            "timestamp": "2020-04-20T17:58:25.726Z",
+            "scenario_duration": 76252.2
+        },
+        {
+            "timestamp": "2020-04-20T18:30:15.679Z",
+            "scenario_duration": 91033
+        },
+        {
+            "timestamp": "2020-04-20T19:02:00.618Z",
+            "scenario_duration": 85746.5
+        },
+        {
+            "timestamp": "2020-04-20T19:33:16.032Z",
+            "scenario_duration": 56472.5
+        },
+        {
+            "timestamp": "2020-04-20T20:04:34.984Z",
+            "scenario_duration": 60060.7
+        },
+        {
+            "timestamp": "2020-04-20T20:35:46.412Z",
+            "scenario_duration": 50131.4
+        },
+        {
+            "timestamp": "2020-04-20T21:07:07.393Z",
+            "scenario_duration": 60487.8
+        },
+        {
+            "timestamp": "2020-04-20T21:38:06.446Z",
+            "scenario_duration": 38346.5
+        },
+        {
+            "timestamp": "2020-04-20T22:09:34.493Z",
+            "scenario_duration": 69067.1
+        },
+        {
+            "timestamp": "2020-04-20T22:40:54.994Z",
+            "scenario_duration": 59229.9
+        },
+        {
+            "timestamp": "2020-04-20T23:12:03.949Z",
+            "scenario_duration": 48076.9
+        },
+        {
+            "timestamp": "2020-04-20T23:43:05.424Z",
+            "scenario_duration": 41996.7
+        },
+        {
+            "timestamp": "2020-04-21T00:14:11.454Z",
+            "scenario_duration": 47929
+        },
+        {
+            "timestamp": "2020-04-21T00:45:23.013Z",
+            "scenario_duration": 46654.3
+        },
+        {
+            "timestamp": "2020-04-21T01:16:46.527Z",
+            "scenario_duration": 59973.6
+        },
+        {
+            "timestamp": "2020-04-21T01:48:11.055Z",
+            "scenario_duration": 51749.9
+        },
+        {
+            "timestamp": "2020-04-21T02:19:32.128Z",
+            "scenario_duration": 49463.5
+        },
+        {
+            "timestamp": "2020-04-21T02:50:37.144Z",
+            "scenario_duration": 43819.1
+        },
+        {
+            "timestamp": "2020-04-21T03:21:37.669Z",
+            "scenario_duration": 40404.2
+        },
+        {
+            "timestamp": "2020-04-21T03:52:39.657Z",
+            "scenario_duration": 40461.8
+        },
+        {
+            "timestamp": "2020-04-21T04:23:47.687Z",
+            "scenario_duration": 45902.8
+        },
+        {
+            "timestamp": "2020-04-21T04:55:09.750Z",
+            "scenario_duration": 57644.4
+        },
+        {
+            "timestamp": "2020-04-21T05:26:42.408Z",
+            "scenario_duration": 51818.6
+        },
+        {
+            "timestamp": "2020-04-21T05:58:00.958Z",
+            "scenario_duration": 40111.1
+        },
+        {
+            "timestamp": "2020-04-21T06:29:18.002Z",
+            "scenario_duration": 42830
+        },
+        {
+            "timestamp": "2020-04-21T07:00:33.612Z",
+            "scenario_duration": 41258.3
+        },
+        {
+            "timestamp": "2020-04-21T07:31:51.774Z",
+            "scenario_duration": 43777.5
+        },
+        {
+            "timestamp": "2020-04-21T08:03:14.365Z",
+            "scenario_duration": 45449
+        },
+        {
+            "timestamp": "2020-04-21T08:34:19.963Z",
+            "scenario_duration": 45026.7
+        },
+        {
+            "timestamp": "2020-04-21T09:05:24.121Z",
+            "scenario_duration": 43179
+        },
+        {
+            "timestamp": "2020-04-21T09:36:41.234Z",
+            "scenario_duration": 38920.9
+        },
+        {
+            "timestamp": "2020-04-21T10:08:04.381Z",
+            "scenario_duration": 46540.5
+        },
+        {
+            "timestamp": "2020-04-21T10:39:11.484Z",
+            "scenario_duration": 45160.9
+        },
+        {
+            "timestamp": "2020-04-21T11:10:16.592Z",
+            "scenario_duration": 41459.6
+        },
+        {
+            "timestamp": "2020-04-21T11:41:58.262Z",
+            "scenario_duration": 62630.6
+        },
+        {
+            "timestamp": "2020-04-21T12:13:46.879Z",
+            "scenario_duration": 72420.9
+        },
+        {
+            "timestamp": "2020-04-21T12:45:10.013Z",
+            "scenario_duration": 45485.5
+        },
+        {
+            "timestamp": "2020-04-21T13:16:37.164Z",
+            "scenario_duration": 47888.1
+        },
+        {
+            "timestamp": "2020-04-21T13:47:41.252Z",
+            "scenario_duration": 45075.2
+        },
+        {
+            "timestamp": "2020-04-21T14:18:55.309Z",
+            "scenario_duration": 52541.1
+        },
+        {
+            "timestamp": "2020-04-21T14:50:29.462Z",
+            "scenario_duration": 73304.8
+        },
+        {
+            "timestamp": "2020-04-21T15:21:38.108Z",
+            "scenario_duration": 46269
+        },
+        {
+            "timestamp": "2020-04-21T15:52:51.268Z",
+            "scenario_duration": 52354.8
+        },
+        {
+            "timestamp": "2020-04-21T16:23:58.413Z",
+            "scenario_duration": 48866.9
+        },
+        {
+            "timestamp": "2020-04-21T16:55:05.686Z",
+            "scenario_duration": 47091.8
+        },
+        {
+            "timestamp": "2020-04-21T17:26:15.265Z",
+            "scenario_duration": 42883
+        },
+        {
+            "timestamp": "2020-04-21T17:57:34.897Z",
+            "scenario_duration": 45801.1
+        },
+        {
+            "timestamp": "2020-04-21T18:28:46.493Z",
+            "scenario_duration": 45488
+        },
+        {
+            "timestamp": "2020-04-21T18:59:49.165Z",
+            "scenario_duration": 42190.7
+        },
+        {
+            "timestamp": "2020-04-21T19:30:54.715Z",
+            "scenario_duration": 42206.8
+        },
+        {
+            "timestamp": "2020-04-21T20:02:00.399Z",
+            "scenario_duration": 45404.9
+        },
+        {
+            "timestamp": "2020-04-21T20:33:13.159Z",
+            "scenario_duration": 50733.4
+        },
+        {
+            "timestamp": "2020-04-21T21:04:33.307Z",
+            "scenario_duration": 59076
+        },
+        {
+            "timestamp": "2020-04-21T21:35:48.970Z",
+            "scenario_duration": 53680.4
+        },
+        {
+            "timestamp": "2020-04-21T22:07:08.133Z",
+            "scenario_duration": 57110.2
+        },
+        {
+            "timestamp": "2020-04-21T22:38:12.330Z",
+            "scenario_duration": 44493.5
+        },
+        {
+            "timestamp": "2020-04-21T23:09:30.081Z",
+            "scenario_duration": 47390.7
+        },
+        {
+            "timestamp": "2020-04-21T23:40:37.218Z",
+            "scenario_duration": 41096.9
+        },
+        {
+            "timestamp": "2020-04-22T00:12:25.486Z",
+            "scenario_duration": 87043.5
+        },
+        {
+            "timestamp": "2020-04-22T00:43:31.779Z",
+            "scenario_duration": 45553.2
+        },
+        {
+            "timestamp": "2020-04-22T01:14:36.996Z",
+            "scenario_duration": 43617.5
+        },
+        {
+            "timestamp": "2020-04-22T01:45:45.196Z",
+            "scenario_duration": 42898.7
+        },
+        {
+            "timestamp": "2020-04-22T02:16:55.946Z",
+            "scenario_duration": 50970.7
+        },
+        {
+            "timestamp": "2020-04-22T02:48:00.698Z",
+            "scenario_duration": 45361.1
+        },
+        {
+            "timestamp": "2020-04-22T03:19:09.395Z",
+            "scenario_duration": 48263.4
+        },
+        {
+            "timestamp": "2020-04-22T03:50:13.062Z",
+            "scenario_duration": 44590.8
+        },
+        {
+            "timestamp": "2020-04-22T04:21:21.771Z",
+            "scenario_duration": 49344.2
+        },
+        {
+            "timestamp": "2020-04-22T04:52:32.946Z",
+            "scenario_duration": 49957.8
+        },
+        {
+            "timestamp": "2020-04-22T05:23:43.186Z",
+            "scenario_duration": 49400.2
+        },
+        {
+            "timestamp": "2020-04-22T05:54:52.993Z",
+            "scenario_duration": 48501.7
+        },
+        {
+            "timestamp": "2020-04-22T06:26:04.790Z",
+            "scenario_duration": 50101.6
+        }
+    ],
+    "warmstart_nozip": [
+        {
+            "timestamp": "2020-04-18T18:35:05.416Z",
+            "scenario_duration": 355.70000000000005
+        },
+        {
+            "timestamp": "2020-04-18T19:06:30.445Z",
+            "scenario_duration": 340.29999999999995
+        },
+        {
+            "timestamp": "2020-04-18T19:37:49.217Z",
+            "scenario_duration": 542.4
+        },
+        {
+            "timestamp": "2020-04-18T20:08:55.919Z",
+            "scenario_duration": 345.6
+        },
+        {
+            "timestamp": "2020-04-18T20:40:04.687Z",
+            "scenario_duration": 594.2
+        },
+        {
+            "timestamp": "2020-04-18T21:11:13.384Z",
+            "scenario_duration": 314.9
+        },
+        {
+            "timestamp": "2020-04-18T21:42:18.117Z",
+            "scenario_duration": 459.70000000000005
+        },
+        {
+            "timestamp": "2020-04-18T22:13:32.338Z",
+            "scenario_duration": 396.29999999999995
+        },
+        {
+            "timestamp": "2020-04-18T22:44:41.958Z",
+            "scenario_duration": 327.9
+        },
+        {
+            "timestamp": "2020-04-18T23:15:45.205Z",
+            "scenario_duration": 400.5
+        },
+        {
+            "timestamp": "2020-04-18T23:46:50.346Z",
+            "scenario_duration": 421.79999999999995
+        },
+        {
+            "timestamp": "2020-04-19T00:18:02.981Z",
+            "scenario_duration": 319.6
+        },
+        {
+            "timestamp": "2020-04-19T00:49:59.069Z",
+            "scenario_duration": 374.20000000000005
+        },
+        {
+            "timestamp": "2020-04-19T01:21:17.284Z",
+            "scenario_duration": 349.4
+        },
+        {
+            "timestamp": "2020-04-19T01:52:24.830Z",
+            "scenario_duration": 333.1
+        },
+        {
+            "timestamp": "2020-04-19T02:23:34.980Z",
+            "scenario_duration": 409.1
+        },
+        {
+            "timestamp": "2020-04-19T02:54:42.582Z",
+            "scenario_duration": 343.6
+        },
+        {
+            "timestamp": "2020-04-19T03:26:01.216Z",
+            "scenario_duration": 358.29999999999995
+        },
+        {
+            "timestamp": "2020-04-19T03:57:37.308Z",
+            "scenario_duration": 312.9
+        },
+        {
+            "timestamp": "2020-04-19T04:29:16.968Z",
+            "scenario_duration": 328.20000000000005
+        },
+        {
+            "timestamp": "2020-04-19T05:00:40.084Z",
+            "scenario_duration": 384.70000000000005
+        },
+        {
+            "timestamp": "2020-04-19T05:31:50.198Z",
+            "scenario_duration": 354.1
+        },
+        {
+            "timestamp": "2020-04-19T06:03:30.939Z",
+            "scenario_duration": 323.79999999999995
+        },
+        {
+            "timestamp": "2020-04-19T06:35:00.290Z",
+            "scenario_duration": 354.9
+        },
+        {
+            "timestamp": "2020-04-19T07:06:10.536Z",
+            "scenario_duration": 334.6
+        },
+        {
+            "timestamp": "2020-04-19T07:37:31.300Z",
+            "scenario_duration": 418.4
+        },
+        {
+            "timestamp": "2020-04-19T08:08:45.716Z",
+            "scenario_duration": 388.29999999999995
+        },
+        {
+            "timestamp": "2020-04-19T08:40:36.731Z",
+            "scenario_duration": 389.79999999999995
+        },
+        {
+            "timestamp": "2020-04-19T09:11:44.034Z",
+            "scenario_duration": 394.70000000000005
+        },
+        {
+            "timestamp": "2020-04-19T09:42:52.043Z",
+            "scenario_duration": 369.79999999999995
+        },
+        {
+            "timestamp": "2020-04-19T10:14:12.841Z",
+            "scenario_duration": 372.20000000000005
+        },
+        {
+            "timestamp": "2020-04-19T10:45:34.744Z",
+            "scenario_duration": 419.1
+        },
+        {
+            "timestamp": "2020-04-19T11:16:54.756Z",
+            "scenario_duration": 390
+        },
+        {
+            "timestamp": "2020-04-19T12:42:26.336Z",
+            "scenario_duration": 392.4
+        },
+        {
+            "timestamp": "2020-04-19T13:13:51.596Z",
+            "scenario_duration": 418.4
+        },
+        {
+            "timestamp": "2020-04-19T13:45:14.816Z",
+            "scenario_duration": 338.4
+        },
+        {
+            "timestamp": "2020-04-19T14:16:53.994Z",
+            "scenario_duration": 422.4
+        },
+        {
+            "timestamp": "2020-04-19T14:48:06.629Z",
+            "scenario_duration": 323.79999999999995
+        },
+        {
+            "timestamp": "2020-04-19T15:19:17.756Z",
+            "scenario_duration": 383.1
+        },
+        {
+            "timestamp": "2020-04-19T15:50:29.420Z",
+            "scenario_duration": 371.5
+        },
+        {
+            "timestamp": "2020-04-19T16:21:44.601Z",
+            "scenario_duration": 363.70000000000005
+        },
+        {
+            "timestamp": "2020-04-19T16:53:00.735Z",
+            "scenario_duration": 346.6
+        },
+        {
+            "timestamp": "2020-04-19T17:24:30.391Z",
+            "scenario_duration": 1074.2
+        },
+        {
+            "timestamp": "2020-04-19T17:55:37.492Z",
+            "scenario_duration": 332.5
+        },
+        {
+            "timestamp": "2020-04-19T18:26:58.845Z",
+            "scenario_duration": 376.9
+        },
+        {
+            "timestamp": "2020-04-19T18:58:13.537Z",
+            "scenario_duration": 439.6
+        },
+        {
+            "timestamp": "2020-04-19T19:29:33.360Z",
+            "scenario_duration": 321.70000000000005
+        },
+        {
+            "timestamp": "2020-04-19T20:00:50.056Z",
+            "scenario_duration": 364.5
+        },
+        {
+            "timestamp": "2020-04-19T20:32:10.645Z",
+            "scenario_duration": 436.20000000000005
+        },
+        {
+            "timestamp": "2020-04-19T21:03:31.622Z",
+            "scenario_duration": 403.70000000000005
+        },
+        {
+            "timestamp": "2020-04-19T21:34:49.171Z",
+            "scenario_duration": 382.5
+        },
+        {
+            "timestamp": "2020-04-19T22:06:15.628Z",
+            "scenario_duration": 404.6
+        },
+        {
+            "timestamp": "2020-04-19T22:37:40.208Z",
+            "scenario_duration": 343.6
+        },
+        {
+            "timestamp": "2020-04-19T23:08:48.118Z",
+            "scenario_duration": 473.9
+        },
+        {
+            "timestamp": "2020-04-19T23:39:53.877Z",
+            "scenario_duration": 402.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T00:11:23.980Z",
+            "scenario_duration": 360.70000000000005
+        },
+        {
+            "timestamp": "2020-04-20T00:42:39.396Z",
+            "scenario_duration": 291.9
+        },
+        {
+            "timestamp": "2020-04-20T01:13:56.256Z",
+            "scenario_duration": 367.1
+        },
+        {
+            "timestamp": "2020-04-20T01:45:19.261Z",
+            "scenario_duration": 405
+        },
+        {
+            "timestamp": "2020-04-20T02:16:48.951Z",
+            "scenario_duration": 406.9
+        },
+        {
+            "timestamp": "2020-04-20T02:48:04.403Z",
+            "scenario_duration": 355.4
+        },
+        {
+            "timestamp": "2020-04-20T03:19:23.702Z",
+            "scenario_duration": 412.79999999999995
+        },
+        {
+            "timestamp": "2020-04-20T03:50:59.259Z",
+            "scenario_duration": 417.5
+        },
+        {
+            "timestamp": "2020-04-20T04:22:32.259Z",
+            "scenario_duration": 348.70000000000005
+        },
+        {
+            "timestamp": "2020-04-20T04:53:54.179Z",
+            "scenario_duration": 356.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T05:25:00.010Z",
+            "scenario_duration": 378.6
+        },
+        {
+            "timestamp": "2020-04-20T05:56:03.709Z",
+            "scenario_duration": 371.9
+        },
+        {
+            "timestamp": "2020-04-20T06:27:15.534Z",
+            "scenario_duration": 376.6
+        },
+        {
+            "timestamp": "2020-04-20T06:58:24.903Z",
+            "scenario_duration": 324.1
+        },
+        {
+            "timestamp": "2020-04-20T07:29:50.287Z",
+            "scenario_duration": 319.5
+        },
+        {
+            "timestamp": "2020-04-20T08:01:23.295Z",
+            "scenario_duration": 353.79999999999995
+        },
+        {
+            "timestamp": "2020-04-20T08:32:35.593Z",
+            "scenario_duration": 339
+        },
+        {
+            "timestamp": "2020-04-20T09:03:45.978Z",
+            "scenario_duration": 456
+        },
+        {
+            "timestamp": "2020-04-20T09:34:50.829Z",
+            "scenario_duration": 383.6
+        },
+        {
+            "timestamp": "2020-04-20T10:06:19.367Z",
+            "scenario_duration": 375
+        },
+        {
+            "timestamp": "2020-04-20T10:37:40.771Z",
+            "scenario_duration": 380.9
+        },
+        {
+            "timestamp": "2020-04-20T11:08:46.540Z",
+            "scenario_duration": 331.9
+        },
+        {
+            "timestamp": "2020-04-20T11:39:55.480Z",
+            "scenario_duration": 378.1
+        },
+        {
+            "timestamp": "2020-04-20T12:11:03.927Z",
+            "scenario_duration": 410.79999999999995
+        },
+        {
+            "timestamp": "2020-04-20T12:42:44.032Z",
+            "scenario_duration": 414.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T13:14:17.969Z",
+            "scenario_duration": 333.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T13:46:19.886Z",
+            "scenario_duration": 60598.6
+        },
+        {
+            "timestamp": "2020-04-20T14:17:38.741Z",
+            "scenario_duration": 357.29999999999995
+        },
+        {
+            "timestamp": "2020-04-20T14:49:13.880Z",
+            "scenario_duration": 423.70000000000005
+        },
+        {
+            "timestamp": "2020-04-20T15:20:44.141Z",
+            "scenario_duration": 412.6
+        },
+        {
+            "timestamp": "2020-04-20T15:52:14.135Z",
+            "scenario_duration": 430.5
+        },
+        {
+            "timestamp": "2020-04-20T16:23:41.861Z",
+            "scenario_duration": 380.4
+        },
+        {
+            "timestamp": "2020-04-20T16:55:25.762Z",
+            "scenario_duration": 396.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T17:27:22.768Z",
+            "scenario_duration": 405.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T17:58:59.103Z",
+            "scenario_duration": 342.9
+        },
+        {
+            "timestamp": "2020-04-20T18:30:49.098Z",
+            "scenario_duration": 544.4
+        },
+        {
+            "timestamp": "2020-04-20T19:02:34.013Z",
+            "scenario_duration": 413.4
+        },
+        {
+            "timestamp": "2020-04-20T19:33:49.421Z",
+            "scenario_duration": 354.5
+        },
+        {
+            "timestamp": "2020-04-20T20:05:08.385Z",
+            "scenario_duration": 362.4
+        },
+        {
+            "timestamp": "2020-04-20T20:36:19.815Z",
+            "scenario_duration": 328.29999999999995
+        },
+        {
+            "timestamp": "2020-04-20T21:07:40.798Z",
+            "scenario_duration": 465.79999999999995
+        },
+        {
+            "timestamp": "2020-04-20T21:38:39.850Z",
+            "scenario_duration": 348.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T22:10:07.905Z",
+            "scenario_duration": 578.5
+        },
+        {
+            "timestamp": "2020-04-20T22:41:28.381Z",
+            "scenario_duration": 447.29999999999995
+        },
+        {
+            "timestamp": "2020-04-20T23:12:37.354Z",
+            "scenario_duration": 537.4
+        },
+        {
+            "timestamp": "2020-04-20T23:43:38.828Z",
+            "scenario_duration": 403.1
+        },
+        {
+            "timestamp": "2020-04-21T00:14:44.869Z",
+            "scenario_duration": 364.4
+        },
+        {
+            "timestamp": "2020-04-21T00:45:56.434Z",
+            "scenario_duration": 342.9
+        },
+        {
+            "timestamp": "2020-04-21T01:17:19.936Z",
+            "scenario_duration": 361.4
+        },
+        {
+            "timestamp": "2020-04-21T01:48:44.473Z",
+            "scenario_duration": 396.29999999999995
+        },
+        {
+            "timestamp": "2020-04-21T02:20:05.535Z",
+            "scenario_duration": 352.29999999999995
+        },
+        {
+            "timestamp": "2020-04-21T02:51:10.543Z",
+            "scenario_duration": 355.4
+        },
+        {
+            "timestamp": "2020-04-21T03:22:11.087Z",
+            "scenario_duration": 398.9
+        },
+        {
+            "timestamp": "2020-04-21T03:53:13.060Z",
+            "scenario_duration": 539.2
+        },
+        {
+            "timestamp": "2020-04-21T04:24:21.085Z",
+            "scenario_duration": 347.70000000000005
+        },
+        {
+            "timestamp": "2020-04-21T04:55:43.152Z",
+            "scenario_duration": 373.1
+        },
+        {
+            "timestamp": "2020-04-21T05:27:15.803Z",
+            "scenario_duration": 327.9
+        },
+        {
+            "timestamp": "2020-04-21T05:58:34.380Z",
+            "scenario_duration": 396.4
+        },
+        {
+            "timestamp": "2020-04-21T06:29:51.402Z",
+            "scenario_duration": 552.7
+        },
+        {
+            "timestamp": "2020-04-21T07:01:07.039Z",
+            "scenario_duration": 351.9
+        },
+        {
+            "timestamp": "2020-04-21T07:32:25.158Z",
+            "scenario_duration": 374
+        },
+        {
+            "timestamp": "2020-04-21T08:03:47.793Z",
+            "scenario_duration": 444.29999999999995
+        },
+        {
+            "timestamp": "2020-04-21T08:34:53.383Z",
+            "scenario_duration": 358.29999999999995
+        },
+        {
+            "timestamp": "2020-04-21T09:05:57.551Z",
+            "scenario_duration": 360.79999999999995
+        },
+        {
+            "timestamp": "2020-04-21T09:37:14.685Z",
+            "scenario_duration": 323
+        },
+        {
+            "timestamp": "2020-04-21T10:08:37.781Z",
+            "scenario_duration": 375.70000000000005
+        },
+        {
+            "timestamp": "2020-04-21T10:39:44.899Z",
+            "scenario_duration": 441.29999999999995
+        },
+        {
+            "timestamp": "2020-04-21T11:10:50.023Z",
+            "scenario_duration": 346.9
+        },
+        {
+            "timestamp": "2020-04-21T11:42:31.676Z",
+            "scenario_duration": 371.5
+        },
+        {
+            "timestamp": "2020-04-21T12:14:20.308Z",
+            "scenario_duration": 469.29999999999995
+        },
+        {
+            "timestamp": "2020-04-21T12:45:43.455Z",
+            "scenario_duration": 399.4
+        },
+        {
+            "timestamp": "2020-04-21T13:17:10.585Z",
+            "scenario_duration": 372.29999999999995
+        },
+        {
+            "timestamp": "2020-04-21T13:48:14.662Z",
+            "scenario_duration": 388.6
+        },
+        {
+            "timestamp": "2020-04-21T14:19:29.284Z",
+            "scenario_duration": 1260.8
+        },
+        {
+            "timestamp": "2020-04-21T14:51:02.878Z",
+            "scenario_duration": 380.6
+        },
+        {
+            "timestamp": "2020-04-21T15:22:11.530Z",
+            "scenario_duration": 428.79999999999995
+        },
+        {
+            "timestamp": "2020-04-21T15:53:24.710Z",
+            "scenario_duration": 371.20000000000005
+        },
+        {
+            "timestamp": "2020-04-21T16:24:31.827Z",
+            "scenario_duration": 345
+        },
+        {
+            "timestamp": "2020-04-21T16:55:40.295Z",
+            "scenario_duration": 397
+        },
+        {
+            "timestamp": "2020-04-21T17:26:48.954Z",
+            "scenario_duration": 344.20000000000005
+        },
+        {
+            "timestamp": "2020-04-21T17:58:09.473Z",
+            "scenario_duration": 407.70000000000005
+        },
+        {
+            "timestamp": "2020-04-21T18:29:19.455Z",
+            "scenario_duration": 313.4
+        },
+        {
+            "timestamp": "2020-04-21T19:00:22.779Z",
+            "scenario_duration": 370.6
+        },
+        {
+            "timestamp": "2020-04-21T19:31:28.184Z",
+            "scenario_duration": 336.6
+        },
+        {
+            "timestamp": "2020-04-21T20:02:33.822Z",
+            "scenario_duration": 381.1
+        },
+        {
+            "timestamp": "2020-04-21T20:33:46.579Z",
+            "scenario_duration": 578.4
+        },
+        {
+            "timestamp": "2020-04-21T21:05:06.718Z",
+            "scenario_duration": 391.4
+        },
+        {
+            "timestamp": "2020-04-21T21:36:22.395Z",
+            "scenario_duration": 450.20000000000005
+        },
+        {
+            "timestamp": "2020-04-21T22:07:41.577Z",
+            "scenario_duration": 366.4
+        },
+        {
+            "timestamp": "2020-04-21T22:38:45.772Z",
+            "scenario_duration": 342.9
+        },
+        {
+            "timestamp": "2020-04-21T23:10:03.507Z",
+            "scenario_duration": 366.70000000000005
+        },
+        {
+            "timestamp": "2020-04-21T23:41:10.654Z",
+            "scenario_duration": 411.70000000000005
+        },
+        {
+            "timestamp": "2020-04-22T00:12:58.938Z",
+            "scenario_duration": 356.79999999999995
+        },
+        {
+            "timestamp": "2020-04-22T00:44:05.217Z",
+            "scenario_duration": 341.79999999999995
+        },
+        {
+            "timestamp": "2020-04-22T01:15:10.438Z",
+            "scenario_duration": 366
+        },
+        {
+            "timestamp": "2020-04-22T01:46:18.646Z",
+            "scenario_duration": 382
+        },
+        {
+            "timestamp": "2020-04-22T02:17:29.372Z",
+            "scenario_duration": 382.5
+        },
+        {
+            "timestamp": "2020-04-22T02:48:34.126Z",
+            "scenario_duration": 383.5
+        },
+        {
+            "timestamp": "2020-04-22T03:19:42.828Z",
+            "scenario_duration": 370.20000000000005
+        },
+        {
+            "timestamp": "2020-04-22T03:50:46.500Z",
+            "scenario_duration": 329.29999999999995
+        },
+        {
+            "timestamp": "2020-04-22T04:21:55.190Z",
+            "scenario_duration": 336.20000000000005
+        },
+        {
+            "timestamp": "2020-04-22T04:53:06.420Z",
+            "scenario_duration": 327.5
+        },
+        {
+            "timestamp": "2020-04-22T05:24:16.643Z",
+            "scenario_duration": 435.70000000000005
+        },
+        {
+            "timestamp": "2020-04-22T05:55:26.435Z",
+            "scenario_duration": 368
+        },
+        {
+            "timestamp": "2020-04-22T06:26:38.239Z",
+            "scenario_duration": 420.6
+        }
+    ],
+    "coldstart_zip": [
+        {
+            "timestamp": "2020-04-18T18:35:59.157Z",
+            "scenario_duration": 20795
+        },
+        {
+            "timestamp": "2020-04-18T19:07:24.044Z",
+            "scenario_duration": 20588
+        },
+        {
+            "timestamp": "2020-04-18T19:38:29.623Z",
+            "scenario_duration": 7638.6
+        },
+        {
+            "timestamp": "2020-04-18T20:09:36.333Z",
+            "scenario_duration": 7663.2
+        },
+        {
+            "timestamp": "2020-04-18T20:40:45.092Z",
+            "scenario_duration": 7542.7
+        },
+        {
+            "timestamp": "2020-04-18T21:11:53.283Z",
+            "scenario_duration": 7005.2
+        },
+        {
+            "timestamp": "2020-04-18T21:42:59.055Z",
+            "scenario_duration": 7910.1
+        },
+        {
+            "timestamp": "2020-04-18T22:14:13.737Z",
+            "scenario_duration": 8685.6
+        },
+        {
+            "timestamp": "2020-04-18T22:45:22.829Z",
+            "scenario_duration": 7862.9
+        },
+        {
+            "timestamp": "2020-04-18T23:16:27.091Z",
+            "scenario_duration": 8970.2
+        },
+        {
+            "timestamp": "2020-04-18T23:47:30.710Z",
+            "scenario_duration": 7560.8
+        },
+        {
+            "timestamp": "2020-04-19T00:18:43.372Z",
+            "scenario_duration": 7698.4
+        },
+        {
+            "timestamp": "2020-04-19T00:50:42.945Z",
+            "scenario_duration": 11101.1
+        },
+        {
+            "timestamp": "2020-04-19T01:21:58.666Z",
+            "scenario_duration": 8541.9
+        },
+        {
+            "timestamp": "2020-04-19T01:53:06.717Z",
+            "scenario_duration": 9200.3
+        },
+        {
+            "timestamp": "2020-04-19T02:24:15.843Z",
+            "scenario_duration": 8101.700000000001
+        },
+        {
+            "timestamp": "2020-04-19T02:55:23.476Z",
+            "scenario_duration": 7990.4
+        },
+        {
+            "timestamp": "2020-04-19T03:26:42.095Z",
+            "scenario_duration": 8132.6
+        },
+        {
+            "timestamp": "2020-04-19T03:58:36.230Z",
+            "scenario_duration": 26178.6
+        },
+        {
+            "timestamp": "2020-04-19T04:30:13.348Z",
+            "scenario_duration": 23397.7
+        },
+        {
+            "timestamp": "2020-04-19T05:01:26.489Z",
+            "scenario_duration": 13861.4
+        },
+        {
+            "timestamp": "2020-04-19T05:32:55.131Z",
+            "scenario_duration": 32145.3
+        },
+        {
+            "timestamp": "2020-04-19T06:04:28.855Z",
+            "scenario_duration": 24885.9
+        },
+        {
+            "timestamp": "2020-04-19T06:35:41.171Z",
+            "scenario_duration": 8206.8
+        },
+        {
+            "timestamp": "2020-04-19T07:06:53.286Z",
+            "scenario_duration": 8149.200000000001
+        },
+        {
+            "timestamp": "2020-04-19T07:38:14.203Z",
+            "scenario_duration": 10156.9
+        },
+        {
+            "timestamp": "2020-04-19T08:09:31.412Z",
+            "scenario_duration": 11731.5
+        },
+        {
+            "timestamp": "2020-04-19T08:41:17.147Z",
+            "scenario_duration": 7826.4
+        },
+        {
+            "timestamp": "2020-04-19T09:12:24.945Z",
+            "scenario_duration": 7911.8
+        },
+        {
+            "timestamp": "2020-04-19T09:43:33.420Z",
+            "scenario_duration": 8767.5
+        },
+        {
+            "timestamp": "2020-04-19T10:14:54.756Z",
+            "scenario_duration": 9355.3
+        },
+        {
+            "timestamp": "2020-04-19T10:46:16.629Z",
+            "scenario_duration": 7582.9
+        },
+        {
+            "timestamp": "2020-04-19T12:43:21.232Z",
+            "scenario_duration": 21990.5
+        },
+        {
+            "timestamp": "2020-04-19T13:14:45.019Z",
+            "scenario_duration": 20425.9
+        },
+        {
+            "timestamp": "2020-04-19T13:45:57.243Z",
+            "scenario_duration": 9447.6
+        },
+        {
+            "timestamp": "2020-04-19T14:17:34.895Z",
+            "scenario_duration": 8182.4
+        },
+        {
+            "timestamp": "2020-04-19T14:48:48.021Z",
+            "scenario_duration": 8701.6
+        },
+        {
+            "timestamp": "2020-04-19T15:19:59.138Z",
+            "scenario_duration": 8591.5
+        },
+        {
+            "timestamp": "2020-04-19T15:51:11.311Z",
+            "scenario_duration": 9271.7
+        },
+        {
+            "timestamp": "2020-04-19T16:22:25.030Z",
+            "scenario_duration": 7742.8
+        },
+        {
+            "timestamp": "2020-04-19T16:53:42.112Z",
+            "scenario_duration": 8771.8
+        },
+        {
+            "timestamp": "2020-04-19T17:25:10.253Z",
+            "scenario_duration": 7143.8
+        },
+        {
+            "timestamp": "2020-04-19T17:56:18.389Z",
+            "scenario_duration": 7924.8
+        },
+        {
+            "timestamp": "2020-04-19T18:27:41.440Z",
+            "scenario_duration": 8897.5
+        },
+        {
+            "timestamp": "2020-04-19T18:58:57.619Z",
+            "scenario_duration": 9661.8
+        },
+        {
+            "timestamp": "2020-04-19T19:30:14.060Z",
+            "scenario_duration": 7377
+        },
+        {
+            "timestamp": "2020-04-19T20:01:32.083Z",
+            "scenario_duration": 8296.4
+        },
+        {
+            "timestamp": "2020-04-19T20:32:52.150Z",
+            "scenario_duration": 8814.8
+        },
+        {
+            "timestamp": "2020-04-19T21:04:15.651Z",
+            "scenario_duration": 11238.5
+        },
+        {
+            "timestamp": "2020-04-19T21:35:31.114Z",
+            "scenario_duration": 9222.1
+        },
+        {
+            "timestamp": "2020-04-19T22:06:56.649Z",
+            "scenario_duration": 8041.6
+        },
+        {
+            "timestamp": "2020-04-19T22:38:23.232Z",
+            "scenario_duration": 10157.6
+        },
+        {
+            "timestamp": "2020-04-19T23:09:35.632Z",
+            "scenario_duration": 14581.5
+        },
+        {
+            "timestamp": "2020-04-19T23:40:48.972Z",
+            "scenario_duration": 22217.3
+        },
+        {
+            "timestamp": "2020-04-20T00:12:17.586Z",
+            "scenario_duration": 20901
+        },
+        {
+            "timestamp": "2020-04-20T00:43:33.486Z",
+            "scenario_duration": 21081.2
+        },
+        {
+            "timestamp": "2020-04-20T01:14:48.839Z",
+            "scenario_duration": 19622.3
+        },
+        {
+            "timestamp": "2020-04-20T01:46:12.852Z",
+            "scenario_duration": 20761.9
+        },
+        {
+            "timestamp": "2020-04-20T02:17:41.538Z",
+            "scenario_duration": 19548.8
+        },
+        {
+            "timestamp": "2020-04-20T02:48:46.942Z",
+            "scenario_duration": 9690.6
+        },
+        {
+            "timestamp": "2020-04-20T03:20:04.152Z",
+            "scenario_duration": 7839.4
+        },
+        {
+            "timestamp": "2020-04-20T03:51:41.751Z",
+            "scenario_duration": 9852.1
+        },
+        {
+            "timestamp": "2020-04-20T04:23:23.320Z",
+            "scenario_duration": 18339.2
+        },
+        {
+            "timestamp": "2020-04-20T04:54:35.172Z",
+            "scenario_duration": 7991.9
+        },
+        {
+            "timestamp": "2020-04-20T05:25:39.965Z",
+            "scenario_duration": 7337.3
+        },
+        {
+            "timestamp": "2020-04-20T05:56:46.739Z",
+            "scenario_duration": 10155.5
+        },
+        {
+            "timestamp": "2020-04-20T06:27:56.008Z",
+            "scenario_duration": 7717.9
+        },
+        {
+            "timestamp": "2020-04-20T06:59:21.978Z",
+            "scenario_duration": 24258
+        },
+        {
+            "timestamp": "2020-04-20T07:30:45.902Z",
+            "scenario_duration": 22810.3
+        },
+        {
+            "timestamp": "2020-04-20T08:02:05.795Z",
+            "scenario_duration": 9907.6
+        },
+        {
+            "timestamp": "2020-04-20T08:33:17.077Z",
+            "scenario_duration": 8534.4
+        },
+        {
+            "timestamp": "2020-04-20T09:04:26.418Z",
+            "scenario_duration": 7829.8
+        },
+        {
+            "timestamp": "2020-04-20T09:35:46.917Z",
+            "scenario_duration": 23386.2
+        },
+        {
+            "timestamp": "2020-04-20T10:07:12.906Z",
+            "scenario_duration": 20649.6
+        },
+        {
+            "timestamp": "2020-04-20T10:38:21.264Z",
+            "scenario_duration": 7451.6
+        },
+        {
+            "timestamp": "2020-04-20T11:09:29.517Z",
+            "scenario_duration": 10176
+        },
+        {
+            "timestamp": "2020-04-20T11:40:35.980Z",
+            "scenario_duration": 7913.7
+        },
+        {
+            "timestamp": "2020-04-20T12:11:58.042Z",
+            "scenario_duration": 21139.9
+        },
+        {
+            "timestamp": "2020-04-20T12:43:36.577Z",
+            "scenario_duration": 19663.7
+        },
+        {
+            "timestamp": "2020-04-20T13:14:58.473Z",
+            "scenario_duration": 7833.1
+        },
+        {
+            "timestamp": "2020-04-20T13:47:15.957Z",
+            "scenario_duration": 23394.6
+        },
+        {
+            "timestamp": "2020-04-20T14:18:35.391Z",
+            "scenario_duration": 23701.9
+        },
+        {
+            "timestamp": "2020-04-20T14:49:55.356Z",
+            "scenario_duration": 8427.3
+        },
+        {
+            "timestamp": "2020-04-20T15:21:25.566Z",
+            "scenario_duration": 7598.6
+        },
+        {
+            "timestamp": "2020-04-20T15:52:55.849Z",
+            "scenario_duration": 7568.1
+        },
+        {
+            "timestamp": "2020-04-20T16:24:43.454Z",
+            "scenario_duration": 27250.2
+        },
+        {
+            "timestamp": "2020-04-20T16:56:22.680Z",
+            "scenario_duration": 24201
+        },
+        {
+            "timestamp": "2020-04-20T17:28:04.184Z",
+            "scenario_duration": 8477.2
+        },
+        {
+            "timestamp": "2020-04-20T17:59:39.536Z",
+            "scenario_duration": 7501.5
+        },
+        {
+            "timestamp": "2020-04-20T18:31:30.014Z",
+            "scenario_duration": 7958.5
+        },
+        {
+            "timestamp": "2020-04-20T19:03:14.439Z",
+            "scenario_duration": 7357.7
+        },
+        {
+            "timestamp": "2020-04-20T19:34:29.847Z",
+            "scenario_duration": 7634.8
+        },
+        {
+            "timestamp": "2020-04-20T20:05:48.810Z",
+            "scenario_duration": 7843.2
+        },
+        {
+            "timestamp": "2020-04-20T20:37:00.744Z",
+            "scenario_duration": 7946.3
+        },
+        {
+            "timestamp": "2020-04-20T21:08:23.241Z",
+            "scenario_duration": 9491.5
+        },
+        {
+            "timestamp": "2020-04-20T21:39:20.318Z",
+            "scenario_duration": 7457.8
+        },
+        {
+            "timestamp": "2020-04-20T22:10:50.329Z",
+            "scenario_duration": 9702.3
+        },
+        {
+            "timestamp": "2020-04-20T22:42:09.837Z",
+            "scenario_duration": 8361.7
+        },
+        {
+            "timestamp": "2020-04-20T23:13:17.800Z",
+            "scenario_duration": 7597
+        },
+        {
+            "timestamp": "2020-04-20T23:44:18.785Z",
+            "scenario_duration": 7044.5
+        },
+        {
+            "timestamp": "2020-04-21T00:15:29.846Z",
+            "scenario_duration": 11922.1
+        },
+        {
+            "timestamp": "2020-04-21T00:46:40.394Z",
+            "scenario_duration": 11054.6
+        },
+        {
+            "timestamp": "2020-04-21T01:18:13.874Z",
+            "scenario_duration": 21219.3
+        },
+        {
+            "timestamp": "2020-04-21T01:49:37.414Z",
+            "scenario_duration": 19880.7
+        },
+        {
+            "timestamp": "2020-04-21T02:20:46.987Z",
+            "scenario_duration": 8624.4
+        },
+        {
+            "timestamp": "2020-04-21T02:51:51.005Z",
+            "scenario_duration": 7773.7
+        },
+        {
+            "timestamp": "2020-04-21T03:22:53.007Z",
+            "scenario_duration": 8953.6
+        },
+        {
+            "timestamp": "2020-04-21T03:53:54.001Z",
+            "scenario_duration": 7965.4
+        },
+        {
+            "timestamp": "2020-04-21T04:25:03.036Z",
+            "scenario_duration": 9179.8
+        },
+        {
+            "timestamp": "2020-04-21T04:56:45.606Z",
+            "scenario_duration": 29484.5
+        },
+        {
+            "timestamp": "2020-04-21T05:28:13.763Z",
+            "scenario_duration": 25191
+        },
+        {
+            "timestamp": "2020-04-21T05:59:28.824Z",
+            "scenario_duration": 21385
+        },
+        {
+            "timestamp": "2020-04-21T06:30:44.859Z",
+            "scenario_duration": 20717.7
+        },
+        {
+            "timestamp": "2020-04-21T07:02:02.517Z",
+            "scenario_duration": 22823
+        },
+        {
+            "timestamp": "2020-04-21T07:33:21.124Z",
+            "scenario_duration": 23247.2
+        },
+        {
+            "timestamp": "2020-04-21T08:04:28.745Z",
+            "scenario_duration": 7940.5
+        },
+        {
+            "timestamp": "2020-04-21T08:35:35.867Z",
+            "scenario_duration": 9431.3
+        },
+        {
+            "timestamp": "2020-04-21T09:06:56.002Z",
+            "scenario_duration": 25530.3
+        },
+        {
+            "timestamp": "2020-04-21T09:38:12.129Z",
+            "scenario_duration": 24483.4
+        },
+        {
+            "timestamp": "2020-04-21T10:09:21.717Z",
+            "scenario_duration": 11199.3
+        },
+        {
+            "timestamp": "2020-04-21T10:40:27.869Z",
+            "scenario_duration": 10255.6
+        },
+        {
+            "timestamp": "2020-04-21T11:11:50.002Z",
+            "scenario_duration": 26990.5
+        },
+        {
+            "timestamp": "2020-04-21T11:43:29.137Z",
+            "scenario_duration": 24648.7
+        },
+        {
+            "timestamp": "2020-04-21T12:15:18.748Z",
+            "scenario_duration": 25507.4
+        },
+        {
+            "timestamp": "2020-04-21T12:46:39.941Z",
+            "scenario_duration": 23428.5
+        },
+        {
+            "timestamp": "2020-04-21T13:17:51.522Z",
+            "scenario_duration": 8076.9
+        },
+        {
+            "timestamp": "2020-04-21T13:48:56.083Z",
+            "scenario_duration": 8508.8
+        },
+        {
+            "timestamp": "2020-04-21T14:20:11.240Z",
+            "scenario_duration": 9179.2
+        },
+        {
+            "timestamp": "2020-04-21T14:51:43.846Z",
+            "scenario_duration": 8284.8
+        },
+        {
+            "timestamp": "2020-04-21T15:22:53.501Z",
+            "scenario_duration": 8967.8
+        },
+        {
+            "timestamp": "2020-04-21T15:54:05.216Z",
+            "scenario_duration": 7424.5
+        },
+        {
+            "timestamp": "2020-04-21T16:25:11.772Z",
+            "scenario_duration": 7255.5
+        },
+        {
+            "timestamp": "2020-04-21T16:56:21.921Z",
+            "scenario_duration": 7796.6
+        },
+        {
+            "timestamp": "2020-04-21T17:27:31.157Z",
+            "scenario_duration": 9306.9
+        },
+        {
+            "timestamp": "2020-04-21T17:58:51.040Z",
+            "scenario_duration": 7678.9
+        },
+        {
+            "timestamp": "2020-04-21T18:30:00.415Z",
+            "scenario_duration": 8131
+        },
+        {
+            "timestamp": "2020-04-21T19:01:05.540Z",
+            "scenario_duration": 9375.5
+        },
+        {
+            "timestamp": "2020-04-21T19:32:10.119Z",
+            "scenario_duration": 9068.8
+        },
+        {
+            "timestamp": "2020-04-21T20:03:15.256Z",
+            "scenario_duration": 8673.6
+        },
+        {
+            "timestamp": "2020-04-21T20:34:28.041Z",
+            "scenario_duration": 8526.2
+        },
+        {
+            "timestamp": "2020-04-21T21:05:47.688Z",
+            "scenario_duration": 8305.9
+        },
+        {
+            "timestamp": "2020-04-21T21:37:03.367Z",
+            "scenario_duration": 7919.9
+        },
+        {
+            "timestamp": "2020-04-21T22:08:22.564Z",
+            "scenario_duration": 8144.700000000001
+        },
+        {
+            "timestamp": "2020-04-21T22:39:26.746Z",
+            "scenario_duration": 8080.1
+        },
+        {
+            "timestamp": "2020-04-21T23:10:46.465Z",
+            "scenario_duration": 10262.6
+        },
+        {
+            "timestamp": "2020-04-21T23:41:52.618Z",
+            "scenario_duration": 9023.4
+        },
+        {
+            "timestamp": "2020-04-22T00:13:40.922Z",
+            "scenario_duration": 8956.2
+        },
+        {
+            "timestamp": "2020-04-22T00:44:48.177Z",
+            "scenario_duration": 10062.3
+        },
+        {
+            "timestamp": "2020-04-22T01:15:55.895Z",
+            "scenario_duration": 12802
+        },
+        {
+            "timestamp": "2020-04-22T01:46:58.634Z",
+            "scenario_duration": 7158.5
+        },
+        {
+            "timestamp": "2020-04-22T02:18:09.856Z",
+            "scenario_duration": 7371.8
+        },
+        {
+            "timestamp": "2020-04-22T02:49:15.105Z",
+            "scenario_duration": 8016.1
+        },
+        {
+            "timestamp": "2020-04-22T03:20:23.305Z",
+            "scenario_duration": 7793.4
+        },
+        {
+            "timestamp": "2020-04-22T03:51:27.967Z",
+            "scenario_duration": 8420.8
+        },
+        {
+            "timestamp": "2020-04-22T04:22:36.649Z",
+            "scenario_duration": 8775.9
+        },
+        {
+            "timestamp": "2020-04-22T04:53:46.901Z",
+            "scenario_duration": 7391.4
+        },
+        {
+            "timestamp": "2020-04-22T05:24:59.137Z",
+            "scenario_duration": 9459
+        },
+        {
+            "timestamp": "2020-04-22T05:56:08.914Z",
+            "scenario_duration": 9408.5
+        },
+        {
+            "timestamp": "2020-04-22T06:27:18.774Z",
+            "scenario_duration": 7781.3
+        }
+    ],
+    "warmstart_zip": [
+        {
+            "timestamp": "2020-04-18T18:36:32.886Z",
+            "scenario_duration": 396.4
+        },
+        {
+            "timestamp": "2020-04-18T19:07:57.623Z",
+            "scenario_duration": 417.1
+        },
+        {
+            "timestamp": "2020-04-18T19:39:03.002Z",
+            "scenario_duration": 324.4
+        },
+        {
+            "timestamp": "2020-04-18T20:10:09.687Z",
+            "scenario_duration": 375.6
+        },
+        {
+            "timestamp": "2020-04-18T20:41:18.456Z",
+            "scenario_duration": 370.1
+        },
+        {
+            "timestamp": "2020-04-18T21:12:26.659Z",
+            "scenario_duration": 376.70000000000005
+        },
+        {
+            "timestamp": "2020-04-18T21:43:32.427Z",
+            "scenario_duration": 358.5
+        },
+        {
+            "timestamp": "2020-04-18T22:14:47.097Z",
+            "scenario_duration": 424.1
+        },
+        {
+            "timestamp": "2020-04-18T22:45:56.183Z",
+            "scenario_duration": 443.9
+        },
+        {
+            "timestamp": "2020-04-18T23:17:00.441Z",
+            "scenario_duration": 432.70000000000005
+        },
+        {
+            "timestamp": "2020-04-18T23:48:04.068Z",
+            "scenario_duration": 380.29999999999995
+        },
+        {
+            "timestamp": "2020-04-19T00:19:16.715Z",
+            "scenario_duration": 318.1
+        },
+        {
+            "timestamp": "2020-04-19T00:51:16.304Z",
+            "scenario_duration": 406.6
+        },
+        {
+            "timestamp": "2020-04-19T01:22:32.004Z",
+            "scenario_duration": 362.5
+        },
+        {
+            "timestamp": "2020-04-19T01:53:40.062Z",
+            "scenario_duration": 397.1
+        },
+        {
+            "timestamp": "2020-04-19T02:24:49.203Z",
+            "scenario_duration": 378.9
+        },
+        {
+            "timestamp": "2020-04-19T02:55:56.823Z",
+            "scenario_duration": 411
+        },
+        {
+            "timestamp": "2020-04-19T03:27:15.441Z",
+            "scenario_duration": 365
+        },
+        {
+            "timestamp": "2020-04-19T03:59:09.572Z",
+            "scenario_duration": 364.79999999999995
+        },
+        {
+            "timestamp": "2020-04-19T04:30:46.710Z",
+            "scenario_duration": 334.6
+        },
+        {
+            "timestamp": "2020-04-19T05:01:59.830Z",
+            "scenario_duration": 422.1
+        },
+        {
+            "timestamp": "2020-04-19T05:33:28.490Z",
+            "scenario_duration": 480
+        },
+        {
+            "timestamp": "2020-04-19T06:05:02.205Z",
+            "scenario_duration": 456.9
+        },
+        {
+            "timestamp": "2020-04-19T06:36:14.527Z",
+            "scenario_duration": 397.9
+        },
+        {
+            "timestamp": "2020-04-19T07:07:27.428Z",
+            "scenario_duration": 517.1
+        },
+        {
+            "timestamp": "2020-04-19T07:38:47.596Z",
+            "scenario_duration": 382.79999999999995
+        },
+        {
+            "timestamp": "2020-04-19T08:10:06.108Z",
+            "scenario_duration": 726
+        },
+        {
+            "timestamp": "2020-04-19T08:41:50.523Z",
+            "scenario_duration": 349.9
+        },
+        {
+            "timestamp": "2020-04-19T09:12:58.342Z",
+            "scenario_duration": 395.4
+        },
+        {
+            "timestamp": "2020-04-19T09:44:06.786Z",
+            "scenario_duration": 363.1
+        },
+        {
+            "timestamp": "2020-04-19T10:15:28.170Z",
+            "scenario_duration": 347.29999999999995
+        },
+        {
+            "timestamp": "2020-04-19T10:46:51.419Z",
+            "scenario_duration": 404.20000000000005
+        },
+        {
+            "timestamp": "2020-04-19T12:43:54.592Z",
+            "scenario_duration": 385.70000000000005
+        },
+        {
+            "timestamp": "2020-04-19T13:15:18.384Z",
+            "scenario_duration": 368.20000000000005
+        },
+        {
+            "timestamp": "2020-04-19T13:46:30.592Z",
+            "scenario_duration": 424.79999999999995
+        },
+        {
+            "timestamp": "2020-04-19T14:18:08.250Z",
+            "scenario_duration": 421.20000000000005
+        },
+        {
+            "timestamp": "2020-04-19T14:49:20.852Z",
+            "scenario_duration": 305.1
+        },
+        {
+            "timestamp": "2020-04-19T15:20:32.484Z",
+            "scenario_duration": 318
+        },
+        {
+            "timestamp": "2020-04-19T15:51:44.667Z",
+            "scenario_duration": 360
+        },
+        {
+            "timestamp": "2020-04-19T16:22:58.385Z",
+            "scenario_duration": 315.29999999999995
+        },
+        {
+            "timestamp": "2020-04-19T16:54:15.477Z",
+            "scenario_duration": 446.20000000000005
+        },
+        {
+            "timestamp": "2020-04-19T17:25:43.600Z",
+            "scenario_duration": 364.4
+        },
+        {
+            "timestamp": "2020-04-19T17:56:51.742Z",
+            "scenario_duration": 439.70000000000005
+        },
+        {
+            "timestamp": "2020-04-19T18:28:15.256Z",
+            "scenario_duration": 383.5
+        },
+        {
+            "timestamp": "2020-04-19T18:59:32.349Z",
+            "scenario_duration": 545.9
+        },
+        {
+            "timestamp": "2020-04-19T19:30:48.848Z",
+            "scenario_duration": 452.79999999999995
+        },
+        {
+            "timestamp": "2020-04-19T20:02:05.750Z",
+            "scenario_duration": 382.79999999999995
+        },
+        {
+            "timestamp": "2020-04-19T20:33:25.493Z",
+            "scenario_duration": 390.79999999999995
+        },
+        {
+            "timestamp": "2020-04-19T21:04:49.024Z",
+            "scenario_duration": 484.5
+        },
+        {
+            "timestamp": "2020-04-19T21:36:04.450Z",
+            "scenario_duration": 424.4
+        },
+        {
+            "timestamp": "2020-04-19T22:07:30.027Z",
+            "scenario_duration": 387
+        },
+        {
+            "timestamp": "2020-04-19T22:38:56.588Z",
+            "scenario_duration": 432
+        },
+        {
+            "timestamp": "2020-04-19T23:10:09.042Z",
+            "scenario_duration": 332.9
+        },
+        {
+            "timestamp": "2020-04-19T23:41:22.338Z",
+            "scenario_duration": 401.6
+        },
+        {
+            "timestamp": "2020-04-20T00:12:50.936Z",
+            "scenario_duration": 344.29999999999995
+        },
+        {
+            "timestamp": "2020-04-20T00:44:06.848Z",
+            "scenario_duration": 443.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T01:15:22.208Z",
+            "scenario_duration": 386
+        },
+        {
+            "timestamp": "2020-04-20T01:46:46.237Z",
+            "scenario_duration": 447
+        },
+        {
+            "timestamp": "2020-04-20T02:18:14.937Z",
+            "scenario_duration": 400.79999999999995
+        },
+        {
+            "timestamp": "2020-04-20T02:49:20.318Z",
+            "scenario_duration": 332.1
+        },
+        {
+            "timestamp": "2020-04-20T03:20:37.534Z",
+            "scenario_duration": 387.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T03:52:15.123Z",
+            "scenario_duration": 475
+        },
+        {
+            "timestamp": "2020-04-20T04:23:56.705Z",
+            "scenario_duration": 423.9
+        },
+        {
+            "timestamp": "2020-04-20T04:55:08.559Z",
+            "scenario_duration": 342.79999999999995
+        },
+        {
+            "timestamp": "2020-04-20T05:26:13.345Z",
+            "scenario_duration": 374.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T05:57:20.103Z",
+            "scenario_duration": 327.1
+        },
+        {
+            "timestamp": "2020-04-20T06:28:29.378Z",
+            "scenario_duration": 350.6
+        },
+        {
+            "timestamp": "2020-04-20T06:59:55.382Z",
+            "scenario_duration": 428.70000000000005
+        },
+        {
+            "timestamp": "2020-04-20T07:31:19.286Z",
+            "scenario_duration": 410.29999999999995
+        },
+        {
+            "timestamp": "2020-04-20T08:02:39.175Z",
+            "scenario_duration": 383.70000000000005
+        },
+        {
+            "timestamp": "2020-04-20T08:33:50.440Z",
+            "scenario_duration": 345.79999999999995
+        },
+        {
+            "timestamp": "2020-04-20T09:04:59.788Z",
+            "scenario_duration": 317.4
+        },
+        {
+            "timestamp": "2020-04-20T09:36:20.281Z",
+            "scenario_duration": 486.70000000000005
+        },
+        {
+            "timestamp": "2020-04-20T10:07:46.294Z",
+            "scenario_duration": 424.29999999999995
+        },
+        {
+            "timestamp": "2020-04-20T10:38:54.623Z",
+            "scenario_duration": 386.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T11:10:02.386Z",
+            "scenario_duration": 310
+        },
+        {
+            "timestamp": "2020-04-20T11:41:09.348Z",
+            "scenario_duration": 435.4
+        },
+        {
+            "timestamp": "2020-04-20T12:12:31.406Z",
+            "scenario_duration": 432.1
+        },
+        {
+            "timestamp": "2020-04-20T12:44:09.948Z",
+            "scenario_duration": 452.79999999999995
+        },
+        {
+            "timestamp": "2020-04-20T13:15:31.887Z",
+            "scenario_duration": 435.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T13:47:49.341Z",
+            "scenario_duration": 422.1
+        },
+        {
+            "timestamp": "2020-04-20T14:19:08.772Z",
+            "scenario_duration": 412.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T14:50:28.729Z",
+            "scenario_duration": 628.4
+        },
+        {
+            "timestamp": "2020-04-20T15:21:59.682Z",
+            "scenario_duration": 375.79999999999995
+        },
+        {
+            "timestamp": "2020-04-20T15:53:30.336Z",
+            "scenario_duration": 391.4
+        },
+        {
+            "timestamp": "2020-04-20T16:25:18.549Z",
+            "scenario_duration": 661.1
+        },
+        {
+            "timestamp": "2020-04-20T16:56:56.086Z",
+            "scenario_duration": 507.5
+        },
+        {
+            "timestamp": "2020-04-20T17:28:37.560Z",
+            "scenario_duration": 365.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T18:00:12.919Z",
+            "scenario_duration": 420.6
+        },
+        {
+            "timestamp": "2020-04-20T18:32:03.420Z",
+            "scenario_duration": 340.6
+        },
+        {
+            "timestamp": "2020-04-20T19:03:47.827Z",
+            "scenario_duration": 369.70000000000005
+        },
+        {
+            "timestamp": "2020-04-20T19:35:03.260Z",
+            "scenario_duration": 355
+        },
+        {
+            "timestamp": "2020-04-20T20:06:22.192Z",
+            "scenario_duration": 374.6
+        },
+        {
+            "timestamp": "2020-04-20T20:37:34.160Z",
+            "scenario_duration": 375.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T21:08:56.661Z",
+            "scenario_duration": 455.29999999999995
+        },
+        {
+            "timestamp": "2020-04-20T21:39:53.691Z",
+            "scenario_duration": 375.9
+        },
+        {
+            "timestamp": "2020-04-20T22:11:23.733Z",
+            "scenario_duration": 399.1
+        },
+        {
+            "timestamp": "2020-04-20T22:42:43.233Z",
+            "scenario_duration": 329.9
+        },
+        {
+            "timestamp": "2020-04-20T23:13:51.213Z",
+            "scenario_duration": 323.70000000000005
+        },
+        {
+            "timestamp": "2020-04-20T23:44:52.181Z",
+            "scenario_duration": 355.4
+        },
+        {
+            "timestamp": "2020-04-21T00:16:03.276Z",
+            "scenario_duration": 330.6
+        },
+        {
+            "timestamp": "2020-04-21T00:47:13.801Z",
+            "scenario_duration": 389.29999999999995
+        },
+        {
+            "timestamp": "2020-04-21T01:18:47.268Z",
+            "scenario_duration": 427.9
+        },
+        {
+            "timestamp": "2020-04-21T01:50:10.827Z",
+            "scenario_duration": 530.2
+        },
+        {
+            "timestamp": "2020-04-21T02:21:20.390Z",
+            "scenario_duration": 363.9
+        },
+        {
+            "timestamp": "2020-04-21T02:52:24.415Z",
+            "scenario_duration": 394.4
+        },
+        {
+            "timestamp": "2020-04-21T03:23:26.404Z",
+            "scenario_duration": 391
+        },
+        {
+            "timestamp": "2020-04-21T03:54:27.433Z",
+            "scenario_duration": 371.20000000000005
+        },
+        {
+            "timestamp": "2020-04-21T04:25:36.459Z",
+            "scenario_duration": 365.79999999999995
+        },
+        {
+            "timestamp": "2020-04-21T04:57:19.033Z",
+            "scenario_duration": 480.1
+        },
+        {
+            "timestamp": "2020-04-21T05:28:47.162Z",
+            "scenario_duration": 465.5
+        },
+        {
+            "timestamp": "2020-04-21T06:00:02.254Z",
+            "scenario_duration": 434.4
+        },
+        {
+            "timestamp": "2020-04-21T06:31:18.274Z",
+            "scenario_duration": 499.9
+        },
+        {
+            "timestamp": "2020-04-21T07:02:35.927Z",
+            "scenario_duration": 395
+        },
+        {
+            "timestamp": "2020-04-21T07:33:54.543Z",
+            "scenario_duration": 384.79999999999995
+        },
+        {
+            "timestamp": "2020-04-21T08:05:02.167Z",
+            "scenario_duration": 370.1
+        },
+        {
+            "timestamp": "2020-04-21T08:36:09.291Z",
+            "scenario_duration": 474.6
+        },
+        {
+            "timestamp": "2020-04-21T09:07:29.427Z",
+            "scenario_duration": 394.70000000000005
+        },
+        {
+            "timestamp": "2020-04-21T09:38:45.557Z",
+            "scenario_duration": 438.4
+        },
+        {
+            "timestamp": "2020-04-21T10:09:55.155Z",
+            "scenario_duration": 379.9
+        },
+        {
+            "timestamp": "2020-04-21T10:41:01.305Z",
+            "scenario_duration": 395.4
+        },
+        {
+            "timestamp": "2020-04-21T11:12:23.457Z",
+            "scenario_duration": 409
+        },
+        {
+            "timestamp": "2020-04-21T11:44:02.579Z",
+            "scenario_duration": 385
+        },
+        {
+            "timestamp": "2020-04-21T12:15:52.177Z",
+            "scenario_duration": 417.9
+        },
+        {
+            "timestamp": "2020-04-21T12:47:13.350Z",
+            "scenario_duration": 429.5
+        },
+        {
+            "timestamp": "2020-04-21T13:18:24.946Z",
+            "scenario_duration": 367.6
+        },
+        {
+            "timestamp": "2020-04-21T13:49:29.519Z",
+            "scenario_duration": 348.4
+        },
+        {
+            "timestamp": "2020-04-21T14:20:44.660Z",
+            "scenario_duration": 476.20000000000005
+        },
+        {
+            "timestamp": "2020-04-21T14:52:17.247Z",
+            "scenario_duration": 354.6
+        },
+        {
+            "timestamp": "2020-04-21T15:23:26.936Z",
+            "scenario_duration": 343.9
+        },
+        {
+            "timestamp": "2020-04-21T15:54:38.628Z",
+            "scenario_duration": 419.29999999999995
+        },
+        {
+            "timestamp": "2020-04-21T16:25:45.199Z",
+            "scenario_duration": 442.1
+        },
+        {
+            "timestamp": "2020-04-21T16:56:55.816Z",
+            "scenario_duration": 400.9
+        },
+        {
+            "timestamp": "2020-04-21T17:28:04.896Z",
+            "scenario_duration": 336.20000000000005
+        },
+        {
+            "timestamp": "2020-04-21T17:59:25.542Z",
+            "scenario_duration": 510.1
+        },
+        {
+            "timestamp": "2020-04-21T18:30:33.855Z",
+            "scenario_duration": 416.5
+        },
+        {
+            "timestamp": "2020-04-21T19:01:39.136Z",
+            "scenario_duration": 358.29999999999995
+        },
+        {
+            "timestamp": "2020-04-21T19:32:43.542Z",
+            "scenario_duration": 406.70000000000005
+        },
+        {
+            "timestamp": "2020-04-21T20:03:48.678Z",
+            "scenario_duration": 439.5
+        },
+        {
+            "timestamp": "2020-04-21T20:35:01.466Z",
+            "scenario_duration": 399
+        },
+        {
+            "timestamp": "2020-04-21T21:06:21.132Z",
+            "scenario_duration": 327.20000000000005
+        },
+        {
+            "timestamp": "2020-04-21T21:37:36.777Z",
+            "scenario_duration": 399.6
+        },
+        {
+            "timestamp": "2020-04-21T22:08:56.000Z",
+            "scenario_duration": 389.1
+        },
+        {
+            "timestamp": "2020-04-21T22:40:00.185Z",
+            "scenario_duration": 325.1
+        },
+        {
+            "timestamp": "2020-04-21T23:11:19.904Z",
+            "scenario_duration": 317.1
+        },
+        {
+            "timestamp": "2020-04-21T23:42:26.055Z",
+            "scenario_duration": 382.1
+        },
+        {
+            "timestamp": "2020-04-22T00:14:14.378Z",
+            "scenario_duration": 343.6
+        },
+        {
+            "timestamp": "2020-04-22T00:45:21.610Z",
+            "scenario_duration": 330.79999999999995
+        },
+        {
+            "timestamp": "2020-04-22T01:16:29.329Z",
+            "scenario_duration": 359.4
+        },
+        {
+            "timestamp": "2020-04-22T01:47:32.102Z",
+            "scenario_duration": 339.70000000000005
+        },
+        {
+            "timestamp": "2020-04-22T02:18:43.322Z",
+            "scenario_duration": 402.6
+        },
+        {
+            "timestamp": "2020-04-22T02:49:48.534Z",
+            "scenario_duration": 325.9
+        },
+        {
+            "timestamp": "2020-04-22T03:20:56.749Z",
+            "scenario_duration": 400.4
+        },
+        {
+            "timestamp": "2020-04-22T03:52:01.398Z",
+            "scenario_duration": 424.20000000000005
+        },
+        {
+            "timestamp": "2020-04-22T04:23:10.097Z",
+            "scenario_duration": 340.20000000000005
+        },
+        {
+            "timestamp": "2020-04-22T04:54:20.355Z",
+            "scenario_duration": 348.29999999999995
+        },
+        {
+            "timestamp": "2020-04-22T05:25:32.590Z",
+            "scenario_duration": 322.29999999999995
+        },
+        {
+            "timestamp": "2020-04-22T05:56:42.367Z",
+            "scenario_duration": 333.1
+        },
+        {
+            "timestamp": "2020-04-22T06:27:52.191Z",
+            "scenario_duration": 480.29999999999995
+        }
+    ],
+    "warmstart_ms": [
+        {
+            "timestamp": "2020-04-18T18:37:51.807Z",
+            "scenario_duration": 644.9
+        },
+        {
+            "timestamp": "2020-04-18T19:09:14.353Z",
+            "scenario_duration": 540.6
+        },
+        {
+            "timestamp": "2020-04-18T19:40:19.717Z",
+            "scenario_duration": 522
+        },
+        {
+            "timestamp": "2020-04-18T20:11:25.465Z",
+            "scenario_duration": 559.6
+        },
+        {
+            "timestamp": "2020-04-18T20:42:35.211Z",
+            "scenario_duration": 549.9
+        },
+        {
+            "timestamp": "2020-04-18T21:13:42.414Z",
+            "scenario_duration": 475.1
+        },
+        {
+            "timestamp": "2020-04-18T21:44:49.201Z",
+            "scenario_duration": 515.5
+        },
+        {
+            "timestamp": "2020-04-18T22:16:05.327Z",
+            "scenario_duration": 471.6
+        },
+        {
+            "timestamp": "2020-04-18T22:47:11.951Z",
+            "scenario_duration": 540.5
+        },
+        {
+            "timestamp": "2020-04-18T23:18:16.221Z",
+            "scenario_duration": 793.6
+        },
+        {
+            "timestamp": "2020-04-18T23:49:20.331Z",
+            "scenario_duration": 503
+        },
+        {
+            "timestamp": "2020-04-19T00:20:33.449Z",
+            "scenario_duration": 493.20000000000005
+        },
+        {
+            "timestamp": "2020-04-19T00:52:31.567Z",
+            "scenario_duration": 569.3
+        },
+        {
+            "timestamp": "2020-04-19T01:23:47.745Z",
+            "scenario_duration": 471.79999999999995
+        },
+        {
+            "timestamp": "2020-04-19T01:54:56.285Z",
+            "scenario_duration": 683.5
+        },
+        {
+            "timestamp": "2020-04-19T02:26:04.450Z",
+            "scenario_duration": 577.6
+        },
+        {
+            "timestamp": "2020-04-19T02:57:13.073Z",
+            "scenario_duration": 590.7
+        },
+        {
+            "timestamp": "2020-04-19T03:28:32.184Z",
+            "scenario_duration": 532
+        },
+        {
+            "timestamp": "2020-04-19T04:00:25.316Z",
+            "scenario_duration": 538.6
+        },
+        {
+            "timestamp": "2020-04-19T04:32:02.952Z",
+            "scenario_duration": 506.79999999999995
+        },
+        {
+            "timestamp": "2020-04-19T05:03:15.056Z",
+            "scenario_duration": 510.6
+        },
+        {
+            "timestamp": "2020-04-19T05:34:44.272Z",
+            "scenario_duration": 510.1
+        },
+        {
+            "timestamp": "2020-04-19T06:06:18.473Z",
+            "scenario_duration": 604.8
+        },
+        {
+            "timestamp": "2020-04-19T06:37:29.797Z",
+            "scenario_duration": 588.4
+        },
+        {
+            "timestamp": "2020-04-19T07:08:51.894Z",
+            "scenario_duration": 598.2
+        },
+        {
+            "timestamp": "2020-04-19T07:40:02.392Z",
+            "scenario_duration": 506.1
+        },
+        {
+            "timestamp": "2020-04-19T08:11:23.664Z",
+            "scenario_duration": 578.5
+        },
+        {
+            "timestamp": "2020-04-19T08:43:07.323Z",
+            "scenario_duration": 637.4
+        },
+        {
+            "timestamp": "2020-04-19T09:14:13.685Z",
+            "scenario_duration": 468.79999999999995
+        },
+        {
+            "timestamp": "2020-04-19T09:45:22.092Z",
+            "scenario_duration": 562.7
+        },
+        {
+            "timestamp": "2020-04-19T10:16:44.449Z",
+            "scenario_duration": 521.5
+        },
+        {
+            "timestamp": "2020-04-19T10:48:09.725Z",
+            "scenario_duration": 752
+        },
+        {
+            "timestamp": "2020-04-19T12:45:11.890Z",
+            "scenario_duration": 1348.2
+        },
+        {
+            "timestamp": "2020-04-19T13:16:35.148Z",
+            "scenario_duration": 591.8
+        },
+        {
+            "timestamp": "2020-04-19T13:47:46.353Z",
+            "scenario_duration": 493.5
+        },
+        {
+            "timestamp": "2020-04-19T14:19:24.474Z",
+            "scenario_duration": 579.8
+        },
+        {
+            "timestamp": "2020-04-19T14:50:36.615Z",
+            "scenario_duration": 680.3
+        },
+        {
+            "timestamp": "2020-04-19T15:21:48.249Z",
+            "scenario_duration": 497.6
+        },
+        {
+            "timestamp": "2020-04-19T15:53:00.434Z",
+            "scenario_duration": 480.4
+        },
+        {
+            "timestamp": "2020-04-19T16:24:15.607Z",
+            "scenario_duration": 574
+        },
+        {
+            "timestamp": "2020-04-19T16:55:30.222Z",
+            "scenario_duration": 509.5
+        },
+        {
+            "timestamp": "2020-04-19T17:26:58.832Z",
+            "scenario_duration": 502.6
+        },
+        {
+            "timestamp": "2020-04-19T17:58:08.492Z",
+            "scenario_duration": 556.8
+        },
+        {
+            "timestamp": "2020-04-19T18:29:32.425Z",
+            "scenario_duration": 711.6
+        },
+        {
+            "timestamp": "2020-04-19T19:00:50.175Z",
+            "scenario_duration": 563.2
+        },
+        {
+            "timestamp": "2020-04-19T19:32:09.858Z",
+            "scenario_duration": 752.4
+        },
+        {
+            "timestamp": "2020-04-19T20:03:21.660Z",
+            "scenario_duration": 481
+        },
+        {
+            "timestamp": "2020-04-19T20:34:41.815Z",
+            "scenario_duration": 432.4
+        },
+        {
+            "timestamp": "2020-04-19T21:06:04.376Z",
+            "scenario_duration": 554.6
+        },
+        {
+            "timestamp": "2020-04-19T21:37:20.310Z",
+            "scenario_duration": 572.6
+        },
+        {
+            "timestamp": "2020-04-19T22:08:46.829Z",
+            "scenario_duration": 509.29999999999995
+        },
+        {
+            "timestamp": "2020-04-19T22:40:12.966Z",
+            "scenario_duration": 527.7
+        },
+        {
+            "timestamp": "2020-04-19T23:11:23.821Z",
+            "scenario_duration": 484.20000000000005
+        },
+        {
+            "timestamp": "2020-04-19T23:42:37.734Z",
+            "scenario_duration": 497.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T00:14:07.804Z",
+            "scenario_duration": 540.6
+        },
+        {
+            "timestamp": "2020-04-20T00:45:21.668Z",
+            "scenario_duration": 463.79999999999995
+        },
+        {
+            "timestamp": "2020-04-20T01:16:37.555Z",
+            "scenario_duration": 519.6
+        },
+        {
+            "timestamp": "2020-04-20T01:48:02.688Z",
+            "scenario_duration": 615.3
+        },
+        {
+            "timestamp": "2020-04-20T02:19:30.280Z",
+            "scenario_duration": 570.1
+        },
+        {
+            "timestamp": "2020-04-20T02:50:37.226Z",
+            "scenario_duration": 564.8
+        },
+        {
+            "timestamp": "2020-04-20T03:22:09.496Z",
+            "scenario_duration": 559.2
+        },
+        {
+            "timestamp": "2020-04-20T03:53:43.624Z",
+            "scenario_duration": 626.3
+        },
+        {
+            "timestamp": "2020-04-20T04:25:12.611Z",
+            "scenario_duration": 487.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T04:56:23.945Z",
+            "scenario_duration": 711.3
+        },
+        {
+            "timestamp": "2020-04-20T05:27:29.173Z",
+            "scenario_duration": 552.5
+        },
+        {
+            "timestamp": "2020-04-20T05:58:35.989Z",
+            "scenario_duration": 704.2
+        },
+        {
+            "timestamp": "2020-04-20T06:29:45.257Z",
+            "scenario_duration": 515.6
+        },
+        {
+            "timestamp": "2020-04-20T07:01:11.745Z",
+            "scenario_duration": 471.1
+        },
+        {
+            "timestamp": "2020-04-20T07:32:35.113Z",
+            "scenario_duration": 520.9
+        },
+        {
+            "timestamp": "2020-04-20T08:03:56.519Z",
+            "scenario_duration": 556.8
+        },
+        {
+            "timestamp": "2020-04-20T08:35:07.310Z",
+            "scenario_duration": 708.8
+        },
+        {
+            "timestamp": "2020-04-20T09:06:16.179Z",
+            "scenario_duration": 469.70000000000005
+        },
+        {
+            "timestamp": "2020-04-20T09:37:35.721Z",
+            "scenario_duration": 552.3
+        },
+        {
+            "timestamp": "2020-04-20T10:09:02.652Z",
+            "scenario_duration": 450
+        },
+        {
+            "timestamp": "2020-04-20T10:40:11.016Z",
+            "scenario_duration": 534.4
+        },
+        {
+            "timestamp": "2020-04-20T11:11:21.745Z",
+            "scenario_duration": 639
+        },
+        {
+            "timestamp": "2020-04-20T11:42:24.768Z",
+            "scenario_duration": 617.9
+        },
+        {
+            "timestamp": "2020-04-20T12:13:47.248Z",
+            "scenario_duration": 709.2
+        },
+        {
+            "timestamp": "2020-04-20T12:45:26.287Z",
+            "scenario_duration": 524.3
+        },
+        {
+            "timestamp": "2020-04-20T13:16:48.756Z",
+            "scenario_duration": 557.5
+        },
+        {
+            "timestamp": "2020-04-20T13:49:04.717Z",
+            "scenario_duration": 531.7
+        },
+        {
+            "timestamp": "2020-04-20T14:20:25.236Z",
+            "scenario_duration": 505
+        },
+        {
+            "timestamp": "2020-04-20T14:51:45.586Z",
+            "scenario_duration": 537.8
+        },
+        {
+            "timestamp": "2020-04-20T15:23:18.148Z",
+            "scenario_duration": 623
+        },
+        {
+            "timestamp": "2020-04-20T15:54:48.646Z",
+            "scenario_duration": 522.5
+        },
+        {
+            "timestamp": "2020-04-20T16:26:35.621Z",
+            "scenario_duration": 496.6
+        },
+        {
+            "timestamp": "2020-04-20T16:58:11.932Z",
+            "scenario_duration": 457.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T17:29:53.859Z",
+            "scenario_duration": 565.5
+        },
+        {
+            "timestamp": "2020-04-20T18:01:28.791Z",
+            "scenario_duration": 447.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T18:33:18.739Z",
+            "scenario_duration": 485.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T19:05:03.655Z",
+            "scenario_duration": 474.9
+        },
+        {
+            "timestamp": "2020-04-20T19:36:19.110Z",
+            "scenario_duration": 461.1
+        },
+        {
+            "timestamp": "2020-04-20T20:07:40.023Z",
+            "scenario_duration": 589.6
+        },
+        {
+            "timestamp": "2020-04-20T20:38:50.481Z",
+            "scenario_duration": 492.6
+        },
+        {
+            "timestamp": "2020-04-20T21:10:12.534Z",
+            "scenario_duration": 516.8
+        },
+        {
+            "timestamp": "2020-04-20T21:41:09.509Z",
+            "scenario_duration": 481
+        },
+        {
+            "timestamp": "2020-04-20T22:12:40.081Z",
+            "scenario_duration": 410
+        },
+        {
+            "timestamp": "2020-04-20T22:44:00.076Z",
+            "scenario_duration": 566.9
+        },
+        {
+            "timestamp": "2020-04-20T23:15:07.519Z",
+            "scenario_duration": 549.4
+        },
+        {
+            "timestamp": "2020-04-20T23:46:07.041Z",
+            "scenario_duration": 552.3
+        },
+        {
+            "timestamp": "2020-04-21T00:17:20.612Z",
+            "scenario_duration": 476.70000000000005
+        },
+        {
+            "timestamp": "2020-04-21T00:48:30.636Z",
+            "scenario_duration": 528.4
+        },
+        {
+            "timestamp": "2020-04-21T01:20:03.653Z",
+            "scenario_duration": 573.7
+        },
+        {
+            "timestamp": "2020-04-21T01:51:26.212Z",
+            "scenario_duration": 585.3
+        },
+        {
+            "timestamp": "2020-04-21T02:22:37.250Z",
+            "scenario_duration": 670.1
+        },
+        {
+            "timestamp": "2020-04-21T02:53:41.262Z",
+            "scenario_duration": 736.7
+        },
+        {
+            "timestamp": "2020-04-21T03:24:42.786Z",
+            "scenario_duration": 592.7
+        },
+        {
+            "timestamp": "2020-04-21T03:55:45.269Z",
+            "scenario_duration": 529.5
+        },
+        {
+            "timestamp": "2020-04-21T04:26:55.842Z",
+            "scenario_duration": 500.4
+        },
+        {
+            "timestamp": "2020-04-21T04:58:34.871Z",
+            "scenario_duration": 531.2
+        },
+        {
+            "timestamp": "2020-04-21T05:30:05.055Z",
+            "scenario_duration": 474.4
+        },
+        {
+            "timestamp": "2020-04-21T06:01:19.590Z",
+            "scenario_duration": 577.4
+        },
+        {
+            "timestamp": "2020-04-21T06:32:36.133Z",
+            "scenario_duration": 658.2
+        },
+        {
+            "timestamp": "2020-04-21T07:03:51.840Z",
+            "scenario_duration": 625.9
+        },
+        {
+            "timestamp": "2020-04-21T07:35:12.427Z",
+            "scenario_duration": 603.3
+        },
+        {
+            "timestamp": "2020-04-21T08:06:19.039Z",
+            "scenario_duration": 493.20000000000005
+        },
+        {
+            "timestamp": "2020-04-21T08:37:25.183Z",
+            "scenario_duration": 511
+        },
+        {
+            "timestamp": "2020-04-21T09:08:46.327Z",
+            "scenario_duration": 642.6
+        },
+        {
+            "timestamp": "2020-04-21T09:40:01.936Z",
+            "scenario_duration": 478.6
+        },
+        {
+            "timestamp": "2020-04-21T10:11:10.519Z",
+            "scenario_duration": 681.9
+        },
+        {
+            "timestamp": "2020-04-21T10:42:19.171Z",
+            "scenario_duration": 547.8
+        },
+        {
+            "timestamp": "2020-04-21T11:13:39.838Z",
+            "scenario_duration": 691.6
+        },
+        {
+            "timestamp": "2020-04-21T11:45:18.427Z",
+            "scenario_duration": 534.2
+        },
+        {
+            "timestamp": "2020-04-21T12:17:08.590Z",
+            "scenario_duration": 676.9
+        },
+        {
+            "timestamp": "2020-04-21T12:48:29.209Z",
+            "scenario_duration": 469.29999999999995
+        },
+        {
+            "timestamp": "2020-04-21T13:19:40.345Z",
+            "scenario_duration": 633.4
+        },
+        {
+            "timestamp": "2020-04-21T13:50:46.381Z",
+            "scenario_duration": 507.6
+        },
+        {
+            "timestamp": "2020-04-21T14:22:00.542Z",
+            "scenario_duration": 593.3
+        },
+        {
+            "timestamp": "2020-04-21T14:53:36.146Z",
+            "scenario_duration": 641
+        },
+        {
+            "timestamp": "2020-04-21T15:24:42.859Z",
+            "scenario_duration": 598.9
+        },
+        {
+            "timestamp": "2020-04-21T15:55:53.491Z",
+            "scenario_duration": 549.2
+        },
+        {
+            "timestamp": "2020-04-21T16:27:01.087Z",
+            "scenario_duration": 647.2
+        },
+        {
+            "timestamp": "2020-04-21T16:58:14.449Z",
+            "scenario_duration": 565.2
+        },
+        {
+            "timestamp": "2020-04-21T17:29:32.340Z",
+            "scenario_duration": 498.79999999999995
+        },
+        {
+            "timestamp": "2020-04-21T18:00:44.137Z",
+            "scenario_duration": 594
+        },
+        {
+            "timestamp": "2020-04-21T18:31:51.250Z",
+            "scenario_duration": 575.9
+        },
+        {
+            "timestamp": "2020-04-21T19:02:55.931Z",
+            "scenario_duration": 634.3
+        },
+        {
+            "timestamp": "2020-04-21T19:33:58.964Z",
+            "scenario_duration": 527.4
+        },
+        {
+            "timestamp": "2020-04-21T20:05:06.107Z",
+            "scenario_duration": 547.9
+        },
+        {
+            "timestamp": "2020-04-21T20:36:17.857Z",
+            "scenario_duration": 577.6
+        },
+        {
+            "timestamp": "2020-04-21T21:07:39.032Z",
+            "scenario_duration": 502.70000000000005
+        },
+        {
+            "timestamp": "2020-04-21T21:38:54.670Z",
+            "scenario_duration": 606.9
+        },
+        {
+            "timestamp": "2020-04-21T22:10:11.865Z",
+            "scenario_duration": 482.6
+        },
+        {
+            "timestamp": "2020-04-21T22:41:15.569Z",
+            "scenario_duration": 536.3
+        },
+        {
+            "timestamp": "2020-04-21T23:12:39.813Z",
+            "scenario_duration": 570
+        },
+        {
+            "timestamp": "2020-04-21T23:43:42.487Z",
+            "scenario_duration": 605.6
+        },
+        {
+            "timestamp": "2020-04-22T00:15:29.801Z",
+            "scenario_duration": 462.4
+        },
+        {
+            "timestamp": "2020-04-22T00:46:37.508Z",
+            "scenario_duration": 651.4
+        },
+        {
+            "timestamp": "2020-04-22T01:17:46.228Z",
+            "scenario_duration": 568.5
+        },
+        {
+            "timestamp": "2020-04-22T01:48:48.502Z",
+            "scenario_duration": 530.9
+        },
+        {
+            "timestamp": "2020-04-22T02:19:59.232Z",
+            "scenario_duration": 498.9
+        },
+        {
+            "timestamp": "2020-04-22T02:51:04.957Z",
+            "scenario_duration": 535.5
+        },
+        {
+            "timestamp": "2020-04-22T03:22:12.122Z",
+            "scenario_duration": 490.79999999999995
+        },
+        {
+            "timestamp": "2020-04-22T03:53:16.821Z",
+            "scenario_duration": 543.8
+        },
+        {
+            "timestamp": "2020-04-22T04:24:26.510Z",
+            "scenario_duration": 528.8
+        },
+        {
+            "timestamp": "2020-04-22T04:55:37.226Z",
+            "scenario_duration": 566.8
+        },
+        {
+            "timestamp": "2020-04-22T05:26:48.514Z",
+            "scenario_duration": 490
+        },
+        {
+            "timestamp": "2020-04-22T05:57:58.298Z",
+            "scenario_duration": 532
+        },
+        {
+            "timestamp": "2020-04-22T06:29:09.679Z",
+            "scenario_duration": 748.8
+        }
+    ],
+    "coldstart_ms": [
+        {
+            "timestamp": "2020-04-18T18:37:16.174Z",
+            "scenario_duration": 10057.7
+        },
+        {
+            "timestamp": "2020-04-18T19:08:39.619Z",
+            "scenario_duration": 8587.2
+        },
+        {
+            "timestamp": "2020-04-18T19:39:46.360Z",
+            "scenario_duration": 10370.2
+        },
+        {
+            "timestamp": "2020-04-18T20:10:52.098Z",
+            "scenario_duration": 9703.5
+        },
+        {
+            "timestamp": "2020-04-18T20:42:01.847Z",
+            "scenario_duration": 10430.1
+        },
+        {
+            "timestamp": "2020-04-18T21:13:09.054Z",
+            "scenario_duration": 9661.2
+        },
+        {
+            "timestamp": "2020-04-18T21:44:15.834Z",
+            "scenario_duration": 10401
+        },
+        {
+            "timestamp": "2020-04-18T22:15:31.970Z",
+            "scenario_duration": 12042.3
+        },
+        {
+            "timestamp": "2020-04-18T22:46:38.602Z",
+            "scenario_duration": 9509.3
+        },
+        {
+            "timestamp": "2020-04-18T23:17:42.834Z",
+            "scenario_duration": 9525.2
+        },
+        {
+            "timestamp": "2020-04-18T23:48:46.954Z",
+            "scenario_duration": 9960.6
+        },
+        {
+            "timestamp": "2020-04-19T00:20:00.103Z",
+            "scenario_duration": 10377.8
+        },
+        {
+            "timestamp": "2020-04-19T00:51:58.204Z",
+            "scenario_duration": 9011.2
+        },
+        {
+            "timestamp": "2020-04-19T01:23:14.395Z",
+            "scenario_duration": 9609.7
+        },
+        {
+            "timestamp": "2020-04-19T01:54:22.943Z",
+            "scenario_duration": 10206.5
+        },
+        {
+            "timestamp": "2020-04-19T02:25:31.087Z",
+            "scenario_duration": 8975
+        },
+        {
+            "timestamp": "2020-04-19T02:56:39.719Z",
+            "scenario_duration": 10126
+        },
+        {
+            "timestamp": "2020-04-19T03:27:58.838Z",
+            "scenario_duration": 10473.5
+        },
+        {
+            "timestamp": "2020-04-19T03:59:51.961Z",
+            "scenario_duration": 9736.5
+        },
+        {
+            "timestamp": "2020-04-19T04:31:29.598Z",
+            "scenario_duration": 9896.3
+        },
+        {
+            "timestamp": "2020-04-19T05:02:41.720Z",
+            "scenario_duration": 9188.9
+        },
+        {
+            "timestamp": "2020-04-19T05:34:10.905Z",
+            "scenario_duration": 9400.1
+        },
+        {
+            "timestamp": "2020-04-19T06:05:45.115Z",
+            "scenario_duration": 10202.5
+        },
+        {
+            "timestamp": "2020-04-19T06:36:56.450Z",
+            "scenario_duration": 9236
+        },
+        {
+            "timestamp": "2020-04-19T07:08:17.676Z",
+            "scenario_duration": 16120.3
+        },
+        {
+            "timestamp": "2020-04-19T07:39:29.035Z",
+            "scenario_duration": 8831
+        },
+        {
+            "timestamp": "2020-04-19T08:10:49.407Z",
+            "scenario_duration": 9401.2
+        },
+        {
+            "timestamp": "2020-04-19T08:42:33.924Z",
+            "scenario_duration": 10486.6
+        },
+        {
+            "timestamp": "2020-04-19T09:13:40.275Z",
+            "scenario_duration": 9255.7
+        },
+        {
+            "timestamp": "2020-04-19T09:44:48.730Z",
+            "scenario_duration": 8880.3
+        },
+        {
+            "timestamp": "2020-04-19T10:16:11.075Z",
+            "scenario_duration": 9875.3
+        },
+        {
+            "timestamp": "2020-04-19T10:47:34.840Z",
+            "scenario_duration": 9064.1
+        },
+        {
+            "timestamp": "2020-04-19T12:44:37.482Z",
+            "scenario_duration": 9947.8
+        },
+        {
+            "timestamp": "2020-04-19T13:16:01.804Z",
+            "scenario_duration": 10432.6
+        },
+        {
+            "timestamp": "2020-04-19T13:47:12.981Z",
+            "scenario_duration": 9399.1
+        },
+        {
+            "timestamp": "2020-04-19T14:18:51.129Z",
+            "scenario_duration": 10078.9
+        },
+        {
+            "timestamp": "2020-04-19T14:50:03.248Z",
+            "scenario_duration": 9761.7
+        },
+        {
+            "timestamp": "2020-04-19T15:21:14.887Z",
+            "scenario_duration": 9467
+        },
+        {
+            "timestamp": "2020-04-19T15:52:27.072Z",
+            "scenario_duration": 9398.5
+        },
+        {
+            "timestamp": "2020-04-19T16:23:42.261Z",
+            "scenario_duration": 11060.1
+        },
+        {
+            "timestamp": "2020-04-19T16:54:56.866Z",
+            "scenario_duration": 8446
+        },
+        {
+            "timestamp": "2020-04-19T17:26:25.488Z",
+            "scenario_duration": 9213.5
+        },
+        {
+            "timestamp": "2020-04-19T17:57:35.137Z",
+            "scenario_duration": 10673.1
+        },
+        {
+            "timestamp": "2020-04-19T18:28:58.537Z",
+            "scenario_duration": 9891.6
+        },
+        {
+            "timestamp": "2020-04-19T19:00:16.402Z",
+            "scenario_duration": 10487.2
+        },
+        {
+            "timestamp": "2020-04-19T19:31:34.867Z",
+            "scenario_duration": 11032.7
+        },
+        {
+            "timestamp": "2020-04-19T20:02:47.944Z",
+            "scenario_duration": 9177
+        },
+        {
+            "timestamp": "2020-04-19T20:34:08.459Z",
+            "scenario_duration": 10411.7
+        },
+        {
+            "timestamp": "2020-04-19T21:05:31.006Z",
+            "scenario_duration": 9338
+        },
+        {
+            "timestamp": "2020-04-19T21:36:46.934Z",
+            "scenario_duration": 9494.8
+        },
+        {
+            "timestamp": "2020-04-19T22:08:13.477Z",
+            "scenario_duration": 10639.5
+        },
+        {
+            "timestamp": "2020-04-19T22:39:39.622Z",
+            "scenario_duration": 10118.9
+        },
+        {
+            "timestamp": "2020-04-19T23:10:50.499Z",
+            "scenario_duration": 8854.4
+        },
+        {
+            "timestamp": "2020-04-19T23:42:04.324Z",
+            "scenario_duration": 9294.8
+        },
+        {
+            "timestamp": "2020-04-20T00:13:34.452Z",
+            "scenario_duration": 10781.8
+        },
+        {
+            "timestamp": "2020-04-20T00:44:48.313Z",
+            "scenario_duration": 8822
+        },
+        {
+            "timestamp": "2020-04-20T01:16:04.172Z",
+            "scenario_duration": 9291.7
+        },
+        {
+            "timestamp": "2020-04-20T01:47:29.283Z",
+            "scenario_duration": 10159.7
+        },
+        {
+            "timestamp": "2020-04-20T02:18:56.938Z",
+            "scenario_duration": 9012.8
+        },
+        {
+            "timestamp": "2020-04-20T02:50:03.808Z",
+            "scenario_duration": 10911.6
+        },
+        {
+            "timestamp": "2020-04-20T03:21:36.161Z",
+            "scenario_duration": 25750.8
+        },
+        {
+            "timestamp": "2020-04-20T03:53:10.233Z",
+            "scenario_duration": 22066.6
+        },
+        {
+            "timestamp": "2020-04-20T04:24:39.203Z",
+            "scenario_duration": 9686.1
+        },
+        {
+            "timestamp": "2020-04-20T04:55:50.545Z",
+            "scenario_duration": 9426.9
+        },
+        {
+            "timestamp": "2020-04-20T05:26:55.814Z",
+            "scenario_duration": 9570.1
+        },
+        {
+            "timestamp": "2020-04-20T05:58:02.608Z",
+            "scenario_duration": 9922.5
+        },
+        {
+            "timestamp": "2020-04-20T06:29:11.915Z",
+            "scenario_duration": 9875.3
+        },
+        {
+            "timestamp": "2020-04-20T07:00:38.364Z",
+            "scenario_duration": 10038.7
+        },
+        {
+            "timestamp": "2020-04-20T07:32:01.735Z",
+            "scenario_duration": 9725
+        },
+        {
+            "timestamp": "2020-04-20T08:03:23.153Z",
+            "scenario_duration": 11357.2
+        },
+        {
+            "timestamp": "2020-04-20T08:34:33.921Z",
+            "scenario_duration": 10515.5
+        },
+        {
+            "timestamp": "2020-04-20T09:05:42.816Z",
+            "scenario_duration": 10373.6
+        },
+        {
+            "timestamp": "2020-04-20T09:37:02.315Z",
+            "scenario_duration": 9402.5
+        },
+        {
+            "timestamp": "2020-04-20T10:08:29.297Z",
+            "scenario_duration": 10318.5
+        },
+        {
+            "timestamp": "2020-04-20T10:39:37.623Z",
+            "scenario_duration": 9994.5
+        },
+        {
+            "timestamp": "2020-04-20T11:10:48.352Z",
+            "scenario_duration": 13273.1
+        },
+        {
+            "timestamp": "2020-04-20T11:41:51.348Z",
+            "scenario_duration": 8916.6
+        },
+        {
+            "timestamp": "2020-04-20T12:13:13.843Z",
+            "scenario_duration": 9562.1
+        },
+        {
+            "timestamp": "2020-04-20T12:44:52.905Z",
+            "scenario_duration": 9994.3
+        },
+        {
+            "timestamp": "2020-04-20T13:16:15.395Z",
+            "scenario_duration": 10656.1
+        },
+        {
+            "timestamp": "2020-04-20T13:48:31.343Z",
+            "scenario_duration": 9065.2
+        },
+        {
+            "timestamp": "2020-04-20T14:19:51.825Z",
+            "scenario_duration": 10178.3
+        },
+        {
+            "timestamp": "2020-04-20T14:51:12.229Z",
+            "scenario_duration": 10701.1
+        },
+        {
+            "timestamp": "2020-04-20T15:22:43.243Z",
+            "scenario_duration": 9549.5
+        },
+        {
+            "timestamp": "2020-04-20T15:54:14.284Z",
+            "scenario_duration": 10518.8
+        },
+        {
+            "timestamp": "2020-04-20T16:26:01.317Z",
+            "scenario_duration": 8635.9
+        },
+        {
+            "timestamp": "2020-04-20T16:57:38.534Z",
+            "scenario_duration": 9369.7
+        },
+        {
+            "timestamp": "2020-04-20T17:29:20.481Z",
+            "scenario_duration": 9914.5
+        },
+        {
+            "timestamp": "2020-04-20T18:00:55.354Z",
+            "scenario_duration": 9648.3
+        },
+        {
+            "timestamp": "2020-04-20T18:32:45.340Z",
+            "scenario_duration": 9257.7
+        },
+        {
+            "timestamp": "2020-04-20T19:04:30.270Z",
+            "scenario_duration": 9372.2
+        },
+        {
+            "timestamp": "2020-04-20T19:35:45.706Z",
+            "scenario_duration": 9626.8
+        },
+        {
+            "timestamp": "2020-04-20T20:07:06.622Z",
+            "scenario_duration": 11429.6
+        },
+        {
+            "timestamp": "2020-04-20T20:38:17.088Z",
+            "scenario_duration": 9857.7
+        },
+        {
+            "timestamp": "2020-04-20T21:09:39.123Z",
+            "scenario_duration": 9636.7
+        },
+        {
+            "timestamp": "2020-04-20T21:40:36.114Z",
+            "scenario_duration": 9353.5
+        },
+        {
+            "timestamp": "2020-04-20T22:12:06.671Z",
+            "scenario_duration": 10351.1
+        },
+        {
+            "timestamp": "2020-04-20T22:43:26.688Z",
+            "scenario_duration": 10485.5
+        },
+        {
+            "timestamp": "2020-04-20T23:14:34.125Z",
+            "scenario_duration": 10070
+        },
+        {
+            "timestamp": "2020-04-20T23:45:33.650Z",
+            "scenario_duration": 8817.8
+        },
+        {
+            "timestamp": "2020-04-21T00:16:47.222Z",
+            "scenario_duration": 10952.6
+        },
+        {
+            "timestamp": "2020-04-21T00:47:57.244Z",
+            "scenario_duration": 10597
+        },
+        {
+            "timestamp": "2020-04-21T01:19:30.190Z",
+            "scenario_duration": 9869.9
+        },
+        {
+            "timestamp": "2020-04-21T01:50:52.775Z",
+            "scenario_duration": 9272.1
+        },
+        {
+            "timestamp": "2020-04-21T02:22:03.848Z",
+            "scenario_duration": 10584.8
+        },
+        {
+            "timestamp": "2020-04-21T02:53:07.855Z",
+            "scenario_duration": 10391.2
+        },
+        {
+            "timestamp": "2020-04-21T03:24:09.350Z",
+            "scenario_duration": 10045.5
+        },
+        {
+            "timestamp": "2020-04-21T03:55:11.848Z",
+            "scenario_duration": 11407.5
+        },
+        {
+            "timestamp": "2020-04-21T04:26:22.410Z",
+            "scenario_duration": 13097.2
+        },
+        {
+            "timestamp": "2020-04-21T04:58:01.473Z",
+            "scenario_duration": 9607.3
+        },
+        {
+            "timestamp": "2020-04-21T05:29:31.636Z",
+            "scenario_duration": 11546.5
+        },
+        {
+            "timestamp": "2020-04-21T06:00:46.198Z",
+            "scenario_duration": 11091.8
+        },
+        {
+            "timestamp": "2020-04-21T06:32:02.724Z",
+            "scenario_duration": 11382.9
+        },
+        {
+            "timestamp": "2020-04-21T07:03:18.409Z",
+            "scenario_duration": 9498.9
+        },
+        {
+            "timestamp": "2020-04-21T07:34:39.010Z",
+            "scenario_duration": 11591.3
+        },
+        {
+            "timestamp": "2020-04-21T08:05:45.628Z",
+            "scenario_duration": 10780.4
+        },
+        {
+            "timestamp": "2020-04-21T08:36:51.761Z",
+            "scenario_duration": 9687.9
+        },
+        {
+            "timestamp": "2020-04-21T09:08:12.868Z",
+            "scenario_duration": 10526.4
+        },
+        {
+            "timestamp": "2020-04-21T09:39:28.505Z",
+            "scenario_duration": 9992.7
+        },
+        {
+            "timestamp": "2020-04-21T10:10:37.097Z",
+            "scenario_duration": 9310.3
+        },
+        {
+            "timestamp": "2020-04-21T10:41:45.761Z",
+            "scenario_duration": 11786.4
+        },
+        {
+            "timestamp": "2020-04-21T11:13:06.415Z",
+            "scenario_duration": 10219.6
+        },
+        {
+            "timestamp": "2020-04-21T11:44:45.016Z",
+            "scenario_duration": 9750.1
+        },
+        {
+            "timestamp": "2020-04-21T12:16:35.153Z",
+            "scenario_duration": 10256.4
+        },
+        {
+            "timestamp": "2020-04-21T12:47:55.797Z",
+            "scenario_duration": 9693.1
+        },
+        {
+            "timestamp": "2020-04-21T13:19:06.902Z",
+            "scenario_duration": 8972
+        },
+        {
+            "timestamp": "2020-04-21T13:50:12.975Z",
+            "scenario_duration": 10549.6
+        },
+        {
+            "timestamp": "2020-04-21T14:21:27.125Z",
+            "scenario_duration": 9596.7
+        },
+        {
+            "timestamp": "2020-04-21T14:53:02.711Z",
+            "scenario_duration": 12358.6
+        },
+        {
+            "timestamp": "2020-04-21T15:24:09.409Z",
+            "scenario_duration": 9824.9
+        },
+        {
+            "timestamp": "2020-04-21T15:55:20.067Z",
+            "scenario_duration": 8698.1
+        },
+        {
+            "timestamp": "2020-04-21T16:26:27.681Z",
+            "scenario_duration": 9604.7
+        },
+        {
+            "timestamp": "2020-04-21T16:57:39.788Z",
+            "scenario_duration": 10813.5
+        },
+        {
+            "timestamp": "2020-04-21T17:28:58.641Z",
+            "scenario_duration": 20571.4
+        },
+        {
+            "timestamp": "2020-04-21T18:00:09.721Z",
+            "scenario_duration": 10166.8
+        },
+        {
+            "timestamp": "2020-04-21T18:31:17.801Z",
+            "scenario_duration": 11022.9
+        },
+        {
+            "timestamp": "2020-04-21T19:02:22.252Z",
+            "scenario_duration": 9891.6
+        },
+        {
+            "timestamp": "2020-04-21T19:33:25.504Z",
+            "scenario_duration": 9268
+        },
+        {
+            "timestamp": "2020-04-21T20:04:32.661Z",
+            "scenario_duration": 10952.4
+        },
+        {
+            "timestamp": "2020-04-21T20:35:44.434Z",
+            "scenario_duration": 10290.7
+        },
+        {
+            "timestamp": "2020-04-21T21:07:05.614Z",
+            "scenario_duration": 11792.8
+        },
+        {
+            "timestamp": "2020-04-21T21:38:21.229Z",
+            "scenario_duration": 11355.3
+        },
+        {
+            "timestamp": "2020-04-21T22:09:38.450Z",
+            "scenario_duration": 9625.7
+        },
+        {
+            "timestamp": "2020-04-21T22:40:42.135Z",
+            "scenario_duration": 9073.5
+        },
+        {
+            "timestamp": "2020-04-21T23:12:06.354Z",
+            "scenario_duration": 13690
+        },
+        {
+            "timestamp": "2020-04-21T23:43:09.061Z",
+            "scenario_duration": 9952.5
+        },
+        {
+            "timestamp": "2020-04-22T00:14:56.363Z",
+            "scenario_duration": 9029.7
+        },
+        {
+            "timestamp": "2020-04-22T00:46:04.079Z",
+            "scenario_duration": 9361.2
+        },
+        {
+            "timestamp": "2020-04-22T01:17:12.796Z",
+            "scenario_duration": 10372.2
+        },
+        {
+            "timestamp": "2020-04-22T01:48:15.067Z",
+            "scenario_duration": 10005.2
+        },
+        {
+            "timestamp": "2020-04-22T02:19:25.781Z",
+            "scenario_duration": 9459.5
+        },
+        {
+            "timestamp": "2020-04-22T02:50:31.502Z",
+            "scenario_duration": 10197.8
+        },
+        {
+            "timestamp": "2020-04-22T03:21:38.705Z",
+            "scenario_duration": 9192.5
+        },
+        {
+            "timestamp": "2020-04-22T03:52:43.400Z",
+            "scenario_duration": 9281.2
+        },
+        {
+            "timestamp": "2020-04-22T04:23:53.072Z",
+            "scenario_duration": 10009.9
+        },
+        {
+            "timestamp": "2020-04-22T04:55:03.811Z",
+            "scenario_duration": 10406.5
+        },
+        {
+            "timestamp": "2020-04-22T05:26:15.063Z",
+            "scenario_duration": 9763.4
+        },
+        {
+            "timestamp": "2020-04-22T05:57:24.858Z",
+            "scenario_duration": 9524.5
+        },
+        {
+            "timestamp": "2020-04-22T06:28:36.172Z",
+            "scenario_duration": 10956.6
+        }
+    ],
+    "monolith": [
+        {
+            "timestamp": "2020-04-18T18:38:25.614Z",
+            "scenario_duration": 327.20000000000005
+        },
+        {
+            "timestamp": "2020-04-18T19:09:47.898Z",
+            "scenario_duration": 309.2
+        },
+        {
+            "timestamp": "2020-04-18T19:40:52.586Z",
+            "scenario_duration": 297.1
+        },
+        {
+            "timestamp": "2020-04-18T20:11:58.337Z",
+            "scenario_duration": 272.1
+        },
+        {
+            "timestamp": "2020-04-18T20:43:08.066Z",
+            "scenario_duration": 258.2
+        },
+        {
+            "timestamp": "2020-04-18T21:14:15.277Z",
+            "scenario_duration": 312.5
+        },
+        {
+            "timestamp": "2020-04-18T21:45:22.062Z",
+            "scenario_duration": 268.1
+        },
+        {
+            "timestamp": "2020-04-18T22:16:38.655Z",
+            "scenario_duration": 326.5
+        },
+        {
+            "timestamp": "2020-04-18T22:47:45.371Z",
+            "scenario_duration": 315.20000000000005
+        },
+        {
+            "timestamp": "2020-04-18T23:18:49.066Z",
+            "scenario_duration": 304.3
+        },
+        {
+            "timestamp": "2020-04-18T23:49:53.688Z",
+            "scenario_duration": 333.29999999999995
+        },
+        {
+            "timestamp": "2020-04-19T00:21:06.796Z",
+            "scenario_duration": 317.5
+        },
+        {
+            "timestamp": "2020-04-19T00:53:04.424Z",
+            "scenario_duration": 291.4
+        },
+        {
+            "timestamp": "2020-04-19T01:24:20.606Z",
+            "scenario_duration": 303.1
+        },
+        {
+            "timestamp": "2020-04-19T01:55:29.168Z",
+            "scenario_duration": 285.1
+        },
+        {
+            "timestamp": "2020-04-19T02:26:37.809Z",
+            "scenario_duration": 314.20000000000005
+        },
+        {
+            "timestamp": "2020-04-19T02:57:45.918Z",
+            "scenario_duration": 289.9
+        },
+        {
+            "timestamp": "2020-04-19T03:29:05.047Z",
+            "scenario_duration": 280.5
+        },
+        {
+            "timestamp": "2020-04-19T04:00:58.696Z",
+            "scenario_duration": 312.9
+        },
+        {
+            "timestamp": "2020-04-19T04:32:35.798Z",
+            "scenario_duration": 302.3
+        },
+        {
+            "timestamp": "2020-04-19T05:03:47.921Z",
+            "scenario_duration": 288
+        },
+        {
+            "timestamp": "2020-04-19T05:35:17.628Z",
+            "scenario_duration": 317.9
+        },
+        {
+            "timestamp": "2020-04-19T06:06:51.316Z",
+            "scenario_duration": 292
+        },
+        {
+            "timestamp": "2020-04-19T06:38:03.157Z",
+            "scenario_duration": 392.9
+        },
+        {
+            "timestamp": "2020-04-19T07:09:27.389Z",
+            "scenario_duration": 295.6
+        },
+        {
+            "timestamp": "2020-04-19T07:40:35.297Z",
+            "scenario_duration": 304.4
+        },
+        {
+            "timestamp": "2020-04-19T08:11:57.848Z",
+            "scenario_duration": 332.1
+        },
+        {
+            "timestamp": "2020-04-19T08:43:40.219Z",
+            "scenario_duration": 305
+        },
+        {
+            "timestamp": "2020-04-19T09:14:46.559Z",
+            "scenario_duration": 269.7
+        },
+        {
+            "timestamp": "2020-04-19T09:45:54.985Z",
+            "scenario_duration": 281.1
+        },
+        {
+            "timestamp": "2020-04-19T10:17:17.353Z",
+            "scenario_duration": 270.5
+        },
+        {
+            "timestamp": "2020-04-19T10:48:44.244Z",
+            "scenario_duration": 357.70000000000005
+        },
+        {
+            "timestamp": "2020-04-19T12:45:45.263Z",
+            "scenario_duration": 350.29999999999995
+        },
+        {
+            "timestamp": "2020-04-19T13:17:08.039Z",
+            "scenario_duration": 285
+        },
+        {
+            "timestamp": "2020-04-19T13:48:19.677Z",
+            "scenario_duration": 360.29999999999995
+        },
+        {
+            "timestamp": "2020-04-19T14:19:57.839Z",
+            "scenario_duration": 315.6
+        },
+        {
+            "timestamp": "2020-04-19T14:51:09.471Z",
+            "scenario_duration": 312.6
+        },
+        {
+            "timestamp": "2020-04-19T15:22:21.125Z",
+            "scenario_duration": 279.2
+        },
+        {
+            "timestamp": "2020-04-19T15:53:33.295Z",
+            "scenario_duration": 271.7
+        },
+        {
+            "timestamp": "2020-04-19T16:24:48.485Z",
+            "scenario_duration": 290.9
+        },
+        {
+            "timestamp": "2020-04-19T16:56:03.088Z",
+            "scenario_duration": 302
+        },
+        {
+            "timestamp": "2020-04-19T17:27:31.704Z",
+            "scenario_duration": 282.6
+        },
+        {
+            "timestamp": "2020-04-19T17:58:41.367Z",
+            "scenario_duration": 290.2
+        },
+        {
+            "timestamp": "2020-04-19T18:30:06.757Z",
+            "scenario_duration": 337.29999999999995
+        },
+        {
+            "timestamp": "2020-04-19T19:01:24.640Z",
+            "scenario_duration": 339.1
+        },
+        {
+            "timestamp": "2020-04-19T19:32:44.778Z",
+            "scenario_duration": 335.20000000000005
+        },
+        {
+            "timestamp": "2020-04-19T20:03:56.163Z",
+            "scenario_duration": 345.29999999999995
+        },
+        {
+            "timestamp": "2020-04-19T20:35:14.670Z",
+            "scenario_duration": 295.1
+        },
+        {
+            "timestamp": "2020-04-19T21:06:37.249Z",
+            "scenario_duration": 289.9
+        },
+        {
+            "timestamp": "2020-04-19T21:37:53.673Z",
+            "scenario_duration": 319.1
+        },
+        {
+            "timestamp": "2020-04-19T22:09:19.687Z",
+            "scenario_duration": 314.29999999999995
+        },
+        {
+            "timestamp": "2020-04-19T22:40:45.821Z",
+            "scenario_duration": 293.2
+        },
+        {
+            "timestamp": "2020-04-19T23:11:56.658Z",
+            "scenario_duration": 310.1
+        },
+        {
+            "timestamp": "2020-04-19T23:43:11.109Z",
+            "scenario_duration": 320
+        },
+        {
+            "timestamp": "2020-04-20T00:14:41.158Z",
+            "scenario_duration": 325.6
+        },
+        {
+            "timestamp": "2020-04-20T00:45:54.543Z",
+            "scenario_duration": 301.8
+        },
+        {
+            "timestamp": "2020-04-20T01:17:10.949Z",
+            "scenario_duration": 352
+        },
+        {
+            "timestamp": "2020-04-20T01:48:36.084Z",
+            "scenario_duration": 343.9
+        },
+        {
+            "timestamp": "2020-04-20T02:20:03.178Z",
+            "scenario_duration": 301.6
+        },
+        {
+            "timestamp": "2020-04-20T02:51:10.102Z",
+            "scenario_duration": 285
+        },
+        {
+            "timestamp": "2020-04-20T03:22:42.379Z",
+            "scenario_duration": 282
+        },
+        {
+            "timestamp": "2020-04-20T03:54:16.515Z",
+            "scenario_duration": 312.29999999999995
+        },
+        {
+            "timestamp": "2020-04-20T04:25:45.476Z",
+            "scenario_duration": 294.6
+        },
+        {
+            "timestamp": "2020-04-20T04:56:56.809Z",
+            "scenario_duration": 288.1
+        },
+        {
+            "timestamp": "2020-04-20T05:28:02.549Z",
+            "scenario_duration": 325.70000000000005
+        },
+        {
+            "timestamp": "2020-04-20T05:59:08.853Z",
+            "scenario_duration": 288.4
+        },
+        {
+            "timestamp": "2020-04-20T06:30:18.640Z",
+            "scenario_duration": 352.5
+        },
+        {
+            "timestamp": "2020-04-20T07:01:44.611Z",
+            "scenario_duration": 300.3
+        },
+        {
+            "timestamp": "2020-04-20T07:33:08.006Z",
+            "scenario_duration": 271.4
+        },
+        {
+            "timestamp": "2020-04-20T08:04:29.391Z",
+            "scenario_duration": 286.4
+        },
+        {
+            "timestamp": "2020-04-20T08:35:40.714Z",
+            "scenario_duration": 330.1
+        },
+        {
+            "timestamp": "2020-04-20T09:06:49.571Z",
+            "scenario_duration": 340.70000000000005
+        },
+        {
+            "timestamp": "2020-04-20T09:38:09.093Z",
+            "scenario_duration": 359.20000000000005
+        },
+        {
+            "timestamp": "2020-04-20T10:09:35.529Z",
+            "scenario_duration": 276.5
+        },
+        {
+            "timestamp": "2020-04-20T10:40:43.910Z",
+            "scenario_duration": 297.6
+        },
+        {
+            "timestamp": "2020-04-20T11:11:54.584Z",
+            "scenario_duration": 306.4
+        },
+        {
+            "timestamp": "2020-04-20T11:42:57.631Z",
+            "scenario_duration": 293
+        },
+        {
+            "timestamp": "2020-04-20T12:14:20.125Z",
+            "scenario_duration": 296.9
+        },
+        {
+            "timestamp": "2020-04-20T12:45:59.150Z",
+            "scenario_duration": 280.3
+        },
+        {
+            "timestamp": "2020-04-20T13:17:21.631Z",
+            "scenario_duration": 287.1
+        },
+        {
+            "timestamp": "2020-04-20T13:49:37.604Z",
+            "scenario_duration": 249.39999999999998
+        },
+        {
+            "timestamp": "2020-04-20T14:20:58.087Z",
+            "scenario_duration": 288.5
+        },
+        {
+            "timestamp": "2020-04-20T14:52:18.964Z",
+            "scenario_duration": 328.6
+        },
+        {
+            "timestamp": "2020-04-20T15:23:53.152Z",
+            "scenario_duration": 410.29999999999995
+        },
+        {
+            "timestamp": "2020-04-20T15:55:23.395Z",
+            "scenario_duration": 365.9
+        },
+        {
+            "timestamp": "2020-04-20T16:27:09.384Z",
+            "scenario_duration": 316
+        },
+        {
+            "timestamp": "2020-04-20T16:58:44.850Z",
+            "scenario_duration": 297.3
+        },
+        {
+            "timestamp": "2020-04-20T17:30:26.767Z",
+            "scenario_duration": 308.3
+        },
+        {
+            "timestamp": "2020-04-20T18:02:01.702Z",
+            "scenario_duration": 301.4
+        },
+        {
+            "timestamp": "2020-04-20T18:33:52.119Z",
+            "scenario_duration": 338.4
+        },
+        {
+            "timestamp": "2020-04-20T19:05:36.560Z",
+            "scenario_duration": 306.5
+        },
+        {
+            "timestamp": "2020-04-20T19:36:51.984Z",
+            "scenario_duration": 284.8
+        },
+        {
+            "timestamp": "2020-04-20T20:08:13.436Z",
+            "scenario_duration": 317.70000000000005
+        },
+        {
+            "timestamp": "2020-04-20T20:39:23.886Z",
+            "scenario_duration": 325
+        },
+        {
+            "timestamp": "2020-04-20T21:10:45.468Z",
+            "scenario_duration": 305
+        },
+        {
+            "timestamp": "2020-04-20T21:41:42.421Z",
+            "scenario_duration": 299.1
+        },
+        {
+            "timestamp": "2020-04-20T22:13:13.004Z",
+            "scenario_duration": 287
+        },
+        {
+            "timestamp": "2020-04-20T22:44:32.967Z",
+            "scenario_duration": 297
+        },
+        {
+            "timestamp": "2020-04-20T23:15:40.441Z",
+            "scenario_duration": 297.2
+        },
+        {
+            "timestamp": "2020-04-20T23:46:40.460Z",
+            "scenario_duration": 329
+        },
+        {
+            "timestamp": "2020-04-21T00:17:53.539Z",
+            "scenario_duration": 292.7
+        },
+        {
+            "timestamp": "2020-04-21T00:49:03.545Z",
+            "scenario_duration": 291.5
+        },
+        {
+            "timestamp": "2020-04-21T01:20:36.559Z",
+            "scenario_duration": 290.2
+        },
+        {
+            "timestamp": "2020-04-21T01:51:59.606Z",
+            "scenario_duration": 320.29999999999995
+        },
+        {
+            "timestamp": "2020-04-21T02:23:10.655Z",
+            "scenario_duration": 366.1
+        },
+        {
+            "timestamp": "2020-04-21T02:54:14.178Z",
+            "scenario_duration": 300.4
+        },
+        {
+            "timestamp": "2020-04-21T03:25:16.178Z",
+            "scenario_duration": 321.1
+        },
+        {
+            "timestamp": "2020-04-21T03:56:18.683Z",
+            "scenario_duration": 337.20000000000005
+        },
+        {
+            "timestamp": "2020-04-21T04:27:29.269Z",
+            "scenario_duration": 315.70000000000005
+        },
+        {
+            "timestamp": "2020-04-21T04:59:07.788Z",
+            "scenario_duration": 303
+        },
+        {
+            "timestamp": "2020-04-21T05:30:37.964Z",
+            "scenario_duration": 277.9
+        },
+        {
+            "timestamp": "2020-04-21T06:01:52.521Z",
+            "scenario_duration": 288.2
+        },
+        {
+            "timestamp": "2020-04-21T06:33:09.553Z",
+            "scenario_duration": 369.70000000000005
+        },
+        {
+            "timestamp": "2020-04-21T07:04:25.254Z",
+            "scenario_duration": 353
+        },
+        {
+            "timestamp": "2020-04-21T07:35:45.872Z",
+            "scenario_duration": 322.9
+        },
+        {
+            "timestamp": "2020-04-21T08:06:51.962Z",
+            "scenario_duration": 273.8
+        },
+        {
+            "timestamp": "2020-04-21T08:37:58.105Z",
+            "scenario_duration": 289.7
+        },
+        {
+            "timestamp": "2020-04-21T09:09:19.242Z",
+            "scenario_duration": 251.8
+        },
+        {
+            "timestamp": "2020-04-21T09:40:34.895Z",
+            "scenario_duration": 289.7
+        },
+        {
+            "timestamp": "2020-04-21T10:11:43.471Z",
+            "scenario_duration": 277.6
+        },
+        {
+            "timestamp": "2020-04-21T10:42:52.071Z",
+            "scenario_duration": 248.2
+        },
+        {
+            "timestamp": "2020-04-21T11:14:12.757Z",
+            "scenario_duration": 278.7
+        },
+        {
+            "timestamp": "2020-04-21T11:45:51.349Z",
+            "scenario_duration": 307
+        },
+        {
+            "timestamp": "2020-04-21T12:17:41.514Z",
+            "scenario_duration": 294.5
+        },
+        {
+            "timestamp": "2020-04-21T12:49:02.147Z",
+            "scenario_duration": 278
+        },
+        {
+            "timestamp": "2020-04-21T13:20:13.263Z",
+            "scenario_duration": 303.8
+        },
+        {
+            "timestamp": "2020-04-21T13:51:19.805Z",
+            "scenario_duration": 335.79999999999995
+        },
+        {
+            "timestamp": "2020-04-21T14:22:33.481Z",
+            "scenario_duration": 292.2
+        },
+        {
+            "timestamp": "2020-04-21T14:54:09.092Z",
+            "scenario_duration": 295.4
+        },
+        {
+            "timestamp": "2020-04-21T15:25:16.256Z",
+            "scenario_duration": 319.79999999999995
+        },
+        {
+            "timestamp": "2020-04-21T15:56:26.925Z",
+            "scenario_duration": 317.79999999999995
+        },
+        {
+            "timestamp": "2020-04-21T16:27:34.035Z",
+            "scenario_duration": 298.3
+        },
+        {
+            "timestamp": "2020-04-21T16:58:49.197Z",
+            "scenario_duration": 385.20000000000005
+        },
+        {
+            "timestamp": "2020-04-21T17:30:05.995Z",
+            "scenario_duration": 313.9
+        },
+        {
+            "timestamp": "2020-04-21T18:01:17.966Z",
+            "scenario_duration": 313.6
+        },
+        {
+            "timestamp": "2020-04-21T18:32:24.172Z",
+            "scenario_duration": 299.7
+        },
+        {
+            "timestamp": "2020-04-21T19:03:29.561Z",
+            "scenario_duration": 317.9
+        },
+        {
+            "timestamp": "2020-04-21T19:34:31.892Z",
+            "scenario_duration": 304.4
+        },
+        {
+            "timestamp": "2020-04-21T20:05:39.544Z",
+            "scenario_duration": 352
+        },
+        {
+            "timestamp": "2020-04-21T20:36:51.287Z",
+            "scenario_duration": 344.4
+        },
+        {
+            "timestamp": "2020-04-21T21:08:12.459Z",
+            "scenario_duration": 353.1
+        },
+        {
+            "timestamp": "2020-04-21T21:39:28.103Z",
+            "scenario_duration": 337.20000000000005
+        },
+        {
+            "timestamp": "2020-04-21T22:10:44.814Z",
+            "scenario_duration": 309.3
+        },
+        {
+            "timestamp": "2020-04-21T23:13:13.248Z",
+            "scenario_duration": 411.79999999999995
+        },
+        {
+            "timestamp": "2020-04-21T23:44:15.444Z",
+            "scenario_duration": 293.4
+        },
+        {
+            "timestamp": "2020-04-22T00:16:03.244Z",
+            "scenario_duration": 329.9
+        },
+        {
+            "timestamp": "2020-04-22T00:47:10.482Z",
+            "scenario_duration": 310.8
+        },
+        {
+            "timestamp": "2020-04-22T01:18:19.162Z",
+            "scenario_duration": 301.1
+        },
+        {
+            "timestamp": "2020-04-22T01:49:21.939Z",
+            "scenario_duration": 317.70000000000005
+        },
+        {
+            "timestamp": "2020-04-22T02:20:32.666Z",
+            "scenario_duration": 325
+        },
+        {
+            "timestamp": "2020-04-22T02:51:38.364Z",
+            "scenario_duration": 312.79999999999995
+        },
+        {
+            "timestamp": "2020-04-22T03:22:45.544Z",
+            "scenario_duration": 326.29999999999995
+        },
+        {
+            "timestamp": "2020-04-22T03:53:49.743Z",
+            "scenario_duration": 294.6
+        },
+        {
+            "timestamp": "2020-04-22T04:24:59.949Z",
+            "scenario_duration": 346.1
+        },
+        {
+            "timestamp": "2020-04-22T04:56:10.652Z",
+            "scenario_duration": 324.29999999999995
+        },
+        {
+            "timestamp": "2020-04-22T05:27:21.469Z",
+            "scenario_duration": 301
+        },
+        {
+            "timestamp": "2020-04-22T05:58:31.766Z",
+            "scenario_duration": 331.70000000000005
+        },
+        {
+            "timestamp": "2020-04-22T06:29:43.130Z",
+            "scenario_duration": 405.9
+        }
+    ]
+}
