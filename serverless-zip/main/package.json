@@ -13,7 +13,7 @@
   "dependencies": {
     "mongoose": "^5.9.2",
     "moongoose": "0.0.5",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {
     "serverless-azure-functions": "^1.0.0"
